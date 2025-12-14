@@ -3,7 +3,7 @@ Processed on: 2025-12-14T15:55:13.766372
 
 
 
-## Chunk 1
+## Chunk 1 (Original Pages 1-5)
 
 ## 斯贝MK202发动机
 
@@ -11,7 +11,7 @@ Processed on: 2025-12-14T15:55:13.766372
 
 第二分册
 
-![](images/704b4a48ef1cc2c87ec50424eb4f0fad091f0dfa813fcc7e0d962c75d4c280d0.jpg)
+![](extracted_chunk_001/images/704b4a48ef1cc2c87ec50424eb4f0fad091f0dfa813fcc7e0d962c75d4c280d0.jpg)
 
 ## 斯贝MK202发动机
 
@@ -60,7 +60,7 @@ Processed on: 2025-12-14T15:55:13.766372
 
 
 
-## Chunk 2
+## Chunk 2 (Original Pages 6-10)
 
 # 第二分册目录
 
@@ -256,7 +256,7 @@ N = \frac { 9 . 6 7 \times 2 \pi } { \textrm { D } + 0 . 5 7 }
 
 
 
-## Chunk 3
+## Chunk 3 (Original Pages 11-15)
 
 ## 4.2中间区
 
@@ -436,15 +436,15 @@ x2 供气环腔的水力直径 \(= 4 \times\) 流通面积/润周
 
 由于金属壁温T是未知数，所以热平衡方程采用逐次逼近法求解。由于计算量很大，求解过程通常在数字计算机上进行。
 
-![](images/e9a7687b0e5564e59cd12c0f00f5220c4e68644ff5aedb3a5e0169e768f02d42.jpg)  
+![](extracted_chunk_003/images/e9a7687b0e5564e59cd12c0f00f5220c4e68644ff5aedb3a5e0169e768f02d42.jpg)  
 图1斯贝MK202燃烧室内的流谱图
 
-![](images/fa42cba1ad0f6df591d22f49585b45dba586d4c8dd07904b2f6d57eed4750856.jpg)  
+![](extracted_chunk_003/images/fa42cba1ad0f6df591d22f49585b45dba586d4c8dd07904b2f6d57eed4750856.jpg)  
 图2斯贝MK202燃烧室的流量分配
 
 
 
-## Chunk 4
+## Chunk 4 (Original Pages 16-20)
 
 1976.9.20第1版  
 
@@ -474,11 +474,11 @@ x2 供气环腔的水力直径 \(= 4 \times\) 流通面积/润周
 
 \(\mathrm { A } _ { \mathrm { p } }\) 旋流槽孔面积英寸2D 旋流室直径英寸d 喷口真径英寸\(\mathbb { L }\) 旋流室长度英寸\(\boldsymbol { \mathsf { r } } _ { 1 }\) 喷口半径（d/2） 英寸1 喷口长度英寸r2 旋流槽孔的偏移半径英寸雷诺数 \(\operatorname { R e } = { \frac { \operatorname { V d } \rho } { \mu } }\) 式中：V速度
 
-![](images/1dc18cc72ca637c9758a7084f15bfac0fadccefeaad73dd218f8b23f0d32213f.jpg)
+![](extracted_chunk_004/images/1dc18cc72ca637c9758a7084f15bfac0fadccefeaad73dd218f8b23f0d32213f.jpg)
 
 \(\rho\) 密度\(\mu\) 运动粘度d 特征尺寸
 
-![](images/827c43db716d83dd9da89f2bbd207e21c51000bd223895f8d0bd3c4d9afc0e38.jpg)
+![](extracted_chunk_004/images/827c43db716d83dd9da89f2bbd207e21c51000bd223895f8d0bd3c4d9afc0e38.jpg)
 
 ### 设计规则的推导
 
@@ -613,13 +613,13 @@ Radcliffe的研究工作与罗尔斯 \(.\) 罗伊斯公司的Carlisle的实验�
 
 
 
-## Chunk 5
+## Chunk 5 (Original Pages 21-25)
 
 （8）间隙
 
 为使旋流室有平滑的燃油进口，必须保证旋流室直径和切向槽边缘之间有 \(0 . 0 0 2 { \sim } 0 . 0 0 3\) 英寸的间隙。
 
-![](images/c77f6777cd2f023f943ea06c067b4130a601794413d02ccaad614380f3152a5d.jpg)
+![](extracted_chunk_005/images/c77f6777cd2f023f943ea06c067b4130a601794413d02ccaad614380f3152a5d.jpg)
 
 （9）同心度
 
@@ -729,11 +729,11 @@ Radcliffe的研究工作与罗尔斯 \(.\) 罗伊斯公司的Carlisle的实验�
 
 和深度）。
 
-![](images/b8c12005f235134a0472a497dad20f03fc639ca36b2aca88822dff2b16cd5301.jpg)
+![](extracted_chunk_005/images/b8c12005f235134a0472a497dad20f03fc639ca36b2aca88822dff2b16cd5301.jpg)
 
 （ii）付喷雾锥角不应碰撞主喷口，否则会对燃烧室性能有不利影响。
 
-![](images/fb3b310d8e6656921ebac6440639c6ebbd2b78d331acab9dfb89843ff9c48782.jpg)
+![](extracted_chunk_005/images/fb3b310d8e6656921ebac6440639c6ebbd2b78d331acab9dfb89843ff9c48782.jpg)
 
 (i）主喷口和付喷口应当彼此同心，并保持在精度极限范围内，例如在0.001到0.002英寸范围内。
 
@@ -813,7 +813,7 @@ Radcliffe的研究工作与罗尔斯 \(.\) 罗伊斯公司的Carlisle的实验�
 
 
 
-## Chunk 6
+## Chunk 6 (Original Pages 26-30)
 
 \[
 \sqrt { \mathbb { P } } = \frac { \sqrt { \mathbb { p } } } { \mathbb { R } } \left( \sqrt { 1 + \mathbb { R } } - 1 \right)
@@ -849,31 +849,31 @@ Radcliffe的研究工作与罗尔斯 \(.\) 罗伊斯公司的Carlisle的实验�
 
 正因为这些理由，空气罩的空气流量应精确控制。同样地，一个喷咀的新设计方案应当根据在其他发动机上取得的经验，并且应当进行喷咀的流量试验，还应在燃烧室试验设备上进行试验，以确定合适的喷咀空气罩。
 
-![](images/1ab839b8b1432b98ca4df0e42c2dd172c056b9282e725eb5d37233710e7d2658.jpg)  
+![](extracted_chunk_006/images/1ab839b8b1432b98ca4df0e42c2dd172c056b9282e725eb5d37233710e7d2658.jpg)  
 图1喷雾锥角与近似流量系数（K）的关系
 
-![](images/bb85fe61c7f6d53130f112a54c1ee86e38106077a997470e1ce2abfbecae6455.jpg)  
+![](extracted_chunk_006/images/bb85fe61c7f6d53130f112a54c1ee86e38106077a997470e1ce2abfbecae6455.jpg)  
 图2喷雾锥角的雷诺数修正值（Re按喷口直径计算）
 
 要求的流量数基准流量数附录3
 
-![](images/e654c11058dc7507caa09a7e3c521fdf6698a3265b7bbb8594ca90358418a6dd.jpg)  
+![](extracted_chunk_006/images/e654c11058dc7507caa09a7e3c521fdf6698a3265b7bbb8594ca90358418a6dd.jpg)  
 图3流量数的雷诺数修正值（Re按喷口直径计算）
 
-![](images/6c7ab6f015ef627b3a62cc6e129305af31988ab9e8a202290fbe293cd9633c93.jpg)  
+![](extracted_chunk_006/images/6c7ab6f015ef627b3a62cc6e129305af31988ab9e8a202290fbe293cd9633c93.jpg)  
 图4旋流室尺寸比例对流量系数 \(\mathrm { K }\) 的影响
 
-![](images/27194b2854a71acd828558264f447ea497e17bc2f9d8aef9e8884b69ddae9745.jpg)  
+![](extracted_chunk_006/images/27194b2854a71acd828558264f447ea497e17bc2f9d8aef9e8884b69ddae9745.jpg)  
 图5旋流槽孔面积参数与流量系数的关系
 
-![](images/b6a63abf00a8341582bbfadd3407a0d738994d6f692fe3afd16ea9668352f712.jpg)  
+![](extracted_chunk_006/images/b6a63abf00a8341582bbfadd3407a0d738994d6f692fe3afd16ea9668352f712.jpg)  
 图6斯贝MK202双油路喷咀
 
 # 流量系数和喷雾锥角的理论计算
 
 （摘自E.Giffen和A.Muraszew所著“液体燃料的雾化”1953年版）
 
-![](images/89ce1f984bfe7d8a930dc03b0ef9ced848ff41087bc332ae8cf07638d3cd08e0.jpg)  
+![](extracted_chunk_006/images/89ce1f984bfe7d8a930dc03b0ef9ced848ff41087bc332ae8cf07638d3cd08e0.jpg)  
 图1
 
 本文分析单油路离心式喷咀。液体经过切向槽道被引入旋流室，因而从喷口流出的是锥状喷雾流。
@@ -904,7 +904,7 @@ V _ { 2 } \bar { \Gamma } _ { 2 } \frac { \mathrm { Q R } _ { 1 } } { \mathrm { 
 
 
 
-## Chunk 7
+## Chunk 7 (Original Pages 31-35)
 
 \[
 \mathrm { Q } = \mathrm { C } \Lambda _ { 2 } \sqrt { \frac { 2 \mathrm { g } \mathrm { P } } { \rho } }
@@ -995,7 +995,7 @@ C = { \sqrt { \frac { ( 1 - \mathrm { X } ) ^ { 3 } } { 1 + \mathrm { X } } } }
 
 由公式（6）和（7）可以得出C与K的单一关系。
 
-![](images/178db2c0ee40081b1e2549fb54e06b57378f04914725670d74b41a4b0a351288.jpg)
+![](extracted_chunk_007/images/178db2c0ee40081b1e2549fb54e06b57378f04914725670d74b41a4b0a351288.jpg)
 
 喷雾锥角可由方程（4）导出，合成速度所代表的动能等于进口处的可用压力能。
 
@@ -1061,7 +1061,7 @@ u _ { 2 } = \frac { \mathrm { ~ C ~ A ~ } _ { 2 } \mathrm { ~ U ~ } } { \mathrm 
 
 因此可得出αm和K之间的单一关系。
 
-![](images/7aaaa8439ac2d418c2b6bb55bf581e58af2378d441e2455f1b71ef64ecdea6f9.jpg)
+![](extracted_chunk_007/images/7aaaa8439ac2d418c2b6bb55bf581e58af2378d441e2455f1b71ef64ecdea6f9.jpg)
 
 喷咀常数KAs
 
@@ -1077,7 +1077,7 @@ u _ { 2 } = \frac { \mathrm { ~ C ~ A ~ } _ { 2 } \mathrm { ~ U ~ } } { \mathrm 
 
 图1a是一种喷咀结构形式图。
 
-![](images/4fb36edfd45d269cd2c24503b9226cc1520e29a5530becd1471df0a56cdbb4dd.jpg)  
+![](extracted_chunk_007/images/4fb36edfd45d269cd2c24503b9226cc1520e29a5530becd1471df0a56cdbb4dd.jpg)  
 图1喷咀结构形式
 
 b-旋流室筒体长度 r一切向孔偏移半径 D一旋流室直径 S-回流孔直径 d-喷口直径 t一喷口长度 p一切向孔直径 \(\phi\) 一旋流室锥角
@@ -1110,7 +1110,7 @@ b-旋流室筒体长度 r一切向孔偏移半径 D一旋流室直径 S-回流�
 
 
 
-## Chunk 8
+## Chunk 8 (Original Pages 36-40)
 
 表3相同形状喷咀尺寸（单位：英寸）  
 
@@ -1118,16 +1118,16 @@ b-旋流室筒体长度 r一切向孔偏移半径 D一旋流室直径 S-回流�
 
 每次实验，都要测量燃油的容积流量，温度和供油压力。测试了温度，就能依照事先测定的燃油粘度与密度随温度参数的变化关系来估算燃油的粘度和密度。这样每次试验都能确定Q磅/小时，P磅/英寸²，d英寸，P克/厘米，粘度 \(\mu\) 厘泊。当然，所使用的单位是不统一的，可是在英国使用燃油喷咀的人大多数都使用这些单位。对喷咀（2） \(\sim ( 7 )\) 的 \(\mathrm { Q ^ { 2 } / d ^ { 4 } P \rho }\) 和 \(\mathrm { Q } / \mu \mathrm { d }\) 进行了计算，并把结果画成曲线。每一种喷咀所点出来的点都接近于一条共同的曲线。图2a和图2b是喷咀（3）和喷咀（6）的数据。
 
-![](images/3e1bc9bccdda43c59dd57da1ae79cabaa2dc0e64b46a3b6b9e9c1fe5e13c4e12.jpg)  
+![](extracted_chunk_008/images/3e1bc9bccdda43c59dd57da1ae79cabaa2dc0e64b46a3b6b9e9c1fe5e13c4e12.jpg)  
 a喷嘴（3） （Qud）×10\~}
 
-![](images/9a0e6735480f3330a5cb3884dac9a7228764228619aeb35cd9bae8e212ddb818.jpg)
+![](extracted_chunk_008/images/9a0e6735480f3330a5cb3884dac9a7228764228619aeb35cd9bae8e212ddb818.jpg)
 
 ·煤油 \(\bigtriangleup\) 汽油 \(\bigcirc\) 四氯化碳 十 1份DTD44D型燃油和1份煤油 3份 \(\mathrm { D T D } _ { 4 4 } \mathrm { D }\) 型燃油和1份煤油 \(\triangle . 7\) 份DTD44D型燃油和1份煤油 15份DTD44D型燃油和1份煤油
 
 图3是六种喷咀所有点的最好曲线。 \(\mathrm { Q ^ { 2 } / d ^ { 4 } P ^ { \rho } }\) 和 \(\mathrm { Q } / \mu \mathrm { d }\) 的值已按照统一的单位作了整理。在测量Q、P、P和μ中以及假定d代表了每一种喷咀的尺寸所产生的误差是随实验条件而变的。但是除了密度 \(p\) 以外，所有测量值的标准误差约为 \(1 \%\) 这一级。这一数量的随机误差很容易地解释这些点子的分散。
 
-![](images/c2d9d8217ab93b038576604818d809864fb57ebe275a8ce9085140665b4cc6e8.jpg)  
+![](extracted_chunk_008/images/c2d9d8217ab93b038576604818d809864fb57ebe275a8ce9085140665b4cc6e8.jpg)  
 图3 \(\mathrm { Q ^ { 2 } / d ^ { 4 } P \rho }\) 与 \(\mathrm { Q } / \mu \mathrm { d }\) 的关系（统一单位）
 
 使用图3的曲线可以推算出任何d值下的 \(\mathrm { \mathrm { Q } ^ { 2 } / d ^ { 4 } P \rho }\) 与 \(\mathrm { Q } / \mu \mathrm { d }\) 间的关系式。图4是d值在0.010～0.100英寸范围内，绘于对数座标内的十条这种曲线。利用这些曲线，就能对于在很大范围变化的一组具体的压力、密度和粘度条件，通过插值法确定出标准喷咀的喷口直径以及其它全部尺寸。当 \(\mathrm { Q } ^ { 2 } / \mathrm { P } \rho\) 和 \(\mathrm { Q } / \mu\) 值较大，超过了该曲线范围时，为了适用起见，我们可以把该曲线延长。即将 \(\mathrm { { Q / P \rho } }\) 除以 \(1 0 0 0 0 ^ { \mathrm { m } }\) ， \(\mathrm { Q } / \mu\) 除以 \(1 0 ^ { \mathrm { m } }\) ；d值则乘以 \(1 0 ^ { \mathrm { m } }\) ，（这里的m是正数）。值得注意的是：对于 \(\mathrm { Q } / \mu \mathrm { d }\) 的测量值（统一单位）在1600的区域，图3和图4曲线的斜率有一个明显的变化。当Q/μd值减少时，由于油泡没有张开或者没有很好地形成，喷咀有不能正常工作的趋势。只有当μ值增加达30厘泊之多时，Q/μd才会减少到曲线斜率变化的左边部分。如果Q/μd和μ两值都较低，则喷咀不能形成锥形喷射。例如，当μ小达1厘泊， \(\mathrm { Q } / \mu \mathrm { d }\) 值低于1600时，喷咀未必能工作，没有明显的理由表明，图4中的曲线不能延长到较高的 \(\mathrm { Q } / \mu\) 值。
@@ -1138,7 +1138,7 @@ a喷嘴（3） （Qud）×10\~}
 
 为了确定喷嘴形状对燃油流量及喷射锥角的影响，按照图1b的结构形式制作了一套喷嘴。制做了31个旋流筒，9个孔板，一个柱塞，和一个主体。旋流筒和孔板可以互换，而组合成279个形状不同的喷嘴。孔板有一个张角为 \(9 0 ^ { \circ }\) 的锥角，其最大直径 \(\mathrm { D } = 0 . 5 0 0\) 英寸，但其孔径和长度不同，见表4。31个旋流筒的内径为0.500英寸时，切向孔直径p及偏移半径r的尺寸见表5。旋流筒、孔板和柱塞的尺寸是使旋流室圆柱部分的长度为0.1125英寸。旋流筒编号为 \(( 1 ) \sim ( 3 1 )\) ，孔板编号为 \(( 1 ) \sim ( 9 )\) ，通过先列出旋流筒的序号后列出孔板序号，就可以表示出它们之间不同的组合（如27/8）。
 
-![](images/534a6bc5230351e5fee1dd3f2cf0ee021e073e89c1ea51da8144a301ec22fdbf.jpg)  
+![](extracted_chunk_008/images/534a6bc5230351e5fee1dd3f2cf0ee021e073e89c1ea51da8144a301ec22fdbf.jpg)  
 图4以d为参变量时， \(\mathrm { Q ^ { 2 } / P \ell ^ { p } }\) 与 \(\mathrm { Q } / \mu\) 间的关系
 
 表4孔板的尺寸  
@@ -1165,32 +1165,32 @@ a喷嘴（3） （Qud）×10\~}
 
 喷咀形状变化所产生的影响。
 
-![](images/466aba0019f063e9e1bb81d5d3ab0bf126a7d4bdb2ef4889a52f87673d112f3e.jpg)  
+![](extracted_chunk_008/images/466aba0019f063e9e1bb81d5d3ab0bf126a7d4bdb2ef4889a52f87673d112f3e.jpg)  
 图5燃油流量随喷咀切向孔和喷口直径变化的关系
 
-![](images/a25439d802709bdbbf0561feaac52848b7308b4bb4e0a91a32be45ac48c39db5.jpg)  
+![](extracted_chunk_008/images/a25439d802709bdbbf0561feaac52848b7308b4bb4e0a91a32be45ac48c39db5.jpg)  
 图6在三种不同的喷咀中，煤油流量随压力的压化
 
 
 
-## Chunk 9
+## Chunk 9 (Original Pages 41-45)
 
-![](images/d7ed6a977ca3296141f90e2a5d8bbdcde7dbf4360ec29ba18773d31ca9ce2127.jpg)  
+![](extracted_chunk_009/images/d7ed6a977ca3296141f90e2a5d8bbdcde7dbf4360ec29ba18773d31ca9ce2127.jpg)  
 图7煤油流量数随喷口直径的变化
 
 当压力为100磅/英寸2时，流量数等于燃油流量的 \(1 / 1 0\) （加仑/小时）
 
-![](images/2c176af3fa2112d7648309eb34fdd7762e11cbc6c550eee002ed9285c40174a0.jpg)  
+![](extracted_chunk_009/images/2c176af3fa2112d7648309eb34fdd7762e11cbc6c550eee002ed9285c40174a0.jpg)  
 图8燃油流量随喷口直径的变化
 
-![](images/221c716596950a44ba8051703b3c63600277d672d87c2c74a31eab4c9c0a3cdd.jpg)  
+![](extracted_chunk_009/images/221c716596950a44ba8051703b3c63600277d672d87c2c74a31eab4c9c0a3cdd.jpg)  
 图9燃油流量随切向孔直径的变化
 
 图6给出了三种不同喷咀的燃油流量随压力变化的曲线。值得注意的是燃油流量随压力变化的比率非常小。
 
 改变供油压力能使喷咀流量发生变化，但实际困难将可能的压比限制到100:1多一点，燃油流量限制到不太超过10：1。改变喷咀燃油流量的另一种方法，取决于旋流室后部壁面的回油孔。图10示出了回油孔径为S的典型喷咀结构形式图。
 
-![](images/31c39c2bbda2f94a7570d1200b995d63fdeb1e05f26ed3bd133441a11d7af452.jpg)  
+![](extracted_chunk_009/images/31c39c2bbda2f94a7570d1200b995d63fdeb1e05f26ed3bd133441a11d7af452.jpg)  
 图10回油孔直径对流量的影响
 
 通过改变回油管中的压力能改变燃油的回油流量，这从两方面影响喷咀的输出量。当打开回油管道减小油压时，流过孔径d的燃油流量减小，喷射锥角增大，甚至在供油压力保持不变时，也是如此。因此，燃油流量可以变化一个比例，其值与回油孔直径S与喷口直径d比值有关。按照西蒙的方法，图10给出了这些比值的关系曲线。通过（1）改变供油压力及（2）改变油口压力。这两种调节方法的组合，可使燃油流量变化100倍或更多一些。
@@ -1203,7 +1203,7 @@ a喷嘴（3） （Qud）×10\~}
 
 
 
-## Chunk 10
+## Chunk 10 (Original Pages 46-50)
 
 <table><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=2>5</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=2>7</td></tr><tr><td rowspan=1 colspan=1>(15/4）</td><td rowspan=1 colspan=1>0.042</td><td rowspan=1 colspan=1>0.052</td><td rowspan=1 colspan=1>0.151</td><td rowspan=1 colspan=2>68</td><td rowspan=1 colspan=1>0.675</td><td rowspan=1 colspan=2>91.2</td></tr><tr><td rowspan=1 colspan=1>（25/4）</td><td rowspan=1 colspan=1>”</td><td rowspan=1 colspan=1>0.077</td><td rowspan=1 colspan=1>0.1505</td><td rowspan=1 colspan=2>56</td><td rowspan=1 colspan=1>0.532</td><td rowspan=1 colspan=1>114</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>(26/4）</td><td rowspan=1 colspan=1>”</td><td rowspan=1 colspan=1>0.084</td><td rowspan=1 colspan=1>0.151</td><td rowspan=1 colspan=2>48</td><td rowspan=1 colspan=1>0.445</td><td rowspan=1 colspan=1>126</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>(27/4)</td><td rowspan=1 colspan=1>”</td><td rowspan=1 colspan=1>0.102</td><td rowspan=1 colspan=1>0.148</td><td rowspan=1 colspan=2>52</td><td rowspan=1 colspan=1>0.488</td><td rowspan=1 colspan=2>125</td></tr><tr><td rowspan=1 colspan=1>（28/4）</td><td rowspan=1 colspan=1>”</td><td rowspan=1 colspan=1>0.122</td><td rowspan=1 colspan=1>0.150</td><td rowspan=1 colspan=2>48</td><td rowspan=1 colspan=1>0.455</td><td rowspan=1 colspan=2>137</td></tr><tr><td rowspan=1 colspan=1>（16/4）</td><td rowspan=1 colspan=1>”</td><td rowspan=1 colspan=1>0.016</td><td rowspan=1 colspan=1>0.198</td><td rowspan=1 colspan=2>83</td><td rowspan=1 colspan=1>0.885</td><td rowspan=1 colspan=2>41.4</td></tr><tr><td rowspan=1 colspan=1>(17/4）</td><td rowspan=1 colspan=1>”</td><td rowspan=1 colspan=1>0.020</td><td rowspan=1 colspan=1>0.198</td><td rowspan=1 colspan=2>80</td><td rowspan=1 colspan=1>0.839</td><td rowspan=1 colspan=2>55.5</td></tr><tr><td rowspan=1 colspan=1>（18/4）</td><td rowspan=1 colspan=1>”</td><td rowspan=1 colspan=1>0.031</td><td rowspan=1 colspan=1>0.198</td><td rowspan=1 colspan=2>75</td><td rowspan=1 colspan=1>0.767</td><td rowspan=1 colspan=2>71.4</td></tr><tr><td rowspan=1 colspan=1>（19/4）</td><td rowspan=1 colspan=1>”</td><td rowspan=1 colspan=1>0.040</td><td rowspan=1 colspan=1>0.198</td><td rowspan=1 colspan=2>72</td><td rowspan=1 colspan=1>0.727</td><td rowspan=1 colspan=1>76.4</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>（20/4）</td><td rowspan=1 colspan=1>”</td><td rowspan=1 colspan=1>0.052</td><td rowspan=1 colspan=1>0.1985</td><td rowspan=1 colspan=2>68</td><td rowspan=1 colspan=1>0.675</td><td rowspan=1 colspan=2>97.5</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(29/4）</td><td rowspan=1 colspan=1>”</td><td rowspan=1 colspan=1>0.076</td><td rowspan=1 colspan=1>0.1985</td><td rowspan=1 colspan=2>62</td><td rowspan=1 colspan=1>0.601</td><td rowspan=1 colspan=2>94.0</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>（30/4）</td><td rowspan=1 colspan=1>”</td><td rowspan=1 colspan=1>0.083</td><td rowspan=1 colspan=1>0.198</td><td rowspan=1 colspan=2>61</td><td rowspan=1 colspan=1>0.589</td><td rowspan=1 colspan=2>102</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>（31/4)</td><td rowspan=1 colspan=1>”</td><td rowspan=1 colspan=1>0.100</td><td rowspan=1 colspan=1>0.197</td><td rowspan=1 colspan=2>53</td><td rowspan=1 colspan=1>0.499</td><td rowspan=1 colspan=2>114</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>（1/5）</td><td rowspan=1 colspan=1>0.052</td><td rowspan=1 colspan=1>0.016</td><td rowspan=1 colspan=1>0.050</td><td rowspan=1 colspan=2>80</td><td rowspan=1 colspan=1>0.839</td><td rowspan=1 colspan=2>51.6</td></tr><tr><td rowspan=2 colspan=1></td><td rowspan=1 colspan=1>(2/5）</td><td rowspan=1 colspan=1>”</td><td rowspan=1 colspan=1>0.020</td><td rowspan=1 colspan=1>0.040</td><td rowspan=1 colspan=2>81</td><td rowspan=1 colspan=1>0.854</td><td rowspan=1 colspan=2>69.9</td></tr><tr><td rowspan=1 colspan=1>（3/5）</td><td rowspan=1 colspan=1>”</td><td rowspan=1 colspan=1>0.031</td><td rowspan=1 colspan=1>0.0495</td><td rowspan=1 colspan=2>67</td><td rowspan=1 colspan=1>0.662</td><td rowspan=1 colspan=2>115</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>（4/5）</td><td rowspan=1 colspan=1>”</td><td rowspan=1 colspan=1>0.040</td><td rowspan=1 colspan=1>0.0.495</td><td rowspan=1 colspan=2>59</td><td rowspan=1 colspan=1>0.566</td><td rowspan=1 colspan=2>150</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>（5/5）</td><td rowspan=1 colspan=1>”</td><td rowspan=1 colspan=1>0.052</td><td rowspan=1 colspan=1>0.0495</td><td rowspan=1 colspan=2>63</td><td rowspan=1 colspan=1>0.613</td><td rowspan=1 colspan=2>171</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>（6/5）</td><td rowspan=1 colspan=1>”</td><td rowspan=1 colspan=1>0.016</td><td rowspan=1 colspan=1>0.096</td><td rowspan=1 colspan=2>85</td><td rowspan=1 colspan=1>0.916</td><td rowspan=1 colspan=1>49.5</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>（7/5）</td><td rowspan=1 colspan=1>”</td><td rowspan=1 colspan=1>0.020</td><td rowspan=1 colspan=1>0.096</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>83</td><td rowspan=1 colspan=1>0.884</td><td rowspan=1 colspan=1>63.5</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(8/5）</td><td rowspan=1 colspan=1>”</td><td rowspan=1 colspan=1>0.031</td><td rowspan=1 colspan=1>0.0965</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>75</td><td rowspan=1 colspan=1>0.767</td><td rowspan=1 colspan=1>95.5</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>（9/5）</td><td rowspan=1 colspan=1>”</td><td rowspan=1 colspan=1>0.040</td><td rowspan=1 colspan=1>0.097</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>75</td><td rowspan=1 colspan=1>0.767</td><td rowspan=1 colspan=2>114</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>（10/5）</td><td rowspan=1 colspan=1>”</td><td rowspan=1 colspan=1>0.052</td><td rowspan=1 colspan=1>0.052</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>69</td><td rowspan=1 colspan=1>0.637</td><td rowspan=1 colspan=2>141</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>（21/5）</td><td rowspan=1 colspan=1>”</td><td rowspan=1 colspan=1>0.077</td><td rowspan=1 colspan=1>0.095</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>54</td><td rowspan=1 colspan=1>0.510</td><td rowspan=1 colspan=2>125</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(22/5）</td><td rowspan=1 colspan=1>”</td><td rowspan=1 colspan=1>0.083</td><td rowspan=1 colspan=1>0.093</td><td rowspan=1 colspan=2>50</td><td rowspan=1 colspan=1>0.466</td><td rowspan=1 colspan=2>192</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>（23/5）</td><td rowspan=1 colspan=1>”</td><td rowspan=1 colspan=1>0.105</td><td rowspan=1 colspan=1>0.095</td><td rowspan=1 colspan=2>52</td><td rowspan=1 colspan=1>0.188</td><td rowspan=1 colspan=2>206</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>（24/5）</td><td rowspan=1 colspan=1>”</td><td rowspan=1 colspan=1>0.122</td><td rowspan=1 colspan=1>0.096</td><td rowspan=1 colspan=2>44</td><td rowspan=1 colspan=1>0.404</td><td rowspan=1 colspan=2>220</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>（11/5）</td><td rowspan=1 colspan=1>”</td><td rowspan=1 colspan=1>0.016</td><td rowspan=1 colspan=1>0.152</td><td rowspan=1 colspan=2>86</td><td rowspan=1 colspan=1>0.933</td><td rowspan=1 colspan=2>14.2</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>（12/5）</td><td rowspan=1 colspan=1>”</td><td rowspan=1 colspan=1>0.020</td><td rowspan=1 colspan=1>0.152</td><td rowspan=1 colspan=2>86</td><td rowspan=1 colspan=1>0.933</td><td rowspan=1 colspan=2>60.8</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>（13/5）</td><td rowspan=1 colspan=1>”</td><td rowspan=1 colspan=1>0.031</td><td rowspan=1 colspan=1>0.1515</td><td rowspan=1 colspan=2>80</td><td rowspan=1 colspan=1>0.839</td><td rowspan=1 colspan=2>87.5</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>（14/5）</td><td rowspan=1 colspan=1>”</td><td rowspan=1 colspan=1>0.040</td><td rowspan=1 colspan=1>0.152</td><td rowspan=1 colspan=2>82</td><td rowspan=1 colspan=1>0.860</td><td rowspan=1 colspan=1>98.5</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(15/5）</td><td rowspan=1 colspan=1>”</td><td rowspan=1 colspan=1>0.052</td><td rowspan=1 colspan=1>0.151</td><td rowspan=1 colspan=2>77</td><td rowspan=1 colspan=1>0.795</td><td rowspan=1 colspan=2>113</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>（25/5）</td><td rowspan=1 colspan=1>”</td><td rowspan=1 colspan=1>0.077</td><td rowspan=1 colspan=1>0.1505</td><td rowspan=1 colspan=2>58</td><td rowspan=1 colspan=1>0.554</td><td rowspan=1 colspan=2>147</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>（26/5）</td><td rowspan=1 colspan=1>”</td><td rowspan=1 colspan=1>0.084</td><td rowspan=1 colspan=1>0.151</td><td rowspan=1 colspan=2>57</td><td rowspan=1 colspan=1>0.543</td><td rowspan=1 colspan=2>169</td></tr><tr><td rowspan=1 colspan=2>（27/5）</td><td rowspan=1 colspan=1>”</td><td rowspan=1 colspan=1>0.102</td><td rowspan=1 colspan=1>0.148</td><td rowspan=1 colspan=2>60</td><td rowspan=1 colspan=1>0.577</td><td rowspan=1 colspan=2>164</td></tr><tr><td rowspan=1 colspan=2>(28/5）</td><td rowspan=1 colspan=1>”</td><td rowspan=1 colspan=1>0.122</td><td rowspan=1 colspan=1>0.150</td><td rowspan=1 colspan=2>55</td><td rowspan=1 colspan=1>0.521</td><td rowspan=1 colspan=2>178</td></tr><tr><td rowspan=2 colspan=2>（16/5）（17/5）</td><td rowspan=1 colspan=1>”</td><td rowspan=1 colspan=1>0.016</td><td rowspan=1 colspan=1>0.198</td><td rowspan=1 colspan=2>91</td><td rowspan=1 colspan=1>1.02</td><td rowspan=1 colspan=2>44.4</td></tr><tr><td rowspan=1 colspan=1>”</td><td rowspan=1 colspan=1>0.020</td><td rowspan=1 colspan=1>0.198</td><td rowspan=1 colspan=2>84</td><td rowspan=1 colspan=1>0.900</td><td rowspan=1 colspan=2>62.4</td></tr></table>
 
@@ -1223,19 +1223,19 @@ F表示油泡不能张开。
 
 表4中给出了喷雾锥角测量值的数据，根据这些数据可以作出许多曲线，图 \(1 1 \sim 1 3\) 是其中的三条曲线。它们表明了锥角 \(\ t g ( \theta / 2 )\) 与（1）喷口直径，（2）切向孔径，（3）喷口
 
-![](images/6d46929d5bf0c80f741bcb0ce85ce2f54bd2583f84c194e34f786b787f3a9656.jpg)  
+![](extracted_chunk_010/images/6d46929d5bf0c80f741bcb0ce85ce2f54bd2583f84c194e34f786b787f3a9656.jpg)  
 图11当喷咀旋流室直径为0.5英寸，切向孔直径为0.077英寸及偏移半径为0，198英寸时，锥角 \(\mathfrak { \theta }\) 随喷口孔径d的变化
 
 
 
-## Chunk 11
+## Chunk 11 (Original Pages 51-55)
 
 和切向孔直径一起变化的关系。令人感兴趣的是，喷雾锥角随喷口直径的增加而增加，随切向孔直径的增加而减少，这两种孔直径同时增加时，引起喷雾锥角增加。然而，喷雾锥角测量曲线显示出某些不太一致之处，这是由于很难保证喷咀各部分所要求的加工精度所引起的。特别是，要达到令人满意的千分之几英寸直径的孔是困难的。
 
-![](images/a242542c19b8fef4a5b29d3d55e63aba82afe41de777283d49a93e82d5dc5388.jpg)  
+![](extracted_chunk_011/images/a242542c19b8fef4a5b29d3d55e63aba82afe41de777283d49a93e82d5dc5388.jpg)  
 图12当喷咀旋流室直径为0.5英寸，偏移半径为0.198英寸及喷口孔径为0.077英寸时，锥角0随切向孔直径P的变化
 
-![](images/721cfe762c56d480987056083ccb412fd07c63e65222f136c1f7f5ffe915576d.jpg)  
+![](extracted_chunk_011/images/721cfe762c56d480987056083ccb412fd07c63e65222f136c1f7f5ffe915576d.jpg)  
 图13锥角0随切向孔直径p与喷口孔径d共同变化的关系
 
 ## 喷雾颗粒尺寸
@@ -1254,10 +1254,10 @@ F表示油泡不能张开。
 \mathrm { S . M . D = 3 2 5 Q ^ { 0 } . ^ { 3 1 8 } / P ^ { 0 } . ^ { 5 3 0 } }
 \]
 
-![](images/bffb33ae09f1339c3039c4ba6c06f220bb97d7f1675832076def37cedb07d811.jpg)  
+![](extracted_chunk_011/images/bffb33ae09f1339c3039c4ba6c06f220bb97d7f1675832076def37cedb07d811.jpg)  
 图14表面平均直径随燃油流量（磅/小时）和压力P（磅/英寸）的变化
 
-![](images/b0c6bffc24551078f29861ad1c0ac92ac2397a41f1e8287b6551771c74edee44.jpg)  
+![](extracted_chunk_011/images/b0c6bffc24551078f29861ad1c0ac92ac2397a41f1e8287b6551771c74edee44.jpg)  
 \(\times\) 喷咀A \(\bigcirc\) 喷咀B \(\bigtriangleup\) 喷咀C·喷咀D   
 图15控制回油孔改变燃油流量时，表面平均直径随燃油流量的变化
 
@@ -1283,7 +1283,7 @@ F表示油泡不能张开。
 
 Tarlor（1948）的非粘性喷咀理论指出：流量系数K是旋流室半径和喷口半径的乘积除进口面积这一参数 \(( 4 \mathrm { A p } / \pi \mathrm { D d }\) ，图 \(1 6 \sim\) 图26）的单值函数；而喷雾锥角又是k的单值函数。在实用中，正如作者的工作表明的那样，粘性流体的使用会改变旋流室内流型，并与理想情况产生重大偏差。
 
-![](images/4d0fc356c62567ee524a56b49aab3bb2bfbb86f915adf623ca412b077e4a05c1.jpg)  
+![](extracted_chunk_011/images/4d0fc356c62567ee524a56b49aab3bb2bfbb86f915adf623ca412b077e4a05c1.jpg)  
 图1619个喷咀在压力为700磅/英寸2时的流量系数
 
 选取了20个目前正在使用中的喷咀进行试验，燃油采用煤油，它们的流量数为 \(0 . 1 { \sim } 0 . 1 5\) 喷雾角为 \(7 0 ^ { \circ } \sim 1 0 7 ^ { \circ }\) 。它们的几何形状也不同，一些是圆孔，另一些为矩形槽。每个喷咀均在 \(5 \sim 7 0 0\) 磅/英寸的压力范围内进行流量和喷雾锥角试验。
@@ -1292,27 +1292,27 @@ Tarlor（1948）的非粘性喷咀理论指出：流量系数K是旋流室半径
 
 图16表示的是在700磅/英寸压力下测量的流量系数K值曲线，作者给出了K值随雷诺数Re的变化情形。图17中的K值曲线是按照每个喷咀在给出相同Re的压力下绘制的，这些结果有些微小的分散。
 
-![](images/3ae6704f0c9434c42bfdb552696d8c8f241fa0eda2c20f8c9bd4d177f6266ef1.jpg)  
+![](extracted_chunk_011/images/3ae6704f0c9434c42bfdb552696d8c8f241fa0eda2c20f8c9bd4d177f6266ef1.jpg)  
 图17在相同雷诺数Re下的流量系数
 
 对分散点的研究表明：高D/d的喷咀的K值要比低D/d的K值高。因此，图18上给出了对于理论曲线的K值与D/d的关系曲线，它表现出一定的趋势。通过这些点画出的平均曲线可用来修正K值，将修正过的新值 \(\mathrm { K } ^ { \prime }\) 描绘在图19上（注意：位于理想曲线上的D/d值是3.5）点子的分散比以前有所减小。
 
 分别进行的试验表明，增加旋流室长度将使流量系数增大。因此，在图20上绘出了 \(\mathrm { K } ^ { \prime }\) 值对理想曲线的偏差与总旋流室长度对其直径之比 \(\mathrm { D } / \mathrm { L }\) 的关系曲线。该曲线也表现出一定的趋势，因而同样地，平均曲线将被用来修正 \(\mathrm { D } / \mathrm { L }\) 对 \(\mathrm { K } ^ { \prime }\) 值的影响。
 
-![](images/a177da47a91befcb1c8947f21e1d1b05d2843f74baeaaa4f1822e9d5d6cf38e4.jpg)  
+![](extracted_chunk_011/images/a177da47a91befcb1c8947f21e1d1b05d2843f74baeaaa4f1822e9d5d6cf38e4.jpg)  
 图18K值对理想曲线的偏差与旋流室直径对喷口直径之比D/d的关系曲线a/b是 \(\mathrm { K }\) 的测量值对理想曲线 \(\mathrm { K }\) 值之比
 
-![](images/b9f31ff882be8fe783a2879d6cb358eda4acfd80c934154774f6cf18d7ef2f10.jpg)  
+![](extracted_chunk_011/images/b9f31ff882be8fe783a2879d6cb358eda4acfd80c934154774f6cf18d7ef2f10.jpg)  
 图19经过D/d影响修正的K值 \(( \mathrm { K ^ { \prime } }\) ）与 \(4 \mathrm { A P } / \pi \mathrm { D d }\) 曲线
 
 
 
-## Chunk 12
+## Chunk 12 (Original Pages 56-60)
 
-![](images/d4340bc821140362999175c342627d30a16cdd2ffe77b9efbc4659a663724333.jpg)  
+![](extracted_chunk_012/images/d4340bc821140362999175c342627d30a16cdd2ffe77b9efbc4659a663724333.jpg)  
 图20 \(\mathrm { K } ^ { \prime }\) 值对理想曲线的比例偏差与 \(\mathrm { L } / \mathrm { D }\) 的关系曲线， \(\mathrm { I , }\) 旋流室总长度
 
-![](images/db7fbe08bd2620b5e1552ce68f1794847d514290f4f7ee173c3cf82f5541d08b.jpg)  
+![](extracted_chunk_012/images/db7fbe08bd2620b5e1552ce68f1794847d514290f4f7ee173c3cf82f5541d08b.jpg)  
 图21最终修正的K \(\mathrm { K } ^ { \prime \prime }\) ）与 \(4 \mathrm { A P } / \pi \mathrm { D d }\) 的关系曲线，\(\mathrm { K } ^ { \prime \prime }\) 是对 \(\mathrm { K } ^ { \prime }\) 值进行L/D修正后的值
 
 图21绘出了最终的修正流量系数 \(\mathrm { K } ^ { \prime \prime }\) 曲线，现在点子的分散度已处于合理的限度内。  
@@ -1322,12 +1322,12 @@ D/d，L/D值影响的修正可以方便地综合在一条曲线上。
 
 喷雾锥角是难以测量的量，在低压下，当郁金香花状喷雾消失以后，喷雾锥角逐渐随压力增加而增大，直到最大值。而后由于空气的引射而减小。喷咀不同，出现最大值的压力也不同。在试验过程将仅取最大值而不论其压力值。
 
-![](images/4ca5d81672348bd84d0b75d6b37b8b8e13a9aef86e6e7e3540dd4aa0e6bd2763.jpg)  
+![](extracted_chunk_012/images/4ca5d81672348bd84d0b75d6b37b8b8e13a9aef86e6e7e3540dd4aa0e6bd2763.jpg)  
 图22测量的喷雾锥角与测量的流量系数的关系曲线
 
 图22绘出了喷雾锥角与测量的流量系数的关系曲线。经研究，可以看出一种趋势：小直径喷口的喷雾锥角比大直径的喷雾锥角要小。然而，在绘出对于理想曲线的偏差与喷口直径乘以流量系数（ \(\mathbf { K } \times \mathbf { d } )\) 的关系曲线后，才能发现最好的关系。后一函数是喷口内液膜厚度的近似度量，如果压力为常数，它将正比于以液膜厚度为特性尺寸的雷诺数Re值。上述的曲线示于图23，喷雾锥角的修正值示于图24。
 
-![](images/c082e2d28b1ab944d422ec06d53891e22d8fb0828dd03107e58b49d3cf6a8c8c.jpg)  
+![](extracted_chunk_012/images/c082e2d28b1ab944d422ec06d53891e22d8fb0828dd03107e58b49d3cf6a8c8c.jpg)  
 图23喷雾锥角与理想曲线的偏差与Kd/2的关系
 
 ### 给定喷雾锥角和流量数的煤油喷咀设计
@@ -1340,7 +1340,7 @@ D/d，L/D值影响的修正可以方便地综合在一条曲线上。
 
 \(( 0 . 5 / \mathrm { d } ^ { 2 } )\) ）时的流量数（它对应于绘制图17时所选定的雷诺数Re）。
 
-![](images/7082316e5a05b5908ea5b54e90cd0f9ef0a9e8b7dc90d5cffd60c770f4593667.jpg)  
+![](extracted_chunk_012/images/7082316e5a05b5908ea5b54e90cd0f9ef0a9e8b7dc90d5cffd60c770f4593667.jpg)  
 图24用K·d/2因子修正到理想曲线上的喷雾锥角与测量的流量系数的关系曲线
 
 ### 对作者的表6结果的分析
@@ -1359,10 +1359,10 @@ D/d，L/D值影响的修正可以方便地综合在一条曲线上。
 
 经过 \(\operatorname { K d } / 2\) 影响修正的喷雾锥角和K值间的关系，特别有价值。并且，作者的结果以及他自己援引的结果之间，很可能是一致的。如果对不同旋流室直径进行更多的试验来扩充这些结果的话，则作者的K与4AP/πDd关系曲线用于设计所受的限制将比图16\~图26的曲线小，这样的结果将能用于更宽广的压力范围。
 
-![](images/e9d6059426324791fdfc4526bd786dccc5d81cc7ac2f0992892b28c25a3cb582.jpg)  
+![](extracted_chunk_012/images/e9d6059426324791fdfc4526bd786dccc5d81cc7ac2f0992892b28c25a3cb582.jpg)  
 图25作者论文的36个喷咀的修正后的喷雾锥角与测量的流量系数的关系曲线
 
-![](images/4d4174fb2e67b7eb75c3461465108bb67b10caaebf9069394371b6e3cd5591c5.jpg)  
+![](extracted_chunk_012/images/4d4174fb2e67b7eb75c3461465108bb67b10caaebf9069394371b6e3cd5591c5.jpg)  
 图26流量参数：作者的测量的K值与4AP/πDd的关系曲线
 
 ### 进一步的评论
@@ -1401,18 +1401,18 @@ R·P·Fraser先生，P·Ejsenklam博士，H \(\bullet\) Domerowskj博士和D \(\
 
 
 
-## Chunk 13
+## Chunk 13 (Original Pages 61-65)
 
 空气阻力影响的减小来解释。这时，喷雾帘锥角的减少更多地被油珠动量的增加所抵消，以致于目视的喷雾锥角增加。
 
-![](images/2217d62cf392805d3615c3b98e8ac4afd9c1fd86e25b59a3517f984b55e04d67.jpg)  
+![](extracted_chunk_013/images/2217d62cf392805d3615c3b98e8ac4afd9c1fd86e25b59a3517f984b55e04d67.jpg)  
 图27理论计算的喷雾锥角
 
 据作者陈述：根据Needham的结果（1946）得出的有关油珠尺寸的方程（5），对不同的流量数和不同形状的喷油均是有效的，因此所研究的喷嘴也应当适用。但是Needham分析的是锥角接近于常数的喷雾。由于锥角影响油珠的尺寸，而作者的结果表明，锥角有相当大的变化。故方程（5）的使用只能是近似的，特别是在低压之下。
 
 按照理想理论，流量系数 \(\mathrm { K } _ { \mathrm { { \circ } } } = \frac  \mathrm { { \sigma } } \mathrm { { \sigma } } \mathrm { { \sigma } } \mathrm { { \sigma } } \mathrm { { \sigma } } \mathrm  { \ s { \sigma } } \mathrm { { \sigma } } \mathrm { { \sigma } } \mathrm  { \ s { \sigma } } \mathrm { { \sigma } } \mathrm { { \sigma } } \mathrm { { \sigma } } \mathrm { { \sigma } } \mathrm { { \sigma } } \mathrm { { \sigma } } \mathrm { { \sigma } } \mathrm { { \sigma } } \mathrm { { \sigma } } \mathrm { { \sigma } } \mathrm { { \sigma } } \mathrm { { \sigma } } \mathrm { { \sigma } } \mathrm { { \sigma } } \mathrm { { \sigma } } \mathrm { { \sigma } } \mathrm { { \sigma } } \mathrm { { \sigma } } \mathrm { { \sigma } } \mathrm { { \sigma } } \mathrm { { \sigma } } \mathrm { { \sigma } } \mathrm { { \sigma } } \mathrm { { \sigma } } \mathrm { { \sigma } } \mathrm { { \sigma } } \mathrm { { \sigma } } \mathrm { { \sigma } } \mathrm { { \sigma } } \mathrm { { \sigma } } \mathrm { { \sigma } } \mathrm { { \sigma } } \mathrm { { \sigma } } \mathrm { { \sigma } } \mathrm { { \sigma } } \mathrm { { \sigma } } \mathrm { { \sigma } } \mathrm { { \sigma } } \mathrm { { \sigma } } \mathrm { { \sigma } } \mathrm { { \sigma } } \mathrm { { \sigma } } \mathrm { { \sigma } } \mathrm { { \sigma } } \mathrm { { \sigma } } \mathrm { { \sigma } } \mathrm { { \sigma } } \mathrm { { \sigma } } \mathrm { { \sigma } } \mathrm { { \sigma } } \mathrm { { \sigma } } \mathrm { { \sigma } } \mathrm { { \sigma } } \mathrm { { \sigma } } \mathrm { { \sigma } } \mathrm { { \sigma } } \mathrm { { \sigma } } \mathrm { { \sigma } } \mathrm { { \sigma } } \mathrm { { \sigma } } \mathrm { { \sigma } } \mathrm { { \sigma } } \mathrm { { \sigma } } \mathrm { { \sigma } } \mathrm { { \sigma } } \mathrm { { \sigma } } \mathrm { \mathrm { \sigma } { } \mathrm { \sigma } } \mathrm  { \sigma } \mathrm { } \mathrm { }\) 基本上是参数 \(\mathrm { P ^ { 2 } } / 2 \mathrm { r } \mathrm { d }\) 的函数。对于标准喷嘴，参数 \(\mathrm { P ^ { 2 } } / 2 \mathrm { r } \mathrm { d }\) 是一个0.167的常数值。从作者的 \(\frac { Q ^ { 2 } } { \mathrm { d } ^ { 4 } \mathrm { P } \rho } = \mathrm { f } \left( \frac { \mathrm { Q } } { \mu \mathrm { d } } \right) .\) 关系可得， \(\mathrm { K } _ { \mathrm { Q } } ^ { 2 } =\) \(\boldsymbol { \Phi } ( \mathrm { K } _ { \mathrm { Q } } \times \mathrm { R e } )\) ，式中，Re是以喷口直径为特性尺寸的雷诺数。这样图3可以重新绘制成流量系数 \(\mathrm { K } _ { \mathfrak { Q } }\) 对Re的函数关系（图28）。
 
-![](images/b5092aad709829e2d183d7f6d7da2ad354e181b4771a01e85bf31af0edcde047.jpg)  
+![](extracted_chunk_013/images/b5092aad709829e2d183d7f6d7da2ad354e181b4771a01e85bf31af0edcde047.jpg)  
 图28重新绘制的图3，以表示流量系数 \(\mathrm { K } _ { \mathrm { 0 } }\) 为Re的函数关系
 
 在最低的流量下， \(\mathrm { K } _ { \mathrm { Q } } = 0 . 6 6\) ；而在喷嘴工作满意的压力范围内， \(\mathrm { K } _ { \mathrm { O } }\) 在 \(0 . 4 \sim 0 . 2 5\) 之间变化。这就可看出，理论值永远不会达到。
@@ -1540,7 +1540,7 @@ AFR按重量计算的空气燃油比
 
 
 
-## Chunk 14
+## Chunk 14 (Original Pages 66-70)
 
 状态座标图上，则可画出在试验器上的点火边界线。
 
@@ -1580,24 +1580,24 @@ RLP3278给出了在海平面发动机试验中得到的火焰筒壁面温度。�
 
 另一张图RLP4740给出了在同样的试验条件下目前的MK202燃气导管的温度。该导管除有两个溅射式冷却环外，还有五块渗透冷却空气孔。
 
-![](images/0244be9232bd1dd32e9a7a574280039bd1e21914dc4c3b0ece1441058af3baa0.jpg)  
+![](extracted_chunk_014/images/0244be9232bd1dd32e9a7a574280039bd1e21914dc4c3b0ece1441058af3baa0.jpg)  
 图1斯贝MK202试验器确定的点火包线
 
-![](images/27ed2e31ecb3b108a6f438048e7f9d65a0c48d4aebc33cbe539d2355ae9609be.jpg)  
+![](extracted_chunk_014/images/27ed2e31ecb3b108a6f438048e7f9d65a0c48d4aebc33cbe539d2355ae9609be.jpg)  
 图2斯贝MK202画在点火边界图上的风车特性
 
-![](images/00124a69c558554e45d6a1a5dbf6378121b55ed95abfb4eff82566528d12d3be.jpg)  
+![](extracted_chunk_014/images/00124a69c558554e45d6a1a5dbf6378121b55ed95abfb4eff82566528d12d3be.jpg)  
 图3斯贝MK202三个火焰筒连成的扇形试验件得到的点火及起动包线
 
-![](images/54d5f90463ab63a68e1a9c26604e67dd96a89680d750f94b14770c39d2313b74.jpg)  
+![](extracted_chunk_014/images/54d5f90463ab63a68e1a9c26604e67dd96a89680d750f94b14770c39d2313b74.jpg)  
 图4斯贝MK202燃烧稳定性
 
-![](images/a4638d6b7848310092baeb6c9e1a6c4a895db464e9ffc67c7df86ef03a9a18d0.jpg)  
+![](extracted_chunk_014/images/a4638d6b7848310092baeb6c9e1a6c4a895db464e9ffc67c7df86ef03a9a18d0.jpg)  
 图5斯贝MK202燃烧效率特性
 
-![](images/ea506403127d13ce60fb8dacd29bd2255e10e95ee9ed575407901033a6532b55.jpg)
+![](extracted_chunk_014/images/ea506403127d13ce60fb8dacd29bd2255e10e95ee9ed575407901033a6532b55.jpg)
 
-![](images/31839e02c69e1dea4aa5858122f1ffbb1924dee4a3311898436ecaf1d1c41504.jpg)  
+![](extracted_chunk_014/images/31839e02c69e1dea4aa5858122f1ffbb1924dee4a3311898436ecaf1d1c41504.jpg)  
 图6斯贝MK202燃烧室出口温度分布
 
 试验号：1133  
@@ -1611,7 +1611,7 @@ RLP3278给出了在海平面发动机试验中得到的火焰筒壁面温度。�
 
 
 
-## Chunk 15
+## Chunk 15 (Original Pages 71-75)
 
 <table><tr><td>燃烧研究报告</td><td>CRR12078</td></tr><tr><td colspan="2">斯贝MK202加力系统的发展</td></tr></table>
 
@@ -1741,7 +1741,7 @@ a）机械故障，b）不可靠性。
 
 
 
-## Chunk 16
+## Chunk 16 (Original Pages 76-80)
 
 因此设置了一个简单的清洗装置。在单向活门下游有两路供油。一路供给催化点火器，流量数与之相当的另一路流入喷口鱼鳞片处，即通向外界大气压力 \({ \mathfrak { p } } _ { 0 }\) 。接通加力时，燃油在两条管路内通过。切断加力时，由于加力燃烧室压力 \(\mathrm { { P _ { 8 } } }\) 和大气压之间有压差，催化点火器的燃油返回清洗管路，然后通向Po。这个系统的性能非常令人满意，已经应用于现在的发动机上，见图6。
 
@@ -1855,32 +1855,32 @@ E 发动机燃烧效率THC 尾喷管处热核心流的温度
 [10] CRR 12043  
 [11] CRR 12080
 
-![](images/1d2d92ae38f0d2b407b380ab61feb3644e592798ca00306a19c258eadc9349a0.jpg)  
+![](extracted_chunk_016/images/1d2d92ae38f0d2b407b380ab61feb3644e592798ca00306a19c258eadc9349a0.jpg)  
 图1V形槽稳定器与先锋火焰稳定器稳定性比较
 
-![](images/b628bebbae5d020343d5578132b89ad2552b24d4f149fa5913e7f5e0567fb3f6.jpg)  
+![](extracted_chunk_016/images/b628bebbae5d020343d5578132b89ad2552b24d4f149fa5913e7f5e0567fb3f6.jpg)  
 图2斯贝MK202蒸发式加力稳定器
 
-![](images/49a34f54920dcca3061a437a2ffe2f3c133d9137990180c5abb36e20ea2a97f1.jpg)  
+![](extracted_chunk_016/images/49a34f54920dcca3061a437a2ffe2f3c133d9137990180c5abb36e20ea2a97f1.jpg)  
 图3斯贝MK202加力外输油圈的改进
 
-![](images/6d9912a111b2623af4639e5e4cf978e8158cb355f3b23213ee068345bc67c0e5.jpg)  
+![](extracted_chunk_016/images/6d9912a111b2623af4639e5e4cf978e8158cb355f3b23213ee068345bc67c0e5.jpg)  
 图4斯贝MK202加力原始设计
 
 
 
-## Chunk 17
+## Chunk 17 (Original Pages 81-85)
 
-![](images/2582ee28fbe931bc8bd7944105a0716d15648df096cfc7cc59c0a2ac39dc7c97.jpg)  
+![](extracted_chunk_017/images/2582ee28fbe931bc8bd7944105a0716d15648df096cfc7cc59c0a2ac39dc7c97.jpg)  
 图5斯贝MK202加力燃烧室（催化点火器装在加力室中心）
 
-![](images/76e3ba193ef46a5a9c6feb13d99071a09ec56680ac2662b5d88751da4f7961c9.jpg)  
+![](extracted_chunk_017/images/76e3ba193ef46a5a9c6feb13d99071a09ec56680ac2662b5d88751da4f7961c9.jpg)  
 图6斯贝MK202加力燃烧室的催化点火系统
 
-![](images/532ab4fdcfd8cca7da06aca57bbc3d22b0716b73b35e70f7ab960bfdabe7fcce.jpg)  
+![](extracted_chunk_017/images/532ab4fdcfd8cca7da06aca57bbc3d22b0716b73b35e70f7ab960bfdabe7fcce.jpg)  
 图7斯贝MK202的加力“蜂鸣”关系曲线
 
-![](images/da77372345edfa8e3aac59b07f11a78e38d79f336d5fa859f2f2d48ef7e37595.jpg)
+![](extracted_chunk_017/images/da77372345edfa8e3aac59b07f11a78e38d79f336d5fa859f2f2d48ef7e37595.jpg)
 
 <table><tr><td>燃烧研究报告</td><td>CRR12019</td></tr><tr><td colspan="2">斯贝MK202加力燃烧平稳性的研究</td></tr></table>
 
@@ -1954,7 +1954,7 @@ d） 改变外输油圈上的喷射角
 
 
 
-## Chunk 18
+## Chunk 18 (Original Pages 86-90)
 
 # 表I
 
@@ -2032,29 +2032,29 @@ S503 磅/英寸²（绝对） 15.7
 
 <table><tr><td rowspan=1 colspan=1>试验日期</td><td rowspan=1 colspan=1>结构方案</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>限流器组</td></tr><tr><td rowspan=1 colspan=1>1966.5.251966.5.261966.5.27</td><td rowspan=1 colspan=1>12/1</td><td rowspan=1 colspan=1>设计型</td><td rowspan=1 colspan=1>设计型</td><td rowspan=1 colspan=1>设计型</td><td rowspan=1 colspan=1>设计型（26°喷孔）</td><td rowspan=1 colspan=1>设计型</td><td rowspan=1 colspan=1>设计型的分配比例</td></tr><tr><td rowspan=1 colspan=1>1966.7.11966.7.41966.7.5</td><td rowspan=1 colspan=1>12/2</td><td rowspan=1 colspan=1>”</td><td rowspan=1 colspan=1>”</td><td rowspan=1 colspan=1>”</td><td rowspan=1 colspan=1>”</td><td rowspan=1 colspan=1>”</td><td rowspan=1 colspan=1>第1组</td></tr><tr><td rowspan=1 colspan=1>1966.7.8</td><td rowspan=1 colspan=1>13</td><td rowspan=1 colspan=1>”</td><td rowspan=1 colspan=1>”</td><td rowspan=1 colspan=1>99</td><td rowspan=1 colspan=1>（13°喷孔）</td><td rowspan=1 colspan=1>”</td><td rowspan=1 colspan=1>第1组</td></tr><tr><td rowspan=1 colspan=1>1966.7.12</td><td rowspan=1 colspan=1>14/1</td><td rowspan=1 colspan=1>”</td><td rowspan=1 colspan=1>”</td><td rowspan=1 colspan=1>99</td><td rowspan=1 colspan=1>”</td><td rowspan=1 colspan=1>A出A进=1.5</td><td rowspan=1 colspan=1>第1组</td></tr><tr><td rowspan=1 colspan=1>1966.7.13</td><td rowspan=1 colspan=1>14/2</td><td rowspan=1 colspan=1>”</td><td rowspan=1 colspan=1>”</td><td rowspan=1 colspan=1>”</td><td rowspan=1 colspan=1>”</td><td rowspan=1 colspan=1>”</td><td rowspan=1 colspan=1>第2组</td></tr><tr><td rowspan=1 colspan=1>1966.7.18</td><td rowspan=1 colspan=1>15/1</td><td rowspan=1 colspan=1>”</td><td rowspan=1 colspan=1>”</td><td rowspan=1 colspan=1>去掉喷油杆</td><td rowspan=1 colspan=1>”</td><td rowspan=1 colspan=1>”</td><td rowspan=1 colspan=1>第2组</td></tr><tr><td rowspan=1 colspan=1>1966.7.18</td><td rowspan=1 colspan=1>15/2</td><td rowspan=1 colspan=1>”</td><td rowspan=1 colspan=1>”</td><td rowspan=1 colspan=1>”</td><td rowspan=1 colspan=1>”</td><td rowspan=1 colspan=1>”</td><td rowspan=1 colspan=1>第2组</td></tr></table>
 
-![](images/e5fe3cc4828a02fe2835e37e15ce242da172a8222513d557a3f8dc385147f6ad.jpg)  
+![](extracted_chunk_018/images/e5fe3cc4828a02fe2835e37e15ce242da172a8222513d557a3f8dc385147f6ad.jpg)  
 图2在高空试验台上使用的加力模拟试验器
 
-![](images/9d8bd433d1e06716d71ab868c0415589b3324af179af8007ee0d7ba280e2b53b.jpg)  
+![](extracted_chunk_018/images/9d8bd433d1e06716d71ab868c0415589b3324af179af8007ee0d7ba280e2b53b.jpg)  
 图3加力燃烧室平稳性试验结果
 
-![](images/0cb0c99a4f7d1e7e97ac38a61e721180e8b6f0260937d6225c2f0780edb4e381.jpg)  
+![](extracted_chunk_018/images/0cb0c99a4f7d1e7e97ac38a61e721180e8b6f0260937d6225c2f0780edb4e381.jpg)  
 图4加力燃烧室平稳性试验结果
 
-![](images/30018ab5a6e08d05edabde0a1893de92775fd5fb8594e05550dd620cc262a852.jpg)  
+![](extracted_chunk_018/images/30018ab5a6e08d05edabde0a1893de92775fd5fb8594e05550dd620cc262a852.jpg)  
 图5加力燃烧室平稳性试验结果
 
-![](images/6c8adefdbfeceeb1fb10e83555ec57f7b5e3e3248a4063d42e624a174901d494.jpg)  
+![](extracted_chunk_018/images/6c8adefdbfeceeb1fb10e83555ec57f7b5e3e3248a4063d42e624a174901d494.jpg)  
 图6加力燃烧室平稳性试验结果
 
 
 
-## Chunk 19
+## Chunk 19 (Original Pages 91-95)
 
-![](images/20d4bb4a001665759c1d5554887c7750a669777dd4477d12defa29ba46b6971c.jpg)  
+![](extracted_chunk_019/images/20d4bb4a001665759c1d5554887c7750a669777dd4477d12defa29ba46b6971c.jpg)  
 图7加力燃烧室平稳性试验结果
 
-![](images/bcaa670e96853013cfa2d7bfc7fc0e722dd0a6e07108456739ed6144130252ee.jpg)  
+![](extracted_chunk_019/images/bcaa670e96853013cfa2d7bfc7fc0e722dd0a6e07108456739ed6144130252ee.jpg)  
 图8加力燃烧平稳性研究
 
 发展技术报告
@@ -2239,7 +2239,7 @@ DTR 86020
 
 
 
-## Chunk 20
+## Chunk 20 (Original Pages 96-100)
 
 试验15（a）和（b），1967.5.24\~1967.6.6，发动机41加力燃烧室H366（早期使用型发动机）（参阅图RHD1023）
 
@@ -2317,51 +2317,51 @@ DTR 86020
 
 <table><tr><td rowspan=2 colspan=1>高       度（英尺）</td><td rowspan=2 colspan=1>马赫数</td><td rowspan=1 colspan=3>总的蒸发式稳定器流量（加仑/小时）</td></tr><tr><td rowspan=1 colspan=1>现有的</td><td rowspan=1 colspan=1>需要的</td><td rowspan=1 colspan=1>增加 %</td></tr><tr><td rowspan=1 colspan=1>36000</td><td rowspan=1 colspan=1>0.9</td><td rowspan=1 colspan=1>214</td><td rowspan=1 colspan=1>274</td><td rowspan=1 colspan=1>28</td></tr><tr><td rowspan=1 colspan=1>45000</td><td rowspan=1 colspan=1>0.9</td><td rowspan=1 colspan=1>137</td><td rowspan=1 colspan=1>210</td><td rowspan=1 colspan=1>53.7</td></tr><tr><td rowspan=1 colspan=1>52000</td><td rowspan=1 colspan=1>0.9</td><td rowspan=1 colspan=1>92</td><td rowspan=1 colspan=1>170</td><td rowspan=1 colspan=1>84.8</td></tr></table>
 
-![](images/8e4a0fef0fbcd95e25f6e50ca94a74e9a2916ea5e8aabb7c32e1e0d59a5f3a16.jpg)  
+![](extracted_chunk_020/images/8e4a0fef0fbcd95e25f6e50ca94a74e9a2916ea5e8aabb7c32e1e0d59a5f3a16.jpg)  
 图RHD863加力室中心安装的催化点火器的点火试验（发动机：38，加力室：H348）
 
 试验91967.4.6
 
 试验101967.4.10
 
-![](images/5a74a355032a25c304c7255b7f97568eec89e2343a200e5037e81a7f16b25ffe.jpg)  
+![](extracted_chunk_020/images/5a74a355032a25c304c7255b7f97568eec89e2343a200e5037e81a7f16b25ffe.jpg)  
 图RHD1007加力室中心安装的催化点火器的点火试验
 
 （发动机：41，加力室：H368和H348）
 
 试验12（i 1967.14.22336000英尺M9.9P=16.5英施局）
 
-![](images/9db5781895c451c9fb7942d5518e56ba439ae218f98caf858956e9c54233a0da.jpg)  
+![](extracted_chunk_020/images/9db5781895c451c9fb7942d5518e56ba439ae218f98caf858956e9c54233a0da.jpg)  
 图RHD1027加力点火试验
 
 （发动机：20006，加力室：H348）
 
-![](images/887849861fc672610c175f223628df778679928a75b5839078147bbb5ef71c69.jpg)  
+![](extracted_chunk_020/images/887849861fc672610c175f223628df778679928a75b5839078147bbb5ef71c69.jpg)  
 图RHD1028加力点火试验
 
 （发动机：20006，加力室：H348）
 
-![](images/81a3bf8d48b365c53f01eaaba73a5e3137247141d79bad540624407125686aab.jpg)  
+![](extracted_chunk_020/images/81a3bf8d48b365c53f01eaaba73a5e3137247141d79bad540624407125686aab.jpg)  
 图RHD1024蒸发式稳定器供油量最佳化试验
 
 
 
-## Chunk 21
+## Chunk 21 (Original Pages 101-105)
 
-![](images/f1d527770a6b5c2a4bde93cb04881db651ce3fa5290ff31fc9c4fc8fd7da0815.jpg)  
+![](extracted_chunk_021/images/f1d527770a6b5c2a4bde93cb04881db651ce3fa5290ff31fc9c4fc8fd7da0815.jpg)  
 图RHD1025蒸发式稳定器供油量最佳化试验
 
 （发动机：20006，加力室：H348）
 
-![](images/f1538232a283ec5f8145741c383290ec7cd4dfbe416e41861bedf4a391678662.jpg)  
+![](extracted_chunk_021/images/f1538232a283ec5f8145741c383290ec7cd4dfbe416e41861bedf4a391678662.jpg)  
 图RHD1026蒸发式稳定器供油量最佳化试验
 
-![](images/c018d1f7175a1c636774348307a9b99c7316b63fe914f2729be9b1cfd6baedd3.jpg)  
+![](extracted_chunk_021/images/c018d1f7175a1c636774348307a9b99c7316b63fe914f2729be9b1cfd6baedd3.jpg)  
 图RHD1023高空试车台加力点火试验
 
 （初期使用型发动机）
 
-![](images/edf25f0cd41e6afb58441b8a46f05ab1fadad73856e432ba9189b9c465679b1e.jpg)  
+![](extracted_chunk_021/images/edf25f0cd41e6afb58441b8a46f05ab1fadad73856e432ba9189b9c465679b1e.jpg)  
 图RHD952蒸发式稳定器供油量（最小加力）
 
 1968.2.1第1版  
@@ -2488,7 +2488,7 @@ B（1）采用上面已提到的改变蒸发稳定器供油分配，并用一个
 
 
 
-## Chunk 22
+## Chunk 22 (Original Pages 106-110)
 
 器供油量小时，火焰传播时间较长，图1还说明当催化点火器点着后，先是内圈跟着点着，然后全部点着。
 
@@ -2526,40 +2526,40 @@ B（1）采用上面已提到的改变蒸发稳定器供油分配，并用一个
 
 6.6由上表可以看到20003/6作为早期生产型发动机，其燃烧室熄火压力变坏了，熄火压力为7.2磅/英寸2（绝对），而在上一年43号发动机上试验时为5磅/英寸（绝对）。这可能是由于内输油圈重新供油所引起。考虑到燃烧室中心处燃油浓度的影响和为了避免催化点火器的稳定器烧坏而使喷流指向内圈蒸发稳定器的边缘，不是没有道理的。如果在高空，能用大的催化点火器输油环的供油量来点燃加力燃烧室，那就可以减轻内圈蒸发稳定器的负荷，甚至可以进一步补偿内输油圈的供油量。内输油圈供油量对熄火的影响将在以后的高空试车台试验中校验。
 
-![](images/bfbff44b3a690cc99871d8acfce47871e8540ba55a10936df6f5df74445336eb.jpg)  
+![](extracted_chunk_022/images/bfbff44b3a690cc99871d8acfce47871e8540ba55a10936df6f5df74445336eb.jpg)  
 图1在高空台进行的加力燃烧室点火试验
 
-![](images/42be7f917ecb38b0796a1b2be59afc260e7a0ab54b7fe4ce2c6938fbd2b5581d.jpg)  
+![](extracted_chunk_022/images/42be7f917ecb38b0796a1b2be59afc260e7a0ab54b7fe4ce2c6938fbd2b5581d.jpg)  
 图2在高空台进行的加力燃烧室点火试验
 
-![](images/23634b25a524933030aca438d20792b4f31a2cd3059f6e09f59278d9467ee32f.jpg)  
+![](extracted_chunk_022/images/23634b25a524933030aca438d20792b4f31a2cd3059f6e09f59278d9467ee32f.jpg)  
 图3在高空台进行的加力燃烧室点火试验
 
-![](images/c3d75f25113c3e52d9adbf1c2d4ddf433b6e89aad5f5804f8daaa438f8b1ab28.jpg)  
+![](extracted_chunk_022/images/c3d75f25113c3e52d9adbf1c2d4ddf433b6e89aad5f5804f8daaa438f8b1ab28.jpg)  
 图4在高空台进行的加力燃烧室点火试验
 
-![](images/dfd5beeaf19d51da5b0703447f8a1b09b63aa529ae6076879b629c99f1733843.jpg)  
+![](extracted_chunk_022/images/dfd5beeaf19d51da5b0703447f8a1b09b63aa529ae6076879b629c99f1733843.jpg)  
 图5在高空台进行的加力燃烧室点火试验
 
-![](images/1c82cfbafdedea843a23fdb20ef32fd4363a8b10f23d8a76a1447a088c229c38.jpg)  
+![](extracted_chunk_022/images/1c82cfbafdedea843a23fdb20ef32fd4363a8b10f23d8a76a1447a088c229c38.jpg)  
 图6在高空台进行的加力燃烧室点火试验
 
 
 
-## Chunk 23
+## Chunk 23 (Original Pages 111-115)
 
-![](images/e76f3bfc2092afe98e495fcf0b0193b8706bfb337eec7560fde54fd7376d2ab8.jpg)  
+![](extracted_chunk_023/images/e76f3bfc2092afe98e495fcf0b0193b8706bfb337eec7560fde54fd7376d2ab8.jpg)  
 图7在高空台进行的加力燃烧室点火试验
 
-![](images/a9248fd1d91177accc1c1ae6d050ac37e474a1bfc6b21ae4f7ac42a4076e2da6.jpg)  
+![](extracted_chunk_023/images/a9248fd1d91177accc1c1ae6d050ac37e474a1bfc6b21ae4f7ac42a4076e2da6.jpg)  
 器
 
-![](images/945a7d55ab35214a05a28491599f5f755902c34e3f6da594a0a765148d9c9cd0.jpg)
+![](extracted_chunk_023/images/945a7d55ab35214a05a28491599f5f755902c34e3f6da594a0a765148d9c9cd0.jpg)
 
-![](images/7784454da3dd63be9372b10c8fc768f62f652294856e4d2d0e535427f970483d.jpg)  
+![](extracted_chunk_023/images/7784454da3dd63be9372b10c8fc768f62f652294856e4d2d0e535427f970483d.jpg)  
 图10马赫数对蒸发式稳定器供油量的影响
 
-![](images/501505b0c10b24f07a93864b44efec97f81b374f608c7e7bab722d4554714c96.jpg)  
+![](extracted_chunk_023/images/501505b0c10b24f07a93864b44efec97f81b374f608c7e7bab722d4554714c96.jpg)  
 图11自动接通加力点火与蒸发式稳定器供油建立之后接通加力点火的比较
 
 <table><tr><td>性能技术报告</td><td>PTR12257</td></tr><tr><td colspan="2">H346号加力燃烧室装在高空试车台上的斯贝 MK202模拟器上进行的试验的结果及讨论</td></tr></table>
@@ -2614,35 +2614,35 @@ PTR12169对试验装置在不加力时校准的讨论中，说明了推力测量
 
 
 
-## Chunk 24
+## Chunk 24 (Original Pages 116-120)
 
-![](images/12e04ddd6acd129e88f217301e0650b352827b0deb7b9b32c4cab8ddfb7ec314.jpg)  
+![](extracted_chunk_024/images/12e04ddd6acd129e88f217301e0650b352827b0deb7b9b32c4cab8ddfb7ec314.jpg)  
 图1加力比与加力燃烧室混合总压的关系(标准加力燃烧室)
 
-![](images/8cab4c21ecf1aa99942133152bcd355b2f4d31201c4ad5173a468665d544fa52.jpg)  
+![](extracted_chunk_024/images/8cab4c21ecf1aa99942133152bcd355b2f4d31201c4ad5173a468665d544fa52.jpg)  
 图2尾喷口面积与加力燃烧室混合总压的关系（标准加力燃烧室）
 
-![](images/ae63b596331c9e8f029cd092faba459cb67cf21ca2aa0886e6a530e8864e5fb5.jpg)  
+![](extracted_chunk_024/images/ae63b596331c9e8f029cd092faba459cb67cf21ca2aa0886e6a530e8864e5fb5.jpg)  
 图3燃油流量分配（标准加力燃烧室）
 
-![](images/857b37f47b05268df461384d8fda0d55fd695f0e64b2ba2c238c62573d51f591.jpg)  
+![](extracted_chunk_024/images/857b37f47b05268df461384d8fda0d55fd695f0e64b2ba2c238c62573d51f591.jpg)  
 图4加力比与加力燃烧室混合总压的关系（改进了的加力燃烧室）
 
-![](images/1dcd1fe46ad21eeea4fe616c42b719bedf218039d2c2034abf4165f6870d7a3b.jpg)  
+![](extracted_chunk_024/images/1dcd1fe46ad21eeea4fe616c42b719bedf218039d2c2034abf4165f6870d7a3b.jpg)  
 图5燃油流量分配（改进了的加力燃烧室，3个输油圈供油）
 
-![](images/d3992d0658b02711a1747f3b8301a4e3e822dbebe4ae8dc4799be0d01384d740.jpg)  
+![](extracted_chunk_024/images/d3992d0658b02711a1747f3b8301a4e3e822dbebe4ae8dc4799be0d01384d740.jpg)  
 图6燃油流量分配（改进了的加力燃烧室，4个输油圈供油，去掉了挡油屏）
 
-![](images/2d7b0e0990a753ac0c9816cc0f19fabaa93390440b4af61459ddd3d01d19f0eb.jpg)  
+![](extracted_chunk_024/images/2d7b0e0990a753ac0c9816cc0f19fabaa93390440b4af61459ddd3d01d19f0eb.jpg)  
 图7S14与Pi的关系
 
-![](images/e92dcb32ab3e34dbec5aa34f09ab88ce7c2fe2408c9311bb6223442db828a66d.jpg)  
+![](extracted_chunk_024/images/e92dcb32ab3e34dbec5aa34f09ab88ce7c2fe2408c9311bb6223442db828a66d.jpg)  
 图8S503与Pi的关系
 
 
 
-## Chunk 25
+## Chunk 25 (Original Pages 121-125)
 
 <table><tr><td>性能技术报告</td><td>PTR 12169</td></tr><tr><td>用斯贝MK202模拟器在高空台上进行的不加 力状态高、低工作线校准试验的结果及讨论</td></tr></table>
 
@@ -2794,7 +2794,7 @@ X _ { \mathrm { { D } } } = \mathrm { { K P i } - \Sigma A p _ { 0 } }
 
 
 
-## Chunk 26
+## Chunk 26 (Original Pages 126-130)
 
 <table><tr><td rowspan=1 colspan=5>加力燃烧室进口</td><td rowspan=1 colspan=4>喷     □     控    制H</td><td rowspan=1 colspan=3>推          力</td></tr><tr><td rowspan=1 colspan=1>M8磅/秒</td><td rowspan=1 colspan=1>TgK</td><td rowspan=1 colspan=1>P磅/英寸2绝对</td><td rowspan=1 colspan=1>S503磅/英寸1·绝对</td><td rowspan=1 colspan=1>[M8/P8</td><td rowspan=1 colspan=1>S2磅/英寸2·绝对</td><td rowspan=1 colspan=1>S10磅/英寸·绝对</td><td rowspan=1 colspan=1>S14磅/英寸·绝对</td><td rowspan=1 colspan=1>Pi/S14</td><td rowspan=1 colspan=1>XG/Po</td><td rowspan=1 colspan=1>XL/P。</td><td rowspan=1 colspan=1>XD/Po</td></tr><tr><td rowspan=1 colspan=1>100,50</td><td rowspan=1 colspan=1>711</td><td rowspan=1 colspan=1>16.83</td><td rowspan=1 colspan=1>15.806</td><td rowspan=1 colspan=1>5.97</td><td rowspan=1 colspan=1>16.76</td><td rowspan=1 colspan=1>16.76</td><td rowspan=1 colspan=1>16.76</td><td rowspan=1 colspan=1>2.159</td><td rowspan=1 colspan=1>5910</td><td rowspan=1 colspan=1>2520</td><td rowspan=1 colspan=1>3390</td></tr><tr><td rowspan=1 colspan=1>69.75</td><td rowspan=1 colspan=1>711</td><td rowspan=1 colspan=1>11.68</td><td rowspan=1 colspan=1>10.954</td><td rowspan=1 colspan=1>5.97</td><td rowspan=1 colspan=1>11.678</td><td rowspan=1 colspan=1>11.678</td><td rowspan=1 colspan=1>11.678</td><td rowspan=1 colspan=1>2.147</td><td rowspan=1 colspan=1>5545</td><td rowspan=1 colspan=1>2202</td><td rowspan=1 colspan=1>3344</td></tr><tr><td rowspan=1 colspan=1>82.51</td><td rowspan=1 colspan=1>716</td><td rowspan=1 colspan=1>13.84</td><td rowspan=1 colspan=1>12.537</td><td rowspan=1 colspan=1>5.95</td><td rowspan=1 colspan=1>13.437</td><td rowspan=1 colspan=1>13.434</td><td rowspan=1 colspan=1>13.434</td><td rowspan=1 colspan=1>2.156</td><td rowspan=1 colspan=1>5670</td><td rowspan=1 colspan=1>2342</td><td rowspan=1 colspan=1>3307</td></tr><tr><td rowspan=1 colspan=1>91.38</td><td rowspan=1 colspan=1>713</td><td rowspan=1 colspan=1>15.33</td><td rowspan=1 colspan=1>14.412</td><td rowspan=1 colspan=1>5.95</td><td rowspan=1 colspan=1>15.342</td><td rowspan=1 colspan=1>15.342</td><td rowspan=1 colspan=1>15.342</td><td rowspan=1 colspan=1>2.150</td><td rowspan=1 colspan=1>5760</td><td rowspan=1 colspan=1>2425</td><td rowspan=1 colspan=1>3335</td></tr><tr><td rowspan=1 colspan=1>16.71</td><td rowspan=1 colspan=1>697</td><td rowspan=1 colspan=1>2.765</td><td rowspan=1 colspan=1>2.618</td><td rowspan=1 colspan=1>6.04</td><td rowspan=1 colspan=1>2.815</td><td rowspan=1 colspan=1>2.829</td><td rowspan=1 colspan=1>2.829</td><td rowspan=1 colspan=1>2.115</td><td rowspan=1 colspan=1>1822</td><td rowspan=1 colspan=1>641</td><td rowspan=1 colspan=1>1182</td></tr><tr><td rowspan=1 colspan=1>41.74</td><td rowspan=1 colspan=1>704</td><td rowspan=1 colspan=1>6.95</td><td rowspan=1 colspan=1>6.591</td><td rowspan=1 colspan=1>6.01</td><td rowspan=1 colspan=1>7.05</td><td rowspan=1 colspan=1>7.05</td><td rowspan=1 colspan=1>7.05</td><td rowspan=1 colspan=1>2.129</td><td rowspan=1 colspan=1>4070</td><td rowspan=1 colspan=1>1695</td><td rowspan=1 colspan=1>2215</td></tr><tr><td rowspan=1 colspan=1>33.49</td><td rowspan=1 colspan=1>704</td><td rowspan=1 colspan=1>5.58</td><td rowspan=1 colspan=1>5.236</td><td rowspan=1 colspan=1>6.00</td><td rowspan=1 colspan=1>5.628</td><td rowspan=1 colspan=1>5.628</td><td rowspan=1 colspan=1>5.643</td><td rowspan=1 colspan=1>2.124</td><td rowspan=1 colspan=1>1857</td><td rowspan=1 colspan=1>817</td><td rowspan=1 colspan=1>1040</td></tr><tr><td rowspan=1 colspan=1>53.05</td><td rowspan=1 colspan=1>709</td><td rowspan=1 colspan=1>8.88</td><td rowspan=1 colspan=1>8.276</td><td rowspan=1 colspan=1>5.98</td><td rowspan=1 colspan=1>8.893</td><td rowspan=1 colspan=1>8.893</td><td rowspan=1 colspan=1>8.897</td><td rowspan=1 colspan=1>2.136</td><td rowspan=1 colspan=1>1814</td><td rowspan=1 colspan=1>825</td><td rowspan=1 colspan=1>989</td></tr><tr><td rowspan=1 colspan=1>74.93</td><td rowspan=1 colspan=1>711</td><td rowspan=1 colspan=1>12.52</td><td rowspan=1 colspan=1>11.789</td><td rowspan=1 colspan=1>5.99</td><td rowspan=1 colspan=1>12.568</td><td rowspan=1 colspan=1>12.597</td><td rowspan=1 colspan=1>12.362</td><td rowspan=1 colspan=1>2,146</td><td rowspan=1 colspan=1>1680</td><td rowspan=1 colspan=1>829</td><td rowspan=1 colspan=1>853</td></tr><tr><td rowspan=1 colspan=1>100.36</td><td rowspan=1 colspan=1>710</td><td rowspan=1 colspan=1>16.80</td><td rowspan=1 colspan=1>15.717</td><td rowspan=1 colspan=1>5.99</td><td rowspan=1 colspan=1>11.616</td><td rowspan=1 colspan=1>11,638</td><td rowspan=1 colspan=1>11.338</td><td rowspan=1 colspan=1>3.002</td><td rowspan=1 colspan=1>1795</td><td rowspan=1 colspan=1>855</td><td rowspan=1 colspan=1>943</td></tr><tr><td rowspan=1 colspan=1>99.78</td><td rowspan=1 colspan=1>714</td><td rowspan=1 colspan=1>16.78</td><td rowspan=1 colspan=1>15.762</td><td rowspan=1 colspan=1>5.99</td><td rowspan=1 colspan=1>16.764</td><td rowspan=1 colspan=1>16.739</td><td rowspan=1 colspan=1>16.739</td><td rowspan=1 colspan=1>2.152</td><td rowspan=1 colspan=1>3960</td><td rowspan=1 colspan=1>1761</td><td rowspan=1 colspan=1>2199</td></tr><tr><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>一</td><td rowspan=1 colspan=1>丨</td><td rowspan=1 colspan=1>13.158</td><td rowspan=1 colspan=1>一</td><td rowspan=1 colspan=1>13.95</td><td rowspan=1 colspan=1>13.95</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>3950</td><td rowspan=1 colspan=1>1660</td><td rowspan=1 colspan=1>2290</td></tr><tr><td rowspan=1 colspan=1>69.09</td><td rowspan=1 colspan=1>712</td><td rowspan=1 colspan=1>11.58</td><td rowspan=1 colspan=1>10.908</td><td rowspan=1 colspan=1>5.97</td><td rowspan=1 colspan=1>11.602</td><td rowspan=1 colspan=1>11.617</td><td rowspan=1 colspan=1>11.641</td><td rowspan=1 colspan=1>2.144</td><td rowspan=1 colspan=1>3940</td><td rowspan=1 colspan=1>1603</td><td rowspan=1 colspan=1>2337</td></tr><tr><td rowspan=1 colspan=1>55.38</td><td rowspan=1 colspan=1>711</td><td rowspan=1 colspan=1>9.25</td><td rowspan=1 colspan=1>8.751</td><td rowspan=1 colspan=1>5.99</td><td rowspan=1 colspan=1>9.335</td><td rowspan=1 colspan=1>9.344</td><td rowspan=1 colspan=1>9.359</td><td rowspan=1 colspan=1>2.137</td><td rowspan=1 colspan=1>3882</td><td rowspan=1 colspan=1>1574</td><td rowspan=1 colspan=1>2308</td></tr></table>
 
@@ -2810,47 +2810,47 @@ X _ { \mathrm { { D } } } = \mathrm { { K P i } - \Sigma A p _ { 0 } }
 
 图1至图12为在高空试车台上用斯贝MK202模拟装置代替发动机进行的一系列与加力有关的试验的结果。
 
-![](images/b6f01249d02fb7286ac9a7d8d05e95139166da38c8f0f790dba6361ca0fad548.jpg)  
+![](extracted_chunk_026/images/b6f01249d02fb7286ac9a7d8d05e95139166da38c8f0f790dba6361ca0fad548.jpg)  
 图1进口总动量与Pi的关系（低工作线校准）
 
-![](images/bb7a23611c7fcaf56b0be0af734e6a84aa4fd0dc5e17f9a66c25796e895ccade.jpg)  
+![](extracted_chunk_026/images/bb7a23611c7fcaf56b0be0af734e6a84aa4fd0dc5e17f9a66c25796e895ccade.jpg)  
 图2阻力项总和与 \(\mathbb { P } _ { \mathrm { ~ i ~ } }\) 的关系（低工作线校准）
 
-![](images/7ec7ebedfafbe9ad4e5dc5c3823bb4e8ebaf59dbe0dec42a775255bb27fa27b5.jpg)  
+![](extracted_chunk_026/images/7ec7ebedfafbe9ad4e5dc5c3823bb4e8ebaf59dbe0dec42a775255bb27fa27b5.jpg)  
 图3测力计读数与 \(\mathbb { P } _ { i }\) 的关系（低工作线校准）
 
-![](images/ab3c20e78af0c0a0618227c384594e3fef60ebc6e1c6595b8ef1ce965e0117f3.jpg)  
+![](extracted_chunk_026/images/ab3c20e78af0c0a0618227c384594e3fef60ebc6e1c6595b8ef1ce965e0117f3.jpg)  
 图4推力/ \(\mathrm { ~ P ~ } _ { 0 }\) 与 \({ \mathrm { { P i } } } / { { \mathrm { P } } _ { 0 } }\) 的关系（低工作线）
 
-![](images/b07a8e0a438d6cdae81451316c5cea287851e727e1355acc96513cf0d78d16bf.jpg)  
+![](extracted_chunk_026/images/b07a8e0a438d6cdae81451316c5cea287851e727e1355acc96513cf0d78d16bf.jpg)  
 图5△XL与△P。的关系（低工作线）
 
-![](images/8ee10cb2de2eb16849ad6823f69a47b9007ded21d04f2f3fd7266bc81f9ea750.jpg)  
+![](extracted_chunk_026/images/8ee10cb2de2eb16849ad6823f69a47b9007ded21d04f2f3fd7266bc81f9ea750.jpg)  
 图6进口总动量与Pi的关系（高工作线校准）
 
 
 
-## Chunk 27
+## Chunk 27 (Original Pages 131-135)
 
-![](images/a8cf8ae4e1a08d0843a00d00edeb93974a4501ef98605c80c8fd2d0ed387ca37.jpg)  
+![](extracted_chunk_027/images/a8cf8ae4e1a08d0843a00d00edeb93974a4501ef98605c80c8fd2d0ed387ca37.jpg)  
 图7阻力项总和与Pi的关系（高工作线校准）
 
-![](images/2f4c37eaf7ff4ac73175d51479766abab91b3cf44c6277f39c3ecc6dcfd8dcd9.jpg)  
+![](extracted_chunk_027/images/2f4c37eaf7ff4ac73175d51479766abab91b3cf44c6277f39c3ecc6dcfd8dcd9.jpg)  
 图8测力计读数与 \(\mathrm { P i }\) 的关系（高工作线校准）
 
-![](images/eb697bb235d497a9c7fe18d54083f1ce07d258f03ee94411e8a5501265d94e4c.jpg)  
+![](extracted_chunk_027/images/eb697bb235d497a9c7fe18d54083f1ce07d258f03ee94411e8a5501265d94e4c.jpg)  
 图9推力 \({ \bf { \bar { p } } } _ { 0 }\) 与 \(\mathrm { P _ { i } } / \mathrm { p _ { \circ } }\) 的关系（高工作线）
 
-![](images/445518d7fa03f0285e7b44db036b219b026cd65363445e23a65de0f19ea7a34a.jpg)  
+![](extracted_chunk_027/images/445518d7fa03f0285e7b44db036b219b026cd65363445e23a65de0f19ea7a34a.jpg)  
 图10 \(\Delta \mathrm { X _ { L } }\) 与 \(\Delta \mathfrak { p } _ { \mathfrak { o } }\) 的关系（高工作线）
 
-![](images/8e3541909fc0c95dd04119ab33a37987e3134b1ebd9947d857cb899de57c3ff8.jpg)  
+![](extracted_chunk_027/images/8e3541909fc0c95dd04119ab33a37987e3134b1ebd9947d857cb899de57c3ff8.jpg)  
 图11测力计读数与 \({ \mathrm { P i } } / { \mathrm { p } } _ { \mathrm { 0 } }\) 的关系（高工作线校准）
 
-![](images/9eb8fc04e2d833409135518cd81e97c8b70194ff200ff4e050de55e1f347adc5.jpg)  
+![](extracted_chunk_027/images/9eb8fc04e2d833409135518cd81e97c8b70194ff200ff4e050de55e1f347adc5.jpg)  
 图12预热器效率与 \(\mathrm { P _ { i } }\) 的关系
 
-![](images/03fd3331dafb9c82df0260352ad0c77c7176d1dd0d41c42ed2dfe9b2b9dd6efe.jpg)  
+![](extracted_chunk_027/images/03fd3331dafb9c82df0260352ad0c77c7176d1dd0d41c42ed2dfe9b2b9dd6efe.jpg)  
 图13高空试验台用的斯贝MK202发动机模拟器示意图
 
 <table><tr><td>性能技术报告</td><td>PTR 12571</td></tr><tr><td>斯贝MK202第20003/7号发动机的高空试车台 试验—确定现行生产型加力系统的标准</td></tr></table>
@@ -2877,7 +2877,7 @@ a，改进了的压比调节器针阀，使在马赫数为2.0时得到较低的�
 
 
 
-## Chunk 28
+## Chunk 28 (Original Pages 136-140)
 
 b。隔热屏上钻孔。
 
@@ -2964,7 +2964,7 @@ d.蒸发稳定器的供油量为主加力输油圈供油量的 \(12 \%\) 。
 
 
 
-## Chunk 29
+## Chunk 29 (Original Pages 141-145)
 
 # 8.0性能校验概述
 
@@ -3034,74 +3034,74 @@ d.蒸发稳定器的供油量为主加力输油圈供油量的 \(12 \%\) 。
 
 图12 \(S 6 3 7 / S 6 2 9 { \sim } \mathrm { M } _ { 1 } \ \sqrt { \mathrm { ~ T } _ { 1 } / } \mathrm { P } _ { 1 }\) 图13 \(\mathrm { P _ { 2 0 0 } / P _ { 1 } { \sim } M _ { 1 } } \ \sqrt \mathrm { \textit { T } _ { 1 } } \ / \mathrm { P } _ { 1 }\) 图14喷口面积～喷口位置指示器转角图15热喷口面积 \(\sim\) 冷喷口面积图16 \(X _ { \mathrm { c } } { \sim } \mathrm { F _ { \mathrm { R } } / M _ { 1 } }\) 试车台性能
 
-![](images/40c3b1a1bdce4dbade37517be8833313ae190d80a9e164e40c92fc48af5b4fb9.jpg)  
+![](extracted_chunk_029/images/40c3b1a1bdce4dbade37517be8833313ae190d80a9e164e40c92fc48af5b4fb9.jpg)  
 图1斯贝MK20220003/7号发动机的加力性能
 
-![](images/5196940d762ab135e6c8d48ca9a1b0e8c67741f84202d832adbff22cbb3b1362.jpg)  
+![](extracted_chunk_029/images/5196940d762ab135e6c8d48ca9a1b0e8c67741f84202d832adbff22cbb3b1362.jpg)  
 图2斯贝MK202 \(2 0 0 0 3 / 7\) 号发动机的加力性能
 
-![](images/de3448005b2a7b6b79c243f84f3bd2c70da13da6168a03c1d658dd15fdbf94fb.jpg)  
+![](extracted_chunk_029/images/de3448005b2a7b6b79c243f84f3bd2c70da13da6168a03c1d658dd15fdbf94fb.jpg)  
 图2a斯贝MK202 \(2 0 0 0 3 / 7\) 号发动机的加力性能
 
 
 
-## Chunk 30
+## Chunk 30 (Original Pages 146-150)
 
-![](images/e59bc6968c872f5ff41abfd2d95a6928e799b981ad01440a861d9675164d613c.jpg)  
+![](extracted_chunk_030/images/e59bc6968c872f5ff41abfd2d95a6928e799b981ad01440a861d9675164d613c.jpg)  
 图3斯贝MK202 \(2 0 0 0 3 / 7\) 号发动机的加力性能
 
-![](images/b79a83988e7ed4e1cf5b14f9b48ae2478ef122932abc2f65b4fe5c2e679aad5f.jpg)  
+![](extracted_chunk_030/images/b79a83988e7ed4e1cf5b14f9b48ae2478ef122932abc2f65b4fe5c2e679aad5f.jpg)  
 图4斯贝MK202 \({ 2 0 0 0 3 / 7 }\) 号发动机加力性能
 
-![](images/a64002831666393a4e440e8cccc83a90dc6221d6b07823989de2528e37d10988.jpg)  
+![](extracted_chunk_030/images/a64002831666393a4e440e8cccc83a90dc6221d6b07823989de2528e37d10988.jpg)  
 图5斯贝MK202 \(2 0 0 0 3 / 7\) 号发动机加力性能
 
-![](images/d554beeeb7ba732901a11bdce4aa8b2d2925d30904ab50ae0021c2e61298127f.jpg)  
+![](extracted_chunk_030/images/d554beeeb7ba732901a11bdce4aa8b2d2925d30904ab50ae0021c2e61298127f.jpg)  
 图6斯贝MK20220003/7号发动机加力性能
 
-![](images/9c6736d0bc83c6fbeb21ddf6c51f18700a2737e3773aab0aacc9c778a147d557.jpg)  
+![](extracted_chunk_030/images/9c6736d0bc83c6fbeb21ddf6c51f18700a2737e3773aab0aacc9c778a147d557.jpg)  
 图7斯贝MK20220003/7号发动机加力性能
 
 
 
-## Chunk 31
+## Chunk 31 (Original Pages 151-155)
 
-![](images/79c0174528f86b15396fd79ad1448300a194475864374082d247809ee9808cee.jpg)  
+![](extracted_chunk_031/images/79c0174528f86b15396fd79ad1448300a194475864374082d247809ee9808cee.jpg)  
 图8斯贝MK202 \(2 0 0 0 3 / 7\) 号发动机加力性能
 
-![](images/4d437bd023e5aa5bdfbcf26a2e079cb9b2fbec129e12f1a4f0333389c2057bb2.jpg)  
+![](extracted_chunk_031/images/4d437bd023e5aa5bdfbcf26a2e079cb9b2fbec129e12f1a4f0333389c2057bb2.jpg)  
 图9斯贝MK202 \(2 0 0 0 3 / 7\) 号发动机早期型和现用型的加力性能
 
-![](images/9b57c964deb01482cbbc200d5275349dcc418d6020bb51649d993840dc57c952.jpg)  
+![](extracted_chunk_031/images/9b57c964deb01482cbbc200d5275349dcc418d6020bb51649d993840dc57c952.jpg)  
 图9a斯贝MK202 \(2 0 0 0 3 / 7\) 号发动机加力性能
 
-![](images/9f42950fdcf9c9bef378558edb74dc037eb8902db209f6d56b3866721b5c67fb.jpg)  
+![](extracted_chunk_031/images/9f42950fdcf9c9bef378558edb74dc037eb8902db209f6d56b3866721b5c67fb.jpg)  
 图10斯贝MK202 \(2 0 0 0 3 / 7\) 号发动机“蜂鸣”边界随 \(\mathrm { ~ P ~ } _ { 1 }\) 的变化（ \(\mathrm { M } _ { \mathrm { N } } = 1 , 5 3 )\)
 
-![](images/eb18af956def645493795e332df3b3758d34c7dff2deda970cd898c22a6f8764.jpg)  
+![](extracted_chunk_031/images/eb18af956def645493795e332df3b3758d34c7dff2deda970cd898c22a6f8764.jpg)  
 图11斯贝MK20220003/7号发动机“蜂鸣”边界随 \(\mathrm { ~ P ~ } _ { 1 }\) 的变化 \(\mathrm { \Delta M _ { N } = 2 . 0 }\) ）
 
 
 
-## Chunk 32
+## Chunk 32 (Original Pages 156-160)
 
-![](images/8b6d613486ba8e61c19d24c8a26bf2eb0e733c1ccf163746999c9064dbc0b998.jpg)  
+![](extracted_chunk_032/images/8b6d613486ba8e61c19d24c8a26bf2eb0e733c1ccf163746999c9064dbc0b998.jpg)  
 图12斯贝MK20220003/7号发动机装有现用型针阀的压比调节器拐点和特性
 
-![](images/0f27902c8c924dc6c04c4add999238f6922172aa6656ecf460c9201b38326e96.jpg)  
+![](extracted_chunk_032/images/0f27902c8c924dc6c04c4add999238f6922172aa6656ecf460c9201b38326e96.jpg)  
 图13斯贝MK20220003/7号发动机不同 \(\mathbf { M } _ { \mathrm { N } }\) 的低压工作线和压比调节器的工作线
 
-![](images/68f256ee5e9f13ff33dcad2708ea2cb119268be9123bd92455647d4d327607de.jpg)  
+![](extracted_chunk_032/images/68f256ee5e9f13ff33dcad2708ea2cb119268be9123bd92455647d4d327607de.jpg)  
 图14斯贝MK20220003/7号发动机喷口面积与喷口位置指示器读数的关系
 
-![](images/b76f89adb4853918efe88ad8a9cb5fe68f907ab4314b500f11b85282a2225719.jpg)  
+![](extracted_chunk_032/images/b76f89adb4853918efe88ad8a9cb5fe68f907ab4314b500f11b85282a2225719.jpg)  
 图15斯贝MK20220003/7号发动机
 
 （带H366T号加力燃烧室）冷喷口面积与热喷口面积的关系
 
-![](images/bbb117fb643a49dac3d0a3443bd7502cf1d5cee388df0c466f6a5c00c4dcddbf.jpg)
+![](extracted_chunk_032/images/bbb117fb643a49dac3d0a3443bd7502cf1d5cee388df0c466f6a5c00c4dcddbf.jpg)
 
-![](images/f8ab2844816c133526c9f0b9dbb90aec8f8f2fc61fa91392807aafc92f471b74.jpg)  
+![](extracted_chunk_032/images/f8ab2844816c133526c9f0b9dbb90aec8f8f2fc61fa91392807aafc92f471b74.jpg)  
 图16斯贝MK20220003/7号发动机 海平而试车台与高空台海平面状态加力性能的比较
 
 资效辉0.8
@@ -3176,7 +3176,7 @@ d.蒸发稳定器的供油量为主加力输油圈供油量的 \(12 \%\) 。
 
 
 
-## Chunk 33
+## Chunk 33 (Original Pages 161-165)
 
 接通紫外线记录仪，在催化点火器接通前 \(1 { \sim } 2\) 秒开动摄影机。筒体压力15磅/英寸时允许有6秒时间点火，筒体压力更低时允许有8秒时间点火。
 
@@ -3281,15 +3281,15 @@ a）它给出较平坦的点火曲线族b）对于一给定发动机状态，它
 
 装到真实的早期生产型结构方案上的文氏管限流咀（也就是 \(7 \times 0 . 0 3 5\) 阻尼器）点火性能很差。仅仅在大的加力燃烧支板限流咀尺寸和高的S635燃油压力下才能点火。这大概是由于燃料在阻尼器通道内沸腾限制了文氏管喷咀的流量。由于这一原因没有画出结果。
 
-![](images/414e134f9ede28d6fa921f4ee902379694966ab859c32c928b39d3ff9fb1919b.jpg)  
+![](extracted_chunk_033/images/414e134f9ede28d6fa921f4ee902379694966ab859c32c928b39d3ff9fb1919b.jpg)  
 图1催化点火器的燃油系统
 
-![](images/8f337faddae1af6ebd9a04d821ff59f4042d0fe50409977c1a4076b8b54ee316.jpg)  
+![](extracted_chunk_033/images/8f337faddae1af6ebd9a04d821ff59f4042d0fe50409977c1a4076b8b54ee316.jpg)  
 图2典型的点火过程紫外线示波图形
 
 
 
-## Chunk 34
+## Chunk 34 (Original Pages 166-170)
 
 图3试验结构方案  
 
@@ -3303,32 +3303,32 @@ a）它给出较平坦的点火曲线族b）对于一给定发动机状态，它
 
 <table><tr><td rowspan=1 colspan=1>R3文氏管限流器</td><td rowspan=1 colspan=1>R1加力室支板限流</td><td rowspan=1 colspan=1>P磅/英寸2（绝对）</td><td rowspan=1 colspan=1>T8K</td><td rowspan=1 colspan=1>燃   油</td><td rowspan=1 colspan=1>单向活门磅/英寸（绝对）</td><td rowspan=1 colspan=1>输油环孔数×尺寸</td></tr><tr><td rowspan=1 colspan=1>0.025</td><td rowspan=1 colspan=1>0.048</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>850</td><td rowspan=1 colspan=1>AVTAG</td><td rowspan=1 colspan=1>120</td><td rowspan=1 colspan=1>16×0.039</td></tr><tr><td rowspan=1 colspan=1>0.025</td><td rowspan=1 colspan=1>0.036</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>930</td><td rowspan=1 colspan=1>AVTAG</td><td rowspan=1 colspan=1>120</td><td rowspan=1 colspan=1>16×0.039</td></tr><tr><td rowspan=1 colspan=1>0.025</td><td rowspan=1 colspan=1>0.041</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>930</td><td rowspan=1 colspan=1>AVTAG</td><td rowspan=1 colspan=1>120</td><td rowspan=1 colspan=1>16×0.039</td></tr><tr><td rowspan=1 colspan=1>0.025</td><td rowspan=1 colspan=1>0.048</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>930</td><td rowspan=1 colspan=1>AVTAG</td><td rowspan=1 colspan=1>120</td><td rowspan=1 colspan=1>16×0.039</td></tr><tr><td rowspan=1 colspan=1>7×0.061</td><td rowspan=1 colspan=1>0.048</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>850</td><td rowspan=1 colspan=1>AVTAG</td><td rowspan=1 colspan=1>120</td><td rowspan=1 colspan=1>16×0.039</td></tr><tr><td rowspan=1 colspan=1>7×0.061</td><td rowspan=1 colspan=1>0.048</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>980</td><td rowspan=1 colspan=1>AVTAG</td><td rowspan=1 colspan=1>120</td><td rowspan=1 colspan=1>16×0.039</td></tr><tr><td rowspan=1 colspan=1>7×0.061</td><td rowspan=1 colspan=1>0.036</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>850</td><td rowspan=1 colspan=1>AVTAG</td><td rowspan=1 colspan=1>120</td><td rowspan=1 colspan=1>16×0.039</td></tr><tr><td rowspan=1 colspan=1>7×0.061</td><td rowspan=1 colspan=1>0.041</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>850</td><td rowspan=1 colspan=1>AVTAG</td><td rowspan=1 colspan=1>120</td><td rowspan=1 colspan=1>16×0.039</td></tr><tr><td rowspan=1 colspan=1>7×0.061</td><td rowspan=1 colspan=1>0.048</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>850</td><td rowspan=1 colspan=1>AVTAG</td><td rowspan=1 colspan=1>120</td><td rowspan=1 colspan=1>16×0.039</td></tr><tr><td rowspan=1 colspan=1>7×0.061</td><td rowspan=1 colspan=1>0.048</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>850</td><td rowspan=1 colspan=1>AVTUR</td><td rowspan=1 colspan=1>120</td><td rowspan=1 colspan=1>16×0.039</td></tr><tr><td rowspan=1 colspan=1>7×0.061</td><td rowspan=1 colspan=1>0.048</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>930</td><td rowspan=1 colspan=1>AVTUR</td><td rowspan=1 colspan=1>120</td><td rowspan=1 colspan=1>16×0.039</td></tr><tr><td rowspan=1 colspan=1>7×0.061</td><td rowspan=1 colspan=1>0.048</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>850</td><td rowspan=1 colspan=1>AVTUR</td><td rowspan=1 colspan=1>120</td><td rowspan=1 colspan=1>16×0.039</td></tr><tr><td rowspan=1 colspan=1>0.025+过滤器</td><td rowspan=1 colspan=1>0.048</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>850</td><td rowspan=1 colspan=1>AVTUR</td><td rowspan=1 colspan=1>120</td><td rowspan=1 colspan=1>16×0.039</td></tr><tr><td rowspan=1 colspan=1>0.025+过滤器</td><td rowspan=1 colspan=1>0.048</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>850</td><td rowspan=1 colspan=1>AVTUR</td><td rowspan=1 colspan=1>120</td><td rowspan=1 colspan=1>16×0.039</td></tr><tr><td rowspan=1 colspan=1>0.025+过滤器</td><td rowspan=1 colspan=1>0.048</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>850</td><td rowspan=1 colspan=1>AVTAG</td><td rowspan=1 colspan=1>120</td><td rowspan=1 colspan=1>16×0.039</td></tr><tr><td rowspan=1 colspan=1>0.025+过滤器</td><td rowspan=1 colspan=1>0.041/0.048</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>850</td><td rowspan=1 colspan=1>AVTAG</td><td rowspan=1 colspan=1>120</td><td rowspan=1 colspan=1>16×0.039</td></tr><tr><td rowspan=1 colspan=1>0.025</td><td rowspan=1 colspan=1>0.036</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>850</td><td rowspan=1 colspan=1>AVTUR</td><td rowspan=1 colspan=1>120</td><td rowspan=1 colspan=1>16×0.039</td></tr><tr><td rowspan=1 colspan=1>0.025</td><td rowspan=1 colspan=1>0.041</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>850</td><td rowspan=1 colspan=1>AVTUR</td><td rowspan=1 colspan=1>120</td><td rowspan=1 colspan=1>16×0.039</td></tr><tr><td rowspan=1 colspan=1>0.025</td><td rowspan=1 colspan=1>0.048</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>850</td><td rowspan=1 colspan=1>AVTUR</td><td rowspan=1 colspan=1>120</td><td rowspan=1 colspan=1>16×0.046</td></tr><tr><td rowspan=1 colspan=1>0.025</td><td rowspan=1 colspan=1>0.055</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>850</td><td rowspan=1 colspan=1>AVTUR</td><td rowspan=1 colspan=1>120</td><td rowspan=1 colspan=1>16×0.046</td></tr><tr><td rowspan=1 colspan=1>0.025</td><td rowspan=1 colspan=1>0.041</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>930</td><td rowspan=1 colspan=1>AVTUR</td><td rowspan=1 colspan=1>120</td><td rowspan=1 colspan=1>16×0.046</td></tr><tr><td rowspan=1 colspan=1>0.025</td><td rowspan=1 colspan=1>0.041</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>930</td><td rowspan=1 colspan=1>AVTUR</td><td rowspan=1 colspan=1>120</td><td rowspan=1 colspan=1>16×0.046</td></tr><tr><td rowspan=1 colspan=1>0.025</td><td rowspan=1 colspan=1>0.036</td><td rowspan=1 colspan=1>850</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>AVTUR</td><td rowspan=1 colspan=1>120</td><td rowspan=1 colspan=1>16×0.046</td></tr><tr><td rowspan=1 colspan=1>0.025</td><td rowspan=1 colspan=1>0.041</td><td rowspan=1 colspan=1>850</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>AVTUR</td><td rowspan=1 colspan=1>120</td><td rowspan=1 colspan=1>16×0.046</td></tr><tr><td rowspan=1 colspan=1>0.025</td><td rowspan=1 colspan=1>0.048</td><td rowspan=1 colspan=1>850</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>AVTUR</td><td rowspan=1 colspan=1>120</td><td rowspan=1 colspan=1>16×0.046</td></tr><tr><td rowspan=1 colspan=1>0.025</td><td rowspan=1 colspan=1>0.055</td><td rowspan=1 colspan=1>850</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>AVTUR</td><td rowspan=1 colspan=1>120</td><td rowspan=1 colspan=1>16×0.046</td></tr><tr><td rowspan=1 colspan=1>0.025</td><td rowspan=1 colspan=1>0.036</td><td rowspan=1 colspan=1>850</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>AVTAG</td><td rowspan=1 colspan=1>120</td><td rowspan=1 colspan=1>16×0.046</td></tr><tr><td rowspan=1 colspan=1>0.025</td><td rowspan=1 colspan=1>0.041</td><td rowspan=1 colspan=1>850</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>AVTAG</td><td rowspan=1 colspan=1>120</td><td rowspan=1 colspan=1>16×0.046</td></tr><tr><td rowspan=1 colspan=1>0.025</td><td rowspan=1 colspan=1>0.048</td><td rowspan=1 colspan=1>850</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>AVTAG</td><td rowspan=1 colspan=1>120</td><td rowspan=1 colspan=1>16×0.046</td></tr><tr><td rowspan=1 colspan=1>0.025</td><td rowspan=1 colspan=1>0.055</td><td rowspan=1 colspan=1>850</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>AVTAG</td><td rowspan=1 colspan=1>120</td><td rowspan=1 colspan=1>16×0.046</td></tr><tr><td rowspan=1 colspan=1>0.025</td><td rowspan=1 colspan=1>0.036</td><td rowspan=1 colspan=1>850</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>AVTAG</td><td rowspan=1 colspan=1>120</td><td rowspan=1 colspan=1>16×0.046</td></tr><tr><td rowspan=1 colspan=1>0.025</td><td rowspan=1 colspan=1>0.041</td><td rowspan=1 colspan=1>850</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>AVTAG</td><td rowspan=1 colspan=1>120</td><td rowspan=1 colspan=1>16×0.046</td></tr><tr><td rowspan=1 colspan=1>0.025</td><td rowspan=1 colspan=1>0.048</td><td rowspan=1 colspan=1>850</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>AVTAG</td><td rowspan=1 colspan=1>120</td><td rowspan=1 colspan=1>16×0.046</td></tr><tr><td rowspan=1 colspan=1>0.025</td><td rowspan=1 colspan=1>0.055</td><td rowspan=1 colspan=1>850</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>AVTAG</td><td rowspan=1 colspan=1>120</td><td rowspan=1 colspan=1>16×0.046</td></tr><tr><td rowspan=1 colspan=1>0.025</td><td rowspan=1 colspan=1>0.041</td><td rowspan=1 colspan=1>930</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>AVTAG</td><td rowspan=1 colspan=1>120</td><td rowspan=1 colspan=1>16×0.046</td></tr><tr><td rowspan=1 colspan=1>0.025</td><td rowspan=1 colspan=1>0.041</td><td rowspan=1 colspan=1>930</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>AVTAG</td><td rowspan=1 colspan=1>120</td><td rowspan=1 colspan=1>16×0.046</td></tr></table>
 
-![](images/a60ec44a2a609ce22c7c982f89ee10bdec64287b4e8b56d4898f9d588f16fbcf.jpg)  
+![](extracted_chunk_034/images/a60ec44a2a609ce22c7c982f89ee10bdec64287b4e8b56d4898f9d588f16fbcf.jpg)  
 图5加力燃烧室压力的影响
 
-![](images/4aab2992d26459a04cc59fdbbdb7090b125eda4a20263b5120e46a7f3df4b62f.jpg)  
+![](extracted_chunk_034/images/4aab2992d26459a04cc59fdbbdb7090b125eda4a20263b5120e46a7f3df4b62f.jpg)  
 图6进口温度的影响
 
-![](images/dd520999d8fae4991aa616c083ca8b425c9396c6b6f37845249f4f20232dc55c.jpg)  
+![](extracted_chunk_034/images/dd520999d8fae4991aa616c083ca8b425c9396c6b6f37845249f4f20232dc55c.jpg)  
 图7燃油种类的影响
 
-![](images/5bdb532dcd1219f49b74b3d4535e69f45125db24f4c31692403312c4b0c81f17.jpg)  
+![](extracted_chunk_034/images/5bdb532dcd1219f49b74b3d4535e69f45125db24f4c31692403312c4b0c81f17.jpg)  
 图8早期生产型和生产型输油环的影响
 
 
 
-## Chunk 35
+## Chunk 35 (Original Pages 171-175)
 
-![](images/baa1212a4ea51d2f9a938d549c7fa36914807e94ea52249cc45df363c8cab69a.jpg)  
+![](extracted_chunk_035/images/baa1212a4ea51d2f9a938d549c7fa36914807e94ea52249cc45df363c8cab69a.jpg)  
 图9催化点火器点火极限
 
-![](images/988127ff05d49c7208f9d609d5434bb3eaeeecbfc0d716ba45a107e060c4fe70.jpg)  
+![](extracted_chunk_035/images/988127ff05d49c7208f9d609d5434bb3eaeeecbfc0d716ba45a107e060c4fe70.jpg)  
 图10120磅/英寸2与200磅/英寸2单向活门的比较
 
-![](images/93918115923a6df1ba1cb3abbb5981f4c804121557888116562dbc71b208b206.jpg)  
+![](extracted_chunk_035/images/93918115923a6df1ba1cb3abbb5981f4c804121557888116562dbc71b208b206.jpg)  
 图110.025及 \(0 . 0 2 5 \cdot +\) 过滤器的R3限流器的影响
 
-![](images/783be10d5f1a49588dce4e80649a5f603c789495a0d4d751698994666be72f35.jpg)  
+![](extracted_chunk_035/images/783be10d5f1a49588dce4e80649a5f603c789495a0d4d751698994666be72f35.jpg)  
 图120.025及 \(0 . 0 2 5 +\) 过滤器的R3限流器的影响
 
 CRR 12079
@@ -3437,7 +3437,7 @@ L _ { 0 } = \mathrm { L } _ { \mathrm { M } } + \mathrm { L } _ { \mathrm { B } 
 
 
 
-## Chunk 36
+## Chunk 36 (Original Pages 176-180)
 
 来又需要改动方程（9），因而由方程（6）所得到的稳定器槽宽（W）要重新计算。因此，要求在W和N之间反复计算以便同时满足方程（6）和方程（8）。
 
@@ -3693,7 +3693,7 @@ f·a·r发动机，理论的 \(=\) 温度由 \(\mathrm { T _ { 1 } }\) 增加到
 
 
 
-## Chunk 37
+## Chunk 37 (Original Pages 181-185)
 
 点小余地。如果在设计计算中超过这一界限，必须增加用于燃烧的空气的百分数，以减小这一温度。
 
@@ -3840,7 +3840,7 @@ A总的（在混合器平面） \(= 9 5 1\) 英寸，几何面积\(= 5 7 0 . 6\)
 且 \(\mathtt { p } _ { 2 } = \mathtt { p } _ { 8 } = 3 6 . 9 7 8\) 磅/英寸²（绝对）  
 现混合器按10个掺混漏斗和 \(L / W = 2 . 0\) ， \(\mathrm { A } _ { 2 } = 3 3 0\) 英寸²来设计。
 
-![](images/64134230295587f315b0fae5b5112aee77c97b8c195b730a94f3a2b7db9c1837.jpg)
+![](extracted_chunk_037/images/64134230295587f315b0fae5b5112aee77c97b8c195b730a94f3a2b7db9c1837.jpg)
 
 每一个掺混混斗如上图形式，因而
 
@@ -3994,7 +3994,7 @@ T和 \(\mathrm { C _ { P } }\) 迭代得 \(\mathrm { T } = 7 4 4 ^ { \circ } \ma
 
 
 
-## Chunk 38
+## Chunk 38 (Original Pages 186-190)
 
 \[
 \mathrm { A _ { 2 f / s } = 6 4 7 _ { \bullet } 3 1 + 4 8 _ { \bullet } 6 0 + 1 0 6 _ { \bullet } 6 6 }
@@ -4126,7 +4126,7 @@ xg
 
 因此
 
-![](images/5067f79a74558defe7ce9777b50a8b89b70cdf6dd4d8e24d7e401d161d5602c4.jpg)
+![](extracted_chunk_038/images/5067f79a74558defe7ce9777b50a8b89b70cdf6dd4d8e24d7e401d161d5602c4.jpg)
 
 \(\mathrm { P _ { 8 } ^ { \prime } } ^ { \ast } = 3 9 . 2 1 6\) 磅/英寸 \(^ 2 = 5 6 4 7 . 0\) 磅/英尺
 
@@ -4304,7 +4304,7 @@ te80.0=.W
 
 
 
-## Chunk 39
+## Chunk 39 (Original Pages 191-195)
 
 推力计算（加力时）
 
@@ -4382,99 +4382,99 @@ Cp 定压比热
 8 冷态损失后  
 L 稳定器边缘
 
-![](images/8fed90ee91bc51975c5d3e1e0289c08a6f215f4a2809807ff86bdfd61786a913.jpg)  
+![](extracted_chunk_039/images/8fed90ee91bc51975c5d3e1e0289c08a6f215f4a2809807ff86bdfd61786a913.jpg)  
 图1加力设计性能最佳化
 
-![](images/b134f592f46d2b261c120950b0e30441b906340042b9641f05fa43cf29b51711.jpg)  
+![](extracted_chunk_039/images/b134f592f46d2b261c120950b0e30441b906340042b9641f05fa43cf29b51711.jpg)  
 图2射流混合器示意图
 
-![](images/788e1b4b68542dc04f2e03e8cba39318c682fb8341d6abf1ebcba450059b3a39.jpg)  
+![](extracted_chunk_039/images/788e1b4b68542dc04f2e03e8cba39318c682fb8341d6abf1ebcba450059b3a39.jpg)  
 图3 \(\theta\) 和 \(\mathrm { ~ P ~ } _ { 8 } / \mathrm { P } _ { 2 }\) 对基本流量系数 \(\mathsf { C } _ { \mathrm { D } }\) 的影响
 
-![](images/e409f5738350235144f0a8dc441699c266a171ad308d9a5e3248883fb06720ac.jpg)  
+![](extracted_chunk_039/images/e409f5738350235144f0a8dc441699c266a171ad308d9a5e3248883fb06720ac.jpg)  
 图4混合器损失（掺混漏斗损失）
 
-![](images/7e56d4f5661cb55d8c1a4d79df554c4e27925081f553430756fdb94f16255d7c.jpg)  
+![](extracted_chunk_039/images/7e56d4f5661cb55d8c1a4d79df554c4e27925081f553430756fdb94f16255d7c.jpg)  
 图5混合器性能关系曲线
 
-![](images/dc36215f35f31a27319df4a8f3de43aa60cb6f03c99384e1b0b80368990178b2.jpg)  
+![](extracted_chunk_039/images/dc36215f35f31a27319df4a8f3de43aa60cb6f03c99384e1b0b80368990178b2.jpg)  
 图6V形槽稳定器和先锋火焰稳定器的稳定性比较
 
 
 
-## Chunk 40
+## Chunk 40 (Original Pages 196-200)
 
-![](images/efb52d0b77854a7e8e97ca4afc48c806c425dceba741ddff180105a35632b5cd.jpg)  
+![](extracted_chunk_040/images/efb52d0b77854a7e8e97ca4afc48c806c425dceba741ddff180105a35632b5cd.jpg)  
 图7等槽负荷下，N、 \(\mathrm { R } _ { \mathtt { P } }\) 、W和β间的关系
 
-![](images/f9617a8a629db0abbeb69b747984c03b0be029337c7555cf02a4df980e67d2e3.jpg)  
+![](extracted_chunk_040/images/f9617a8a629db0abbeb69b747984c03b0be029337c7555cf02a4df980e67d2e3.jpg)  
 图8等槽负稳定器间隔
 
-![](images/8ff9acce55f23c1e46bcbdb0bd20b474ab05c55dd9c0f4ec45622e0813e4dd55.jpg)  
+![](extracted_chunk_040/images/8ff9acce55f23c1e46bcbdb0bd20b474ab05c55dd9c0f4ec45622e0813e4dd55.jpg)  
 图9等槽负荷稳定器间隔关系曲线
 
-![](images/4a2cac47d50ed7c16bb0b9082763d1ad2f3ddced16fb6b8a0c2a34cb4721ebaf.jpg)  
+![](extracted_chunk_040/images/4a2cac47d50ed7c16bb0b9082763d1ad2f3ddced16fb6b8a0c2a34cb4721ebaf.jpg)  
 图10长度和附面层位移厚度对稳定流动极限的影响
 
-![](images/9aff93e01449699ff84c5092d5d62e5206d8b7f1191c028db639adf34c72d0c9.jpg)
+![](extracted_chunk_040/images/9aff93e01449699ff84c5092d5d62e5206d8b7f1191c028db639adf34c72d0c9.jpg)
 
-![](images/97bfe1a0cafc158515c2d07cb9a97237c225b00bfe028601eccc78aa444f6f12.jpg)  
+![](extracted_chunk_040/images/97bfe1a0cafc158515c2d07cb9a97237c225b00bfe028601eccc78aa444f6f12.jpg)  
 图13燃烧效率与组合参数 \(\varepsilon _ { \boldsymbol { { M } } }\) 的关系曲线
 
-![](images/e969241074f8500e624cdb12cb29023ee31ec4cef9a56542862c6d27b1cf61e1.jpg)  
+![](extracted_chunk_040/images/e969241074f8500e624cdb12cb29023ee31ec4cef9a56542862c6d27b1cf61e1.jpg)  
 图14总压的热损失
 
 
 
-## Chunk 41
+## Chunk 41 (Original Pages 201-205)
 
-![](images/69135697e86d207044f6ed9874871809a6b3a30c0db34ebe880e0fee50e5cab6.jpg)
+![](extracted_chunk_041/images/69135697e86d207044f6ed9874871809a6b3a30c0db34ebe880e0fee50e5cab6.jpg)
 
-![](images/f6d2bd91ecd42db525b0ef9b3447de6195f33e8d1737f0c955f4afae793d8530.jpg)
+![](extracted_chunk_041/images/f6d2bd91ecd42db525b0ef9b3447de6195f33e8d1737f0c955f4afae793d8530.jpg)
 
-![](images/edfcc30155ca162e0d70ca13c0f2afc9b84759d16001ea9ab9fd60ffa5f98b17.jpg)
+![](extracted_chunk_041/images/edfcc30155ca162e0d70ca13c0f2afc9b84759d16001ea9ab9fd60ffa5f98b17.jpg)
 
-![](images/2d0931ae266ccafee641753ce9899791eb6c5ecaa0c9809c4072ed986204e721.jpg)  
+![](extracted_chunk_041/images/2d0931ae266ccafee641753ce9899791eb6c5ecaa0c9809c4072ed986204e721.jpg)  
 图16d总推力函数与尾喷口压比的关系
 
-![](images/343347e199e27250998f03c2c5107566819d16342c02b705caebcc83bce9c79f.jpg)  
+![](extracted_chunk_041/images/343347e199e27250998f03c2c5107566819d16342c02b705caebcc83bce9c79f.jpg)  
 图16e收敛喷管的 \(\frac { \mathrm { ~ X ~ } } { \mathrm { ~ A } \mathrm { { p } } } { \sim } \frac { \mathrm { ~ P ~ } } { \mathrm { ~ p ~ } }\) 关系曲线
 
-![](images/943bcdcc757aff94c24f7ebe568f41c15953009124e1ea0e68124e22cc5db417.jpg)  
+![](extracted_chunk_041/images/943bcdcc757aff94c24f7ebe568f41c15953009124e1ea0e68124e22cc5db417.jpg)  
 图16f收敛喷管的 \(\frac { \mathrm { ~ X ~ } } { \mathrm { ~ A ~ p ~ } } \sim \frac { \mathrm { ~ P ~ } } { \mathrm { ~ p ~ } }\) 关系曲线
 
-![](images/537dc4dbba52c719fc8f2676fe51f3289c9c15b4e2c7ab4b94257753d674a25c.jpg)  
+![](extracted_chunk_041/images/537dc4dbba52c719fc8f2676fe51f3289c9c15b4e2c7ab4b94257753d674a25c.jpg)  
 图16g收敛喷管的 \(\frac { \mathrm { ~ X ~ } } { \mathrm { ~ A ~ p ~ } } { \sim } \frac { \mathrm { ~ P ~ } } { \mathrm { ~ p ~ } }\) 关系曲线
 
-![](images/c853061c3c6afd48726c34f2a550fce5fdecac9325aa0091eb9cbeb839eeae16.jpg)  
+![](extracted_chunk_041/images/c853061c3c6afd48726c34f2a550fce5fdecac9325aa0091eb9cbeb839eeae16.jpg)  
 图16h收敛喷管的 \(\frac { \mathrm { ~ X ~ } } { \mathrm { ~ A ~ p ~ } } { \sim } \frac { \mathrm { ~ P ~ } } { \mathrm { ~ p ~ } }\) 关系曲线
 
 
 
-## Chunk 42
+## Chunk 42 (Original Pages 206-210)
 
-![](images/a21165b283746bfcca8850043928b8d99ff183f3715ef98e987d216a243b1f2d.jpg)  
+![](extracted_chunk_042/images/a21165b283746bfcca8850043928b8d99ff183f3715ef98e987d216a243b1f2d.jpg)  
 图16i收敛喷管的 \(\frac { \mathrm { ~ X ~ } } { \mathrm { ~ A } \mathrm { { p } } } \sim \frac { \mathrm { ~ P ~ } } { \mathrm { ~ p ~ } }\) 关系曲线
 
-![](images/02893f6742404ff8425515279baeb49a3d552f4255cd0c2ffbd053fcf7fe18dc.jpg)
+![](extracted_chunk_042/images/02893f6742404ff8425515279baeb49a3d552f4255cd0c2ffbd053fcf7fe18dc.jpg)
 
-![](images/974996334279e503fa3215690b99d4724fee2d836d55e3f3987ddc962ca9f08f.jpg)
+![](extracted_chunk_042/images/974996334279e503fa3215690b99d4724fee2d836d55e3f3987ddc962ca9f08f.jpg)
 
-![](images/f93e312fb8de78f3ecaea7bda7094136b79dca13f7bf95a7f8d3c038e98129c2.jpg)  
+![](extracted_chunk_042/images/f93e312fb8de78f3ecaea7bda7094136b79dca13f7bf95a7f8d3c038e98129c2.jpg)  
 图18加力推力与燃烧后马赫数的关系
 
-![](images/043531626264e62b606b82414c128c1aaafa201c24ea6a26f8674410210131ec.jpg)  
+![](extracted_chunk_042/images/043531626264e62b606b82414c128c1aaafa201c24ea6a26f8674410210131ec.jpg)  
 图19流量系数随喷口压比的变化
 
-![](images/3e4b0d633a70011bf115e6e6ca1ff421efa33405fa6b9d8875d70b64d3b263ba.jpg)  
+![](extracted_chunk_042/images/3e4b0d633a70011bf115e6e6ca1ff421efa33405fa6b9d8875d70b64d3b263ba.jpg)  
 图20完全堵塞的收敛喷管流量系数随喷管收敛角的变化
 
-![](images/596b1e2bc4ef5d924dc7f6bbb7b0933e60e6cdf5aae46acaa492b0e210893a05.jpg)  
+![](extracted_chunk_042/images/596b1e2bc4ef5d924dc7f6bbb7b0933e60e6cdf5aae46acaa492b0e210893a05.jpg)  
 图21扩压器（挡油屏）中错开排列的稳定器简图
 
 
 
-## Chunk 43
+## Chunk 43 (Original Pages 211-215)
 
 <table><tr><td>燃烧研究报告</td><td>CRR12080</td></tr><tr><td colspan="2">斯贝MK202金氏燃烧效率关系的推导</td></tr></table>
 
@@ -4553,9 +4553,9 @@ W.F.的单位用英寸。
 
 参考资料[1]CRR12079
 
-![](images/ab608a667a89f8e5e4fb91d4bb184cb58f02435e49874249d1f38a1dc4b46fae.jpg)
+![](extracted_chunk_043/images/ab608a667a89f8e5e4fb91d4bb184cb58f02435e49874249d1f38a1dc4b46fae.jpg)
 
-![](images/7d2441b39eeb1972a4ec8796f3a65a68c01a96c1ecbd7962a3135f3397810abb.jpg)  
+![](extracted_chunk_043/images/7d2441b39eeb1972a4ec8796f3a65a68c01a96c1ecbd7962a3135f3397810abb.jpg)  
 图2宽度因子的定义
 
 CRR 12081
@@ -4631,7 +4631,7 @@ f）附属要求（高能电盒及燃油供应等)
 
 
 
-## Chunk 44
+## Chunk 44 (Original Pages 216-220)
 
 流”点燃经过环绕尾锥的输油圈并进入锥体尾迹中的剩余燃料（总油量的299/300）。这样形成的火舌点燃了内圈蒸发式稳定器，火焰再通过联焰槽传播到其他稳定器。
 
@@ -4687,31 +4687,31 @@ f）附属要求（高能电盒及燃油供应等)
 
 试验的尾锥体稳定性范围示于图6，由图可见该点火器能在5磅/英寸（绝对）压力下工作，而3.3.1节理论计算值为3磅/英寸（绝对）。实际上能够证实试验曲线头部的数据是很少的，可以认为试验和理论推算基本上是一致的。斯贝MK202发动机实际的催化点火器预定的供油量在稳定性边界之内并且证明用AVTUR或AVCAT燃油直到7磅/英寸（绝对）点火还是可能的。虽然用AVTAG燃油时总的预定燃油流量相同，如前所述，由于挥发性的不同，使得在压力约14磅/英寸²（绝对）时催化组件就不能工作。
 
-![](images/db362833fc60021a1889223199abda4e8f503a8aaaca7a623d88d4a90a41c8d2.jpg)  
+![](extracted_chunk_044/images/db362833fc60021a1889223199abda4e8f503a8aaaca7a623d88d4a90a41c8d2.jpg)  
 图1热射流加力点火
 
-![](images/808dcb3054eb1ddc7baabbfb134eb69a09f76a36e307637e838cf0a9da85a137.jpg)  
+![](extracted_chunk_044/images/808dcb3054eb1ddc7baabbfb134eb69a09f76a36e307637e838cf0a9da85a137.jpg)  
 图2斯贝的文氏管供应油气的催化点火系统
 
-![](images/d69bd40a15947e27b0801d359a46e9aab4c5bb4b373f82be36d2e82bd64298d2.jpg)  
+![](extracted_chunk_044/images/d69bd40a15947e27b0801d359a46e9aab4c5bb4b373f82be36d2e82bd64298d2.jpg)  
 图3a锥体的稳定性边界
 
-![](images/706eb83ac5604cc3c24aa9f68ff38e4a96a0f538bb467a78a0a2e5656a86a632.jpg)  
+![](extracted_chunk_044/images/706eb83ac5604cc3c24aa9f68ff38e4a96a0f538bb467a78a0a2e5656a86a632.jpg)  
 图3b催化组件的性能
 
 APe1/450 \(\times 1 0 ^ { 3 }\)
 
 
 
-## Chunk 45
+## Chunk 45 (Original Pages 221-225)
 
-![](images/5dae4d440d0ba08d471dad61e1cac6316a5c16c35a13393a038d9775bb86f1a6.jpg)  
+![](extracted_chunk_045/images/5dae4d440d0ba08d471dad61e1cac6316a5c16c35a13393a038d9775bb86f1a6.jpg)  
 图4
 
-![](images/b42c99db38fbac3adb9b784f66150ce6c76ceb2866688604c8680e81d6da7933.jpg)  
+![](extracted_chunk_045/images/b42c99db38fbac3adb9b784f66150ce6c76ceb2866688604c8680e81d6da7933.jpg)  
 图5催化点火器燃汕系统示意图
 
-![](images/1cc920e20a33a5ad7363c18398d685063570bc06775b3166b07bd664ee808d69.jpg)  
+![](extracted_chunk_045/images/1cc920e20a33a5ad7363c18398d685063570bc06775b3166b07bd664ee808d69.jpg)  
 图6催化点火器工作范围
 
 <table><tr><td>燃烧研究报告</td><td>CRR 12082</td></tr><tr><td colspan="2">斯贝MK202加力燃烧室隔热屏设计</td></tr></table>
@@ -4882,7 +4882,7 @@ APe1/450 \(\times 1 0 ^ { 3 }\)
 
 
 
-## Chunk 46
+## Chunk 46 (Original Pages 226-230)
 
 \(\mathrm { m } _ { \scriptscriptstyle H } = 1 9 5 . 8\) 磅/秒， \(\mathrm { A } _ { \mathrm { H } } = { \begin{array} { l } { 9 5 1 } \\ { 1 4 4 } \end{array} } = 6 . 6\) 英尺， \(\mathrm { T } _ { \scriptscriptstyle { H } } = 2 1 8 2 ^ { \circ } \mathrm { K }\) \(\mathrm { m _ { c } = 3 , 8 1 }\) 磅/秒， \(\mathrm { A _ { c } } = { \frac { 3 4 . 8 } { 1 2 } } \times \pi \times { \frac { 0 . 1 2 0 } { 1 2 } } = 0 . 0 9 1 1\) 英尺， \(\mathrm { T } _ { \mathrm { c } } = 7 4 0 ^ { \circ } \mathrm { K }\)
 
@@ -4920,25 +4920,25 @@ APe1/450 \(\times 1 0 ^ { 3 }\)
 
 L冷却空气通道长度英尺V冷却空气速度英尺/秒\(\mathrm { D } _ { \mathrm { H } }\) 水力学平均直径=4面积 湿周长p 冷却空气密度磅/英尺R 气体常数英尺·磅/磅 \(^ { \circ } \mathrm { K } = 9 6 . 0\)
 
-![](images/a8b742bf8fe5868e48c1d75dfc9a6b51e4d4bad7ff88c99b6b570fd31562a445.jpg)  
+![](extracted_chunk_046/images/a8b742bf8fe5868e48c1d75dfc9a6b51e4d4bad7ff88c99b6b570fd31562a445.jpg)  
 图1加热引起的总压损失
 
-![](images/39aa93b195318f0fdbd8cb32cfca7beb6543a087374b0091450d4fea1b2a9778.jpg)  
+![](extracted_chunk_046/images/39aa93b195318f0fdbd8cb32cfca7beb6543a087374b0091450d4fea1b2a9778.jpg)  
 图2计算加力燃烧室温度所使用的传热分过程
 
-![](images/378d54940af7e33c22a41404224ca23eb2bea378b440afa62787ef856be2209d.jpg)  
+![](extracted_chunk_046/images/378d54940af7e33c22a41404224ca23eb2bea378b440afa62787ef856be2209d.jpg)  
 图3隔热屏温度
 
-![](images/9d3c0347d019750c32c87b8d3bfcc4b72ceba1760b33034d034d90b3047c7c20.jpg)
+![](extracted_chunk_046/images/9d3c0347d019750c32c87b8d3bfcc4b72ceba1760b33034d034d90b3047c7c20.jpg)
 
-![](images/26f62abccca0498f9f68a0fd4cc9cebe8a163ca5daaba6644cdcabc9e3814cee.jpg)  
+![](extracted_chunk_046/images/26f62abccca0498f9f68a0fd4cc9cebe8a163ca5daaba6644cdcabc9e3814cee.jpg)  
 4
 
-![](images/2e694d34d98134204bbbd73c03141b2d1b127ce14d06a5684df4bcc866f1d5ee.jpg)
+![](extracted_chunk_046/images/2e694d34d98134204bbbd73c03141b2d1b127ce14d06a5684df4bcc866f1d5ee.jpg)
 
 
 
-## Chunk 47
+## Chunk 47 (Original Pages 231-235)
 
 # 附录1
 
@@ -5059,7 +5059,7 @@ Q=0.2677, \(\frac { \mathrm { ~ P ~ } } { \mathrm { ~ p ~ } } { } = 1 . 1 4 3\) 
 
 <table><tr><td rowspan=1 colspan=1>磅/英寸2</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>英寸2</td><td rowspan=1 colspan=1>英寸2</td><td rowspan=1 colspan=1>英寸</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>英尺/秒</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>磅/英寸</td></tr><tr><td rowspan=1 colspan=1>Pc</td><td rowspan=1 colspan=1>PcPH</td><td rowspan=1 colspan=1>Q</td><td rowspan=1 colspan=1>Ae</td><td rowspan=1 colspan=1>A</td><td rowspan=1 colspan=1>W</td><td rowspan=1 colspan=1>V开</td><td rowspan=1 colspan=1>V</td><td rowspan=1 colspan=1>pV22g144</td><td rowspan=1 colspan=1>2f1W</td><td rowspan=1 colspan=1>AP</td></tr><tr><td rowspan=1 colspan=1>37.86</td><td rowspan=1 colspan=1>1.209</td><td rowspan=1 colspan=1>0.3055</td><td rowspan=1 colspan=1>8.96</td><td rowspan=1 colspan=1>11.2</td><td rowspan=1 colspan=1>0.102</td><td rowspan=1 colspan=1>33.6</td><td rowspan=1 colspan=1>914</td><td rowspan=1 colspan=1>5.73</td><td rowspan=1 colspan=1>0.529</td><td rowspan=1 colspan=1>3.03</td></tr><tr><td rowspan=1 colspan=1>34.83</td><td rowspan=1 colspan=1>1.112</td><td rowspan=1 colspan=1>0.2445</td><td rowspan=1 colspan=1>12.17</td><td rowspan=1 colspan=1>15.21</td><td rowspan=1 colspan=1>0.139</td><td rowspan=1 colspan=1>25.4</td><td rowspan=1 colspan=1>691</td><td rowspan=1 colspan=1>3.27</td><td rowspan=1 colspan=1>0.388</td><td rowspan=1 colspan=1>1.27</td></tr><tr><td rowspan=1 colspan=1>36.59</td><td rowspan=1 colspan=1>1.169</td><td rowspan=1 colspan=1>0.2855</td><td rowspan=1 colspan=1>9.92</td><td rowspan=1 colspan=1>12.4</td><td rowspan=1 colspan=1>0.113</td><td rowspan=1 colspan=1>30.8</td><td rowspan=1 colspan=1>838</td><td rowspan=1 colspan=1>4.8</td><td rowspan=1 colspan=1>0.478</td><td rowspan=1 colspan=1>2.29</td></tr><tr><td rowspan=1 colspan=1>35.57</td><td rowspan=1 colspan=1>1.136</td><td rowspan=1 colspan=1>0.264</td><td rowspan=1 colspan=1>11.04</td><td rowspan=1 colspan=1>13.8</td><td rowspan=1 colspan=1>0.126</td><td rowspan=1 colspan=1>28.0</td><td rowspan=1 colspan=1>762</td><td rowspan=1 colspan=1>3.98</td><td rowspan=1 colspan=1>0.428</td><td rowspan=1 colspan=1>1.71</td></tr><tr><td rowspan=1 colspan=1>36.15</td><td rowspan=1 colspan=1>1.155</td><td rowspan=1 colspan=1>0.277</td><td rowspan=1 colspan=1>10.35</td><td rowspan=1 colspan=1>12.9</td><td rowspan=1 colspan=1>0.118</td><td rowspan=1 colspan=1>29.6</td><td rowspan=1 colspan=1>805</td><td rowspan=1 colspan=1>4.44</td><td rowspan=1 colspan=1>0.458</td><td rowspan=1 colspan=1>2.03</td></tr><tr><td rowspan=1 colspan=1>35.83</td><td rowspan=1 colspan=1>1.144</td><td rowspan=1 colspan=1>0.2695</td><td rowspan=1 colspan=1>10.73</td><td rowspan=1 colspan=1>13.4</td><td rowspan=1 colspan=1>0.123</td><td rowspan=1 colspan=1>28.7</td><td rowspan=1 colspan=1>781</td><td rowspan=1 colspan=1>4.18</td><td rowspan=1 colspan=1>0.440</td><td rowspan=1 colspan=1>1.84</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=2 colspan=6>W收敛为0.121英寸，△P收敛为1.9磅/英寸20.121    29.0    789     4.27  0.444  1.90</td></tr><tr><td rowspan=1 colspan=1>35.93</td><td rowspan=1 colspan=1>1.147</td><td rowspan=1 colspan=1>0.2715</td><td rowspan=1 colspan=1>10.62</td><td rowspan=1 colspan=1>13.28</td></tr></table>
 
-![](images/bc53e025806490161d2804a7ddecc72af2ae778e81fd84c1e9cb68d74e86054a.jpg)  
+![](extracted_chunk_047/images/bc53e025806490161d2804a7ddecc72af2ae778e81fd84c1e9cb68d74e86054a.jpg)  
 图7直管的摩擦系数
 
 # 附录2
@@ -5186,13 +5186,13 @@ Q=0.2677, \(\frac { \mathrm { ~ P ~ } } { \mathrm { ~ p ~ } } { } = 1 . 1 4 3\) 
 
 
 
-## Chunk 48
+## Chunk 48 (Original Pages 236-240)
 
 附录3
 
 #### 隔热屏温度计算例子
 
-![](images/18221119a673db385d23bd91881988c57f0149330ef3b40c8197952bb0a29433.jpg)
+![](extracted_chunk_048/images/18221119a673db385d23bd91881988c57f0149330ef3b40c8197952bb0a29433.jpg)
 
 在双壁段第一冷却缝隙处
 
@@ -5308,7 +5308,7 @@ Q=0.2677, \(\frac { \mathrm { ~ P ~ } } { \mathrm { ~ p ~ } } { } = 1 . 1 4 3\) 
 
 隔热屏外壁温度Ts.。。的计算令 \(\mathrm { T } _ { \textrm { s o o } } = 8 0 0 ^ { \circ } \mathrm { K }\)
 
-![](images/c17b22ed924ee20b3706bfc25b12d76f2d37d1d8496ac3a37208edab631bb6df.jpg)
+![](extracted_chunk_048/images/c17b22ed924ee20b3706bfc25b12d76f2d37d1d8496ac3a37208edab631bb6df.jpg)
 
 \(\mathrm { C _ { 1 } } = 1 3 4 . 1 ( 7 9 4 - 8 0 0 )\)   
 \(\mathrm { C } _ { 1 } = \mathrm { - } 8 0 5 \mathrm { C H U } _ { I }\) 英尺2·小时  
@@ -5348,7 +5348,7 @@ Q=0.2677, \(\frac { \mathrm { ~ P ~ } } { \mathrm { ~ p ~ } } { } = 1 . 1 4 3\) 
 
 加力燃烧室筒体壁是绝热的，且假定通过绝热材料没有热损失，壁温 \(\mathrm { T _ { w } } = \mathrm { T _ { c } } = 7 4 0 ^ { \circ } \mathrm { K } .\) 隔热屏双壁段第一道冷却缝隙处温度计算摘要：
 
-![](images/637e5768b2196723a5fade310bebba4e1a1652b36f47397edb11a1f259b967fd.jpg)  
+![](extracted_chunk_048/images/637e5768b2196723a5fade310bebba4e1a1652b36f47397edb11a1f259b967fd.jpg)  
 所有温度单位为K
 
 在热核心流处温度 \(\mathrm { T } _ { \scriptscriptstyle H } = 2 1 8 2 ^ { \circ } \mathrm { K }\) ，冷却效率 \(\eta _ { \mathrm { c } } = 5 0 \%\) 时，壁面气体温度 \(\mathrm { T } _ { \mathrm { w } \circ \mathsf { g } }\) ·在双壁段第一道冷却缝隙的出口处为 \(1 4 6 1 ^ { \circ } \mathrm { K }\) ，这使隔热屏内外壁温分别为 \(\mathrm { T _ { \it S } } = 1 1 0 6 ^ { \circ } \mathrm { K }\) 和 \(8 0 6 ^ { \circ } \mathrm { K }\) 。
@@ -5389,7 +5389,7 @@ Q=0.2677, \(\frac { \mathrm { ~ P ~ } } { \mathrm { ~ p ~ } } { } = 1 . 1 4 3\) 
 
 
 
-## Chunk 49
+## Chunk 49 (Original Pages 241-245)
 
 \[
 \mathrm { F } . \mathrm { N O } _ { \bullet } = \mathrm { Q } / \sqrt { \Delta \mathrm { P } }
@@ -5615,7 +5615,7 @@ A 加力燃烧室面积英寸
 
 
 
-## Chunk 50
+## Chunk 50 (Original Pages 246-250)
 
 # 7）燃油沸腾准则
 
@@ -5685,31 +5685,31 @@ N(喷咀数） \(= 8 0\)
 
 斯贝加力高压泵的最高燃油出口温度预计是 \(8 0 \mathrm { { } ^ { \circ } C } ,\) 因此JP1燃油在输油圈中不会沸腾，而JP4燃油就接近于沸腾了。进一步要求在该状态对其它输油圈进行计算，并且要求以同样方法分析更多的飞行状态。
 
-![](images/ee659429f70ecff29ab0bc96d92ae9fba12d338f3bd61975fc79e9256ed6a0fc.jpg)  
+![](extracted_chunk_050/images/ee659429f70ecff29ab0bc96d92ae9fba12d338f3bd61975fc79e9256ed6a0fc.jpg)  
 图1加力主燃油输油圈设计程序
 
 隔热屏
 
-![](images/1a3b927b002f7cdadd653a8cb7db6e02aabf63fe637c3980d1aaaea44a560196.jpg)  
+![](extracted_chunk_050/images/1a3b927b002f7cdadd653a8cb7db6e02aabf63fe637c3980d1aaaea44a560196.jpg)  
 图2典型的三级V型槽稳定器结构
 
-![](images/292a73e7feed780efadcedf9c350ea278d6b0c78352e84b5b8eea9d25a1bcc58.jpg)
+![](extracted_chunk_050/images/292a73e7feed780efadcedf9c350ea278d6b0c78352e84b5b8eea9d25a1bcc58.jpg)
 
-![](images/995b4737e801e712fdde9e36a50bfb2bcd9a9bf212a281ea3167566d420f22bb.jpg)
+![](extracted_chunk_050/images/995b4737e801e712fdde9e36a50bfb2bcd9a9bf212a281ea3167566d420f22bb.jpg)
 
-![](images/1ba28c1dddbe14f167866dd45ff0d4b429d2f64a6e68d37effc0ed19c8c07e45.jpg)
+![](extracted_chunk_050/images/1ba28c1dddbe14f167866dd45ff0d4b429d2f64a6e68d37effc0ed19c8c07e45.jpg)
 
 
 
-## Chunk 51
+## Chunk 51 (Original Pages 251-255)
 
-![](images/aec27f9eb3086b220e805073fd6c552884e1900683ba3d78a4e9143ff0d890c8.jpg)  
+![](extracted_chunk_051/images/aec27f9eb3086b220e805073fd6c552884e1900683ba3d78a4e9143ff0d890c8.jpg)  
 图6燃油进口温度的影响
 
-![](images/4eb6255c976241d50dace7c242b6ed3e791c0ba13bc557b9a2936e7a61011e52.jpg)  
+![](extracted_chunk_051/images/4eb6255c976241d50dace7c242b6ed3e791c0ba13bc557b9a2936e7a61011e52.jpg)  
 图7三级稳定器装置示意图
 
-![](images/f814bc418cfbf508229e807f676b537084ea0e88489f52b150a585190fdf3362.jpg)  
+![](extracted_chunk_051/images/f814bc418cfbf508229e807f676b537084ea0e88489f52b150a585190fdf3362.jpg)  
 图8与图7稳定器相配的主加力输油圈草图
 
 <table><tr><td>燃烧研究报告</td><td>CRR12084</td></tr><tr><td>斯贝MK202加力蒸发式稳定器的发展</td><td></td></tr></table>
@@ -5822,7 +5822,7 @@ W \(=\) 稳定器槽宽，英寸 \(\mathrm { T } =\) 稳定器处气流温度，
 
 
 
-## Chunk 52
+## Chunk 52 (Original Pages 256-260)
 
 加力燃烧室静压 \(\mathrm { p } _ { \mathrm { t } } = 2 \mathrm { p } _ { \mathrm { 0 } }\) 以及 \(\mathrm { Q } = \mathrm { M } \sqrt { \mathrm { T } } / \mathrm { A P } = 0 . 1 3 8 2\)
 
@@ -5908,26 +5908,26 @@ b）喷口温度分布均匀时加力系统的推力
 
 即推进效率为 \(5 4 \text{‰}\) 。
 
-![](images/d2da3dbb5f13816c8b6bc796b6a8cee00c205dd40fb19f2192aef30009c1c7c8.jpg)  
+![](extracted_chunk_052/images/d2da3dbb5f13816c8b6bc796b6a8cee00c205dd40fb19f2192aef30009c1c7c8.jpg)  
 图1关闭外输油圈燃油（即分圈供油）来减少加力
 
-![](images/d060bf5e3d227df8a2acaa8cff36c3216a2cb8dc81f8df9f9e5ac32d594cb275.jpg)  
+![](extracted_chunk_052/images/d060bf5e3d227df8a2acaa8cff36c3216a2cb8dc81f8df9f9e5ac32d594cb275.jpg)  
 图2分圈供油加力系统推力与燃油流量的典型关系
 
-![](images/951e326c7095ede7b7cafee245aede877708cd54bb57c9bf374c05e52e3c2bb1.jpg)  
+![](extracted_chunk_052/images/951e326c7095ede7b7cafee245aede877708cd54bb57c9bf374c05e52e3c2bb1.jpg)  
 图3尾迹燃烧的加力系统
 
-![](images/d175552a1297c75e698c35af83aef18f108a97567bc6de4ce4e24821e7932990.jpg)  
+![](extracted_chunk_052/images/d175552a1297c75e698c35af83aef18f108a97567bc6de4ce4e24821e7932990.jpg)  
 图4蒸发式稳定器简图
 
-![](images/d79441c65ecab59f7653dd5270a6f1b96f20b08617ab53b705c8040f18a21b16.jpg)  
+![](extracted_chunk_052/images/d79441c65ecab59f7653dd5270a6f1b96f20b08617ab53b705c8040f18a21b16.jpg)  
 图5蒸发式稳定器水流模拟试验结果图示
 
 
 
-## Chunk 53
+## Chunk 53 (Original Pages 261-265)
 
-![](images/f19facb22804ac453e69b46424129bef4c301f390aa0c4aea3a45293636be216.jpg)  
+![](extracted_chunk_053/images/f19facb22804ac453e69b46424129bef4c301f390aa0c4aea3a45293636be216.jpg)  
 图6 \(\mathrm { v }\) 型槽稳定器与蒸发式稳定器稳定性的比较
 
 <table><tr><td>燃烧研究报告</td><td>CRR 12051</td></tr><tr><td colspan="2">斯贝MK202混合器的发展</td></tr></table>
@@ -5992,29 +5992,29 @@ b）喷口温度分布均匀时加力系统的推力
 
 考虑到与燃烧室有关的混合器出口流型会影响“蜂鸣”，混合器被顺时针转动了 \(\frac 1 2\) 个周向间距。观察表明，对性能没有影响。这说明燃烧室对混合器出口横截面流型改变角度 \(1 1 ^ { \circ }\) 是不敏感的。
 
-![](images/859d9f41c02b7394c849c8ea65c7bf1dbfe84ebd17652e0e6c7b7bf21136106a.jpg)  
+![](extracted_chunk_053/images/859d9f41c02b7394c849c8ea65c7bf1dbfe84ebd17652e0e6c7b7bf21136106a.jpg)  
 图1混合器面积的影响
 
-![](images/4b116916c81fab875f8eb36c968391e2a0581793163b5183f80e654699476171.jpg)  
+![](extracted_chunk_053/images/4b116916c81fab875f8eb36c968391e2a0581793163b5183f80e654699476171.jpg)  
 图220个漏斗混合器的影响
 
-![](images/aec2253d2e17cf0a932e99081cc850bac1dbd5c55eed2132f407a4bc125947dc.jpg)  
+![](extracted_chunk_053/images/aec2253d2e17cf0a932e99081cc850bac1dbd5c55eed2132f407a4bc125947dc.jpg)  
 图310槽混合器的影响
 
 
 
-## Chunk 54
+## Chunk 54 (Original Pages 266-270)
 
-![](images/8a6c4581d26f904618e4ed6849d6430fa22dd53f1fda8101636acb6da2d49cf9.jpg)  
+![](extracted_chunk_054/images/8a6c4581d26f904618e4ed6849d6430fa22dd53f1fda8101636acb6da2d49cf9.jpg)  
 图410槽混合器的影响
 
-![](images/c4c31e4e9ee76bd93376ec949eef9fa807214118f07b5cbe8c473470db67c4e5.jpg)  
+![](extracted_chunk_054/images/c4c31e4e9ee76bd93376ec949eef9fa807214118f07b5cbe8c473470db67c4e5.jpg)  
 图510槽加流线形整流套的影响
 
-![](images/0a68d1cfea8eae3fba2b09e3f50d4f9d444ee3718b29d036625d93be5dec86dc.jpg)  
+![](extracted_chunk_054/images/0a68d1cfea8eae3fba2b09e3f50d4f9d444ee3718b29d036625d93be5dec86dc.jpg)  
 图610槽加流线形整流套的影响
 
-![](images/3a1a0509cdd5b7c8e063bedb87b2de6d1d55d51f678949978d5a9c57c18a31df.jpg)  
+![](extracted_chunk_054/images/3a1a0509cdd5b7c8e063bedb87b2de6d1d55d51f678949978d5a9c57c18a31df.jpg)  
 图7顺时针转动混合器的影响
 
 <table><tr><td>技术设计报告</td><td>TDR7787A部分</td></tr><tr><td colspan="2">斯贝MK202燃油控制系统—高压燃油泵设计资料</td></tr></table>
@@ -6138,42 +6138,42 @@ b）喷口温度分布均匀时加力系统的推力
 
 
 
-## Chunk 55
+## Chunk 55 (Original Pages 271-275)
 
-![](images/c5c29ec58e77d2385d0e91244ba6f27661ba47f3f8122c5986284d13ea35630c.jpg)  
+![](extracted_chunk_055/images/c5c29ec58e77d2385d0e91244ba6f27661ba47f3f8122c5986284d13ea35630c.jpg)  
 图1斯贝MK202发动机燃油流量（低转速、不加力）
 
-![](images/a945bcbe5676710920590f0eec372d95f3da994481cf1c5bb2cde027b76b9142.jpg)  
+![](extracted_chunk_055/images/a945bcbe5676710920590f0eec372d95f3da994481cf1c5bb2cde027b76b9142.jpg)  
 图2斯贝MK202发动机燃油流量（不加力）
 
-![](images/e877f8b66af5dbe2503253f23be809d1f0b6b91d0054c873db7cace06efeb063.jpg)  
+![](extracted_chunk_055/images/e877f8b66af5dbe2503253f23be809d1f0b6b91d0054c873db7cace06efeb063.jpg)  
 图3斯贝MK202无因次燃油流量（不加力，喷口堵塞）
 
-![](images/5ad654a4bf467efbc5d21b2d187cc10106f27cde26af23a1614f6b929d2c4387.jpg)  
+![](extracted_chunk_055/images/5ad654a4bf467efbc5d21b2d187cc10106f27cde26af23a1614f6b929d2c4387.jpg)  
 图4斯贝MK202无因次发动机燃油流量（仅用于加力， \(\mathrm { N } _ { \mathrm { H m a x } } )\)
 
-![](images/56bd7eda6f68ea7bce2dc6e4036ab536aa37b115323cc8d8b5ed78b0b57a5b0d.jpg)  
+![](extracted_chunk_055/images/56bd7eda6f68ea7bce2dc6e4036ab536aa37b115323cc8d8b5ed78b0b57a5b0d.jpg)  
 图5斯贝MK202发动机燃油流量修正系数一 \(\cdot \mathrm { \alpha } _ { \mathrm { { E } } }\)
 
-![](images/21fe448a8942d8154a7d62594501e02cabcbc4f7559b82800e7af48d76e6cfae.jpg)  
+![](extracted_chunk_055/images/21fe448a8942d8154a7d62594501e02cabcbc4f7559b82800e7af48d76e6cfae.jpg)  
 图6斯贝MK202无因次高压压气机出口总温和总压（适用于入口温度 \(\mathrm { T _ { 1 } } { \leqslant } 2 8 8 ^ { \circ } \mathrm { K }\) ，不加力时）
 
 
 
-## Chunk 56
+## Chunk 56 (Original Pages 276-280)
 
-![](images/4da2d626d79bace2d2298479a8ad72840d9f1d0800ef755e1e4c76bb051939ee.jpg)  
+![](extracted_chunk_056/images/4da2d626d79bace2d2298479a8ad72840d9f1d0800ef755e1e4c76bb051939ee.jpg)  
 图7斯贝MK202无因次高压压气机出口总压和总温（用于不加力时）
 
-![](images/86fdefe8643d5fe0bc1c04f5065f11fa86b11f10d1699d75b3d56bcf45bea1d1.jpg)  
+![](extracted_chunk_056/images/86fdefe8643d5fe0bc1c04f5065f11fa86b11f10d1699d75b3d56bcf45bea1d1.jpg)  
 图8斯贝MK202无因次的低压压气机出口总和总温压（适用于入口总温 \(\mathrm { T _ { 1 } { \leqslant } 2 8 8 ^ { \circ } K }\) ，不加力时）
 
-![](images/080b324e6c30aee9b4ede095d497e1e524366662a2d97d3329f4bad1b9401c5e.jpg)  
+![](extracted_chunk_056/images/080b324e6c30aee9b4ede095d497e1e524366662a2d97d3329f4bad1b9401c5e.jpg)  
 图9斯贝MK202无因次的低压压气机出口总压和总温（用于不加力时）
 
-![](images/a180f37a1a3b321bbf02318da957ced08765974e7bfbb117d4efef76320ba8be.jpg)
+![](extracted_chunk_056/images/a180f37a1a3b321bbf02318da957ced08765974e7bfbb117d4efef76320ba8be.jpg)
 
-![](images/a901a43c71ae236a4838125168a3b03f48ccb90ed2fd9eec244a598df304ebe2.jpg)  
+![](extracted_chunk_056/images/a901a43c71ae236a4838125168a3b03f48ccb90ed2fd9eec244a598df304ebe2.jpg)  
 图12斯贝MK202一加速控制装置控制线
 
 # 3.卢卡斯P1001高压燃油泵
@@ -6192,11 +6192,11 @@ b）喷口温度分布均匀时加力系统的推力
 
 
 
-## Chunk 57
+## Chunk 57 (Original Pages 281-285)
 
-![](images/3f0dee2af6bd20444f3939c8d2eaf46d04ac806e4d6522d92af12044c720f8b9.jpg)
+![](extracted_chunk_057/images/3f0dee2af6bd20444f3939c8d2eaf46d04ac806e4d6522d92af12044c720f8b9.jpg)
 
-![](images/2556205a17855d6fd059eab4c0494534ae1aa002b5a4bbdc35f3b8e740efdd8c.jpg)
+![](extracted_chunk_057/images/2556205a17855d6fd059eab4c0494534ae1aa002b5a4bbdc35f3b8e740efdd8c.jpg)
 
 \(\mathrm { { N _ { H } } }\) 高压转子转速转/分\(\mathrm { P _ { \mathrm { ~ p ~ } } }\) 泵的输出压力磅/英寸（表压
 
@@ -6326,7 +6326,7 @@ F和 \(\mathrm { { P } } _ { 3 }\) 值可按具体飞行条件下的发动机性
 
 
 
-## Chunk 58
+## Chunk 58 (Original Pages 286-290)
 
 ## 7.高压速度清洗过滤器和高压燃油泵的流量要求
 
@@ -6483,12 +6483,12 @@ S.G燃油比重
 
 
 
-## Chunk 59
+## Chunk 59 (Original Pages 291-295)
 
-![](images/0565cf3036d8d0abc072b6c62e3291f8564be260f9fc368559e2bdd0ee07f230.jpg)  
+![](extracted_chunk_059/images/0565cf3036d8d0abc072b6c62e3291f8564be260f9fc368559e2bdd0ee07f230.jpg)  
 图1斯贝MK202估算的近似伺服压差与油泵出口压力的关系特性线（现有的油泵伺服活塞）
 
-![](images/02e0ab5e530bb9d0d04b04d5a3595be6b69254a7a44da041b3f40537600001e4.jpg)  
+![](extracted_chunk_059/images/02e0ab5e530bb9d0d04b04d5a3595be6b69254a7a44da041b3f40537600001e4.jpg)  
 图2斯贝MK202估算的近似伺服压差与油泵出口压力的关系特性线（建议重新设计的伺服活塞）
 
 <table><tr><td>技术设计报告</td><td>TDR7787B部分</td></tr><tr><td colspan="2">斯贝MK202燃油控制系统-CASC设计资料</td></tr></table>
@@ -6622,7 +6622,7 @@ Ms7 7级抽气量 磅/秒
 
 
 
-## Chunk 60
+## Chunk 60 (Original Pages 296-300)
 
 对于给定的转速，抽气和提取功率会改变发动机需用流量特性。
 
@@ -6785,40 +6785,40 @@ AVCAT \({ \mathrm { J P } } \cdot 5\)
 
 
 
-## Chunk 61
+## Chunk 61 (Original Pages 301-305)
 
-![](images/2c6be1e09c6bc504cef35c9162c3204af8e0d7efe8dc2afe6670e1255e8503fc.jpg)  
+![](extracted_chunk_061/images/2c6be1e09c6bc504cef35c9162c3204af8e0d7efe8dc2afe6670e1255e8503fc.jpg)  
 图12发动机进口压比
 
-![](images/885b0e8141ca3c34c12b2ffbd55457c95c388db54f4af19ded8faceb73e6190e.jpg)  
+![](extracted_chunk_061/images/885b0e8141ca3c34c12b2ffbd55457c95c388db54f4af19ded8faceb73e6190e.jpg)  
 图13发动机进口温度比
 
-![](images/503eb9d5a3e240045cb0c368d95e53912f57107fca6a85cf8c57849f25c976d7.jpg)  
+![](extracted_chunk_061/images/503eb9d5a3e240045cb0c368d95e53912f57107fca6a85cf8c57849f25c976d7.jpg)  
 图14推力与高压轴转速的关系
 
-![](images/132aff3e7f54aa0ef51681e8a441b85ff432c26e314cb5ec80ee89a16e894871.jpg)  
+![](extracted_chunk_061/images/132aff3e7f54aa0ef51681e8a441b85ff432c26e314cb5ec80ee89a16e894871.jpg)  
 图15小流量抽气和提取功率的影响
 
-![](images/8dc97da209baa6a2bd863705475fb88d900a1a1586dbc2a6e43a2c292a707562.jpg)  
+![](extracted_chunk_061/images/8dc97da209baa6a2bd863705475fb88d900a1a1586dbc2a6e43a2c292a707562.jpg)  
 图167级放气对PT N 关系的影响T
 
-![](images/f300e4f308fb78564192c2db9ce1f7341f30606d33ec0055dad19ad76ba03c05.jpg)  
+![](extracted_chunk_061/images/f300e4f308fb78564192c2db9ce1f7341f30606d33ec0055dad19ad76ba03c05.jpg)  
 图 \(1 7 7\) 级放气对 \(\frac { P _ { 2 } } { P _ { 1 } }\) 珍 \(\frac { { { \mathrm { N _ { H } } } } } { \sqrt { \mathrm { ~ { T _ { ~ 1 } } ~ } } }\) 关系的影响
 
-![](images/5bd5166e874a5f686638f2df68cdefc7c1e2ae60b9c6675962f1ced89f9ebefc.jpg)  
+![](extracted_chunk_061/images/5bd5166e874a5f686638f2df68cdefc7c1e2ae60b9c6675962f1ced89f9ebefc.jpg)  
 图187级放气对 \(\frac { P _ { 3 } } { P _ { 1 } }\) \(\frac { N _ { \mathrm { H } } } { V \mathrm { \Omega _ { \mathrm { T } _ { 1 } } } }\) 关系的影响
 
-![](images/a119b09ad940ac315105ef9849ce0040a748879d772104aee2de0621680d7838.jpg)
+![](extracted_chunk_061/images/a119b09ad940ac315105ef9849ce0040a748879d772104aee2de0621680d7838.jpg)
 
-![](images/106fe93b5ed0e2db898fd7d3c5e4b4d52d4b7039190c88fecc0953b0bdf57290.jpg)  
+![](extracted_chunk_061/images/106fe93b5ed0e2db898fd7d3c5e4b4d52d4b7039190c88fecc0953b0bdf57290.jpg)  
 图1912级放气对 \(\frac { F _ { e } } { \mathrm { P } _ { 1 } \sqrt { \mathrm { ~ T } _ { 1 } } }\) 寸 \(\frac { { { N } _ { \mathrm { { H } } } } } { \surd { { { T } _ { 1 } } } }\) 关系的影响  
 图2012级放气对 \(\frac { \mathrm { ~ P ~ } _ { 2 } } { \mathrm { ~ P ~ } _ { 1 } }\) \(\frac { { { N } _ { \mathrm { H } } } } { \sqrt { \mathrm { ~ { T } _ { \mathrm { ~ l ~ } } } } }\) 关系的影响
 
 
 
-## Chunk 62
+## Chunk 62 (Original Pages 306-310)
 
-![](images/099776e3a178ecbbb07adbd25c4f9a48c6822933a8c339a5b1b59779bb6e5037.jpg)  
+![](extracted_chunk_062/images/099776e3a178ecbbb07adbd25c4f9a48c6822933a8c339a5b1b59779bb6e5037.jpg)  
 图2112级放气对 \(\frac { \mathrm { ~ P ~ } _ { 3 } } { \mathrm { ~ P ~ } _ { 1 } }\) 与 \(\frac { { { N } _ { H } } } { \sqrt { \mathrm { ~ { ~ T } _ { 1 } } } }\) 关系的影响
 
 ## 3.CASC技术要求的附注
@@ -6939,38 +6939,38 @@ P限制器通过感受P3的膜盒（压之以弹簧）工作。
 
 
 
-## Chunk 63
+## Chunk 63 (Original Pages 311-315)
 
-![](images/729864ec051aabc90bf86e7ef84666e497a493f9b302684bb43c06fa6402ab3a.jpg)
+![](extracted_chunk_063/images/729864ec051aabc90bf86e7ef84666e497a493f9b302684bb43c06fa6402ab3a.jpg)
 
-![](images/cabcfb8632ba3ece333933c35f378faf9f665a586fcb0f5777cfe804cd92b98d.jpg)
+![](extracted_chunk_063/images/cabcfb8632ba3ece333933c35f378faf9f665a586fcb0f5777cfe804cd92b98d.jpg)
 
-![](images/58e9ebfa6b829afff43679bcdf3d0c9ba978356caf0f078777acceff8f7a7158.jpg)
+![](extracted_chunk_063/images/58e9ebfa6b829afff43679bcdf3d0c9ba978356caf0f078777acceff8f7a7158.jpg)
 
-![](images/ab6172783bd06c1e1f414d6e32208faba3b9249da2b6fbf2cc784766c12e155d.jpg)
+![](extracted_chunk_063/images/ab6172783bd06c1e1f414d6e32208faba3b9249da2b6fbf2cc784766c12e155d.jpg)
 
-![](images/00a59b8813ad994f86aaccd7f29a7537accf4c951cb07e6bd005a597fadd104d.jpg)
+![](extracted_chunk_063/images/00a59b8813ad994f86aaccd7f29a7537accf4c951cb07e6bd005a597fadd104d.jpg)
 
 
 
-## Chunk 64
+## Chunk 64 (Original Pages 316-320)
 
-![](images/51142fbca2807a64cd552403160a8228eb4197f9934df0081eab0bea98b4bbf7.jpg)
+![](extracted_chunk_064/images/51142fbca2807a64cd552403160a8228eb4197f9934df0081eab0bea98b4bbf7.jpg)
 
-![](images/7da008577894f9a97710ca1af2fb04e2df4d378c519c2cd1d0c7938ac10e9f3d.jpg)  
+![](extracted_chunk_064/images/7da008577894f9a97710ca1af2fb04e2df4d378c519c2cd1d0c7938ac10e9f3d.jpg)  
 图7限定的飞行包线
 
 （飞机进气道、英国标准冷天）
 
-![](images/199f2054a12f404abb4af562588f7d2b9f7611ccf45cefd59fa8f3bf660e3e6e.jpg)  
+![](extracted_chunk_064/images/199f2054a12f404abb4af562588f7d2b9f7611ccf45cefd59fa8f3bf660e3e6e.jpg)  
 图8限定的飞行包线
 
-![](images/4f8397b4a8fa16925a7fea9b0dfc4cabcffdaffa6617e5dbfaef9795b0608db8.jpg)  
+![](extracted_chunk_064/images/4f8397b4a8fa16925a7fea9b0dfc4cabcffdaffa6617e5dbfaef9795b0608db8.jpg)  
 图9限定的飞行包线（飞机进气道、英国标准热天）
 
 7.建议的 \(\mathsf { N } _ { \mathrm { H } } { \sim } \mathsf { T } _ { 1 }\) 和 \(\mathsf { T } _ { \mathrm { b } } { \sim } \mathsf { T } _ { 1 }\) 控制
 
-![](images/75e0dae0f81bafbde1f928092e528c17c341d5ad0612a1953ae81463e83474d4.jpg)  
+![](extracted_chunk_064/images/75e0dae0f81bafbde1f928092e528c17c341d5ad0612a1953ae81463e83474d4.jpg)  
 1965.7.28第2版
 
 # 摘要
@@ -6985,10 +6985,10 @@ P限制器通过感受P3的膜盒（压之以弹簧）工作。
 
 现在推荐的喷管温度 \(\mathrm { ~ T _ { 6 } ~ } )\) 极限表示在图2上。从中可以看到发动机加力而不使用附面层控制时推荐的基准值和在所有使用附面层控制而不加力时满足发动机要求的 \(\mathrm { { { T } _ { \theta } } }\) 信号再调值。
 
-![](images/787019ae2198e741cb0e505c283ce2eb9584d217dc39e7594df964cb835db6e5.jpg)  
+![](extracted_chunk_064/images/787019ae2198e741cb0e505c283ce2eb9584d217dc39e7594df964cb835db6e5.jpg)  
 图1高压轴最大转速随进口总温的变化
 
-![](images/782edbf59cb7aee6cc979557223636cd0f78053e8501b36c26b1bae9636ce2ab.jpg)  
+![](extracted_chunk_064/images/782edbf59cb7aee6cc979557223636cd0f78053e8501b36c26b1bae9636ce2ab.jpg)  
 图2 \(\mathrm { ~ T ~ } _ { 8 } ^ { \circ } \mathrm { K }\) 实际值随进口总温的变化
 
 8。净推力与发动机控制输入角之间的关系
@@ -7027,15 +7027,15 @@ P限制器通过感受P3的膜盒（压之以弹簧）工作。
 
 
 
-## Chunk 65
+## Chunk 65 (Original Pages 321-325)
 
-![](images/0998f6e0b781203ee321182a08e22a33ad211a3dd4b386fe59c8d2747e5fe7c0.jpg)  
+![](extracted_chunk_065/images/0998f6e0b781203ee321182a08e22a33ad211a3dd4b386fe59c8d2747e5fe7c0.jpg)  
 图1推力与发动机扛制器输入角的关系（国际标准大气、海平面静止、不提取空气）
 
-![](images/8167f7d02cdebb3776fbfb596180642214f760c2a2e70e987555a848fb930421.jpg)  
+![](extracted_chunk_065/images/8167f7d02cdebb3776fbfb596180642214f760c2a2e70e987555a848fb930421.jpg)  
 图2推力与发动机控制器输入角之间的关系（国际标准大气、海平面静止和12级抽气）
 
-![](images/b9563aab31d8d7dc1f8ad3c486b4e16b00900f2ca7865133a9109c71b1707486.jpg)  
+![](extracted_chunk_065/images/b9563aab31d8d7dc1f8ad3c486b4e16b00900f2ca7865133a9109c71b1707486.jpg)  
 图3推力与发动机控制输入角之间的关系（国际 标准大气、海平面静止和7级抽气）  
 1965.6.9第1版
 
@@ -7181,7 +7181,7 @@ n _ { 0 } = \frac { \ n _ { \mathrm { V M O } } \ n _ { \mathrm { P } } } { \sqr
 
 
 
-## Chunk 66
+## Chunk 66 (Original Pages 326-330)
 
 \[
 \mu _ { \textrm { g } } = 1 . 0
@@ -7243,10 +7243,10 @@ n _ { 0 } = \frac { \ n _ { \mathrm { V M O } } \ n _ { \mathrm { P } } } { \sqr
 
 3.7现在 \(\mathsf { F } > \mathsf { F } ^ { \prime }\) ，所以慢车转速 \(N _ { \mathrm { H } } = 6 5 0 0\) 转/分
 
-![](images/3dc0ca6cc572d2242ea0721f3827c774d23805076b7d5dfc8fa170055600775f.jpg)  
+![](extracted_chunk_066/images/3dc0ca6cc572d2242ea0721f3827c774d23805076b7d5dfc8fa170055600775f.jpg)  
 图1空气分压器特性（横座标应改为 \(\mathrm { ~ P ~ } _ { 3 } / \mathrm { ~ P ~ } _ { 2 }\) ）
 
-![](images/8aa98fecc04f74457d8a13beca4c5ec73bf3ff009226fd1879ead932be5cb55d.jpg)  
+![](extracted_chunk_066/images/8aa98fecc04f74457d8a13beca4c5ec73bf3ff009226fd1879ead932be5cb55d.jpg)  
 图2计量孔特性
 
 #### 10。高压转速调节器的漂移
@@ -7346,7 +7346,7 @@ n _ { 0 } = \frac { \ n _ { \mathrm { V M O } } \ n _ { \mathrm { P } } } { \sqr
 
 
 
-## Chunk 67
+## Chunk 67 (Original Pages 331-335)
 
 表1  
 
@@ -7399,10 +7399,10 @@ n _ { 0 } = \frac { \ n _ { \mathrm { V M O } } \ n _ { \mathrm { P } } } { \sqr
 
 7.2可以期望在稳定推力上凸轮箱输入杆小移动的滞后比上述试验测量的小些。然而“小移动”试验结果(6.4节)没有清楚地表明这一点。虽然有迹象表明，在进场功率范围内，凸轮箱的输入滞后在要求的 \(1 ^ { \circ }\) 极限范围之内。然而还是建议作进一步的试验，特别要注意减小油门杆刚度因素的影响，并对测试仪器的空行程加以估算。
 
-![](images/70d871cf583955e67da1a29ff4989f68b774588c9f27e5e9cdf61adc6198332f.jpg)  
+![](extracted_chunk_067/images/70d871cf583955e67da1a29ff4989f68b774588c9f27e5e9cdf61adc6198332f.jpg)  
 图1转速 \(\mathrm { { N _ { H } } }\) 对凸轮箱输入角的滞后（海平面静止无放气）
 
-![](images/f598e13355361d486a4f2a84be4bcf3419562399753592cd9b06d07b2afb4ffd.jpg)  
+![](extracted_chunk_067/images/f598e13355361d486a4f2a84be4bcf3419562399753592cd9b06d07b2afb4ffd.jpg)  
 图2凸轮箱和CASC装置输入角对发动机转速的滞后
 
 #### 13.估算P。限制器失灵造成的高压压气机最大出口压力
@@ -7471,7 +7471,7 @@ n _ { 0 } = \frac { \ n _ { \mathrm { V M O } } \ n _ { \mathrm { P } } } { \sqr
 
 
 
-## Chunk 68
+## Chunk 68 (Original Pages 336-340)
 
 5.15来自高压燃油系统的冷却流量和伺服流量的平均值是以使用AVTAG燃油而被假定的。它们联合给出在发生故障的极端条件下限制燃油流量的高压油泵可能的供油能力。
 
@@ -7511,7 +7511,7 @@ n _ { 0 } = \frac { \ n _ { \mathrm { V M O } } \ n _ { \mathrm { P } } } { \sqr
 
 制在396磅/英寸（绝对)。初步检查表明，它不大可能明显地干扰发动机加速性。
 
-![](images/eddfe49674166924bd51ce5cbac63b577ec197a948a5cd6139edd76a5e543656.jpg)  
+![](extracted_chunk_068/images/eddfe49674166924bd51ce5cbac63b577ec197a948a5cd6139edd76a5e543656.jpg)  
 图1估算的 \(\mathrm { ~ P ~ } _ { 3 }\) 限制器故障的影响（加力时）
 
 盒
@@ -7620,7 +7620,7 @@ n _ { 0 } = \frac { \ n _ { \mathrm { V M O } } \ n _ { \mathrm { P } } } { \sqr
 
 
 
-## Chunk 69
+## Chunk 69 (Original Pages 341-345)
 
 高压比上。
 
@@ -7670,7 +7670,7 @@ a = \frac { 2 . 2 3 } { \mathrm { ~ \textit ~ { ~ R ~ } ~ } }
 
 由此可得出：
 
-![](images/42a6185793cc259e47d61c41660a812d6f6c0cb4807b4b6279f19fd88f3e1420.jpg)  
+![](extracted_chunk_069/images/42a6185793cc259e47d61c41660a812d6f6c0cb4807b4b6279f19fd88f3e1420.jpg)  
 图1发动机无因次特性线
 
 此处原文误为0.0014——译注。
@@ -7684,27 +7684,27 @@ a = \frac { 2 . 2 3 } { \mathrm { ~ \textit ~ { ~ R ~ } ~ } }
 然后考虑到适当的流量系数，选择分压器节流孔和文氏管的尺寸。  
 为了给出膜盒比值 \(a = 0 . 4 5 5\) ，膜盒数为11是合适的，其中5个通 \(\mathrm { ~ P ~ } _ { 2 }\) 。
 
-![](images/7b072da4b9eb4f85991d781db0d5b38abbf2c811a3f9ecd7f5c9c4bd8e940403.jpg)  
+![](extracted_chunk_069/images/7b072da4b9eb4f85991d781db0d5b38abbf2c811a3f9ecd7f5c9c4bd8e940403.jpg)  
 图2发动机加速控制
 
-![](images/2a7f8930d457f058f5950f43c3d11d7a41681bee5b9fc51c3a28ec9e87e635cb.jpg)  
+![](extracted_chunk_069/images/2a7f8930d457f058f5950f43c3d11d7a41681bee5b9fc51c3a28ec9e87e635cb.jpg)  
 图3分压器和波纹管草图
 
-![](images/b3ddd125a5c9ac2d1432860d6c551c73f61e5e191b51c0cef9b5e7eabdf94e49.jpg)  
+![](extracted_chunk_069/images/b3ddd125a5c9ac2d1432860d6c551c73f61e5e191b51c0cef9b5e7eabdf94e49.jpg)  
 图4分压器特性
 
-![](images/61bb024efee1104090f889c0c767adbfe838cad46e125732118c359474bf1fc8.jpg)  
+![](extracted_chunk_069/images/61bb024efee1104090f889c0c767adbfe838cad46e125732118c359474bf1fc8.jpg)  
 图5加速控制特性
 
-![](images/49a02481fc7510c9181289e95eeb0806f6d17b5b9a977d2e8ed9293d6b8af8b4.jpg)  
+![](extracted_chunk_069/images/49a02481fc7510c9181289e95eeb0806f6d17b5b9a977d2e8ed9293d6b8af8b4.jpg)  
 图6初期的CASC校准曲线
 
-![](images/2417c8d2f9c0f1d3fa508f3b5fedb5fa3b03878b9b4e7538483f1e44718dff5d.jpg)  
+![](extracted_chunk_069/images/2417c8d2f9c0f1d3fa508f3b5fedb5fa3b03878b9b4e7538483f1e44718dff5d.jpg)  
 图7CASC上的 \(\mathrm { ~ V ~ M O ~ }\) 压差与 \(\mathrm { N _ { H } } ^ { 2 }\) 的关系
 
 
 
-## Chunk 70
+## Chunk 70 (Original Pages 346-350)
 
 # 技术设计报告
 
@@ -7888,7 +7888,7 @@ CASC电路中的测速发电机输出电压；
 
 低压轴转速限制器用来调节发动机燃油流量，从而将低压轴转速限制在一个规定值。这个限制器应与CASC完全无关，而是为安全保险的原因配备的。就是说并不要这个限制器在任何正常飞行状态下对发动机进行限制。
 
-![](images/84bc6b6b32801ce8fc8017600f4109edb8991fe3475a31e1e64cb4c19864d82d.jpg)  
+![](extracted_chunk_070/images/84bc6b6b32801ce8fc8017600f4109edb8991fe3475a31e1e64cb4c19864d82d.jpg)  
 图1斯贝MK202 \(\mathrm { T } _ { 3 }\) 和 \(\mathrm { ~ T ~ } _ { 6 }\) 控制
 
 #### 3.1.2发动机说明
@@ -7906,11 +7906,11 @@ CASC电路中的测速发电机输出电压；
 
 
 
-## Chunk 71
+## Chunk 71 (Original Pages 351-355)
 
 时，精度可以降低到±100转/分（低压轴转速）。
 
-![](images/208ca75405f551c2b879117e47cda4def6edb045e5187ae643399f2cd7afaa5a.jpg)  
+![](extracted_chunk_071/images/208ca75405f551c2b879117e47cda4def6edb045e5187ae643399f2cd7afaa5a.jpg)  
 图2斯贝MK202CASC温度控制的机构部份简图
 
 3.1.5重调
@@ -7983,7 +7983,7 @@ CASC电路中的测速发电机输出电压；
 
 低压轴控制器控制特性见图3
 
-![](images/a98cc93e10574f94b1a128c10f1802700e45d74132970f3595b435111971325b.jpg)  
+![](extracted_chunk_071/images/a98cc93e10574f94b1a128c10f1802700e45d74132970f3595b435111971325b.jpg)  
 图3斯贝MK202典型的低压轴控制器特性线
 
 # 4.高压燃油停车开关
@@ -8074,7 +8074,7 @@ CASC电路中的测速发电机输出电压；
 
 
 
-## Chunk 72
+## Chunk 72 (Original Pages 356-360)
 
 数。
 
@@ -8102,7 +8102,7 @@ CASC电路中的测速发电机输出电压；
 
 \(\Delta \mathrm { P } _ { \mathrm { \scriptscriptstyle M B } }\)
 
-![](images/730481cb3a724fc4074913be7e6c2dd14fdc6a525cda46860e9cc17a6d0f19ea.jpg)  
+![](extracted_chunk_072/images/730481cb3a724fc4074913be7e6c2dd14fdc6a525cda46860e9cc17a6d0f19ea.jpg)  
 图1斯贝MK202主，副喷咀燃油流量之间的关系
 
 方程（1）和（2）合并得出
@@ -8158,7 +8158,7 @@ CASC电路中的测速发电机输出电压；
 
 将这个时间加倍就得到1.4秒的运动时间。这就给出了一个工作时间下限（即燃油能被引入加力系统的最快时间）。这个下限是按接通加力的5秒内获得所选择的加力程度的要求来调定的。这样在溢流活门打开之前，催化定时器占用时间为3.2秒，如考虑一个0.2秒的裕度，工作时间上限就是1.6秒。
 
-![](images/5f78cb265f83d07c3dfc26b0e5446a4fb2d0d494f8ab82e81d8c551ee7b31c5b.jpg)  
+![](extracted_chunk_072/images/5f78cb265f83d07c3dfc26b0e5446a4fb2d0d494f8ab82e81d8c551ee7b31c5b.jpg)  
 1969.1220008号发动机海平面试突然接通最大加力   
 图1尾喷口打开过程记录
 
@@ -8186,7 +8186,7 @@ TDR 7782
 
 
 
-## Chunk 73
+## Chunk 73 (Original Pages 361-365)
 
 活塞的移动接向喷口滑油泵的斜盘角度，驱动尾喷口，以便使实际 \(\mathrm { ~ P ~ } _ { 8 }\) 向参考 \(\mathrm { ~ P ~ } _ { 6 }\) 靠拢。在上述调整过程发生时，活塞两边压力变向，移动活塞使压力平衡，于是下游孔面积再次作为控制器使用。这样喷口油泵冲程返回零位，使喷口面积的改变速率减慢。接着系统就向稳态位置移动，直至稳定在零位。
 
@@ -8204,7 +8204,7 @@ TDR 7782
 
 为了使针阀制造方便，已大大地简化了针阀型面，即把型面作成圆锥形，这样就出现了沿针阀型面段的微弱增益变化，不过，这种变化在关闭型面段上是无关紧要的，因为无论如何，这一段系高增益区，且打开方向的型面段为圆柱段。整个调节型面段的实际长度仅0.125英寸，因此沿此型面段长度上的增益变化可忽略。已经证实，这些小变化，在工作中可忽略不计。这种型式的针阀型面是可以接受的。现在使用的正是这种型式的针阀。
 
-![](images/adcf8a0d822198bb414a24369cd88ecefb6c528089092bef3908798c6ad028ae.jpg)  
+![](extracted_chunk_073/images/adcf8a0d822198bb414a24369cd88ecefb6c528089092bef3908798c6ad028ae.jpg)  
 图1斯贝MK202压比调节器上的 \(\mathrm { ~ P ~ } _ { 3 } / \mathrm { P }\) 针阀型面的发展
 
 图1中（a）到（e）各图表示了 \(\mathrm { P _ { 3 } / P _ { 6 } }\) 针阀型面从原始设计（图1（a））经过发展成为现用标准的型面（图1（e））的过程。
@@ -8221,7 +8221,7 @@ TDR 7782
 
 图1（e）与(d)相同，但为便于制造，型面由锥形段构成，成为现在的针阀型面标准。
 
-![](images/23fa25fd1008b6e5236e317d15e7f882321bfdae16f8a971fc07798daa503890.jpg)  
+![](extracted_chunk_073/images/23fa25fd1008b6e5236e317d15e7f882321bfdae16f8a971fc07798daa503890.jpg)  
 1966.7.15第1版
 
 1.0引言
@@ -8250,7 +8250,7 @@ TDR 7782
 
 在燃油喷向催化点火器的时候，主加力燃油通过溢流活门返回增压泵进口，所以在从最大军用状态到最大加力的急速加力过程中，用溢流活门的关闭速率来确定燃油量的增加率，而从最小加力状态急剧加速到最大加力状态的过程中，控制元件是旋转活门。
 
-![](images/7ad73d44515b52f97aeade66b6f8e6a7582e9201969bf4987818b7e4d980a2d2.jpg)  
+![](extracted_chunk_073/images/7ad73d44515b52f97aeade66b6f8e6a7582e9201969bf4987818b7e4d980a2d2.jpg)  
 图1斯贝8号发动机的急剧加力加速过程
 
 图1表示从最大军用状态急剧加速到主加力燃油量为4000加仑/小时的状态的瞬态特性。在全冲程下，通过 \(\mathrm { P _ { 3 } / P _ { 6 } }\) 作动筒，打开喷口的速度比燃油增加的最大速度还快。在这样的系统里，作动筒的有限输出速度会产生滞后，以致喷口压力超调。此时，接近喘振的最大压力比误差是0.43，而接近堵塞颤振的最大误差为0.2。
@@ -8259,19 +8259,19 @@ TDR 7782
 
 通过调整不同的界限值，在全能试验台上完成了上述的试验。图2和图3表示以各种不同的速度猛推油门加速时接近喘振的峰值压比误差。最接近于在38号发动机上试验情况的是试验83，那里的界限值调整在0.18左右(在试验期间，溢流活门未装在全能试验台上）。在此调整位置，从最大军用状态急剧加速的记录峰值误差为0.36。减小界限值也使峰值误差降低，但是使系统趋于不稳定。
 
-![](images/6744844dcdb282bc860af3356ac81195703631ed7ed9ca5f071cf264ec9a5ce0.jpg)  
+![](extracted_chunk_073/images/6744844dcdb282bc860af3356ac81195703631ed7ed9ca5f071cf264ec9a5ce0.jpg)  
 图2从最小加力开始的急剧加力加速
 
 ### 3.3喷口速度
 
 在38号发动机上试验所记录的最大喷口速度为435英寸/秒。喷管H346安装了小面积的非飞行标准的喷口作动筒。以上述为据，在标准飞行喷口上的最大期望速度是356英寸/秒。由于这一速度恰好超过燃油流量以最大速率增加时，维持稳定压比误差所需要的平均喷口速度（230英寸/秒），所以可以认为这种装置与标准飞行喷管一起使用时，装置的特性会是令人满意的。
 
-![](images/5bbd6de9b03f84c20e5dd6ececd2b6dbad517d8020cef61fabac91ce0ca62a2f.jpg)  
+![](extracted_chunk_073/images/5bbd6de9b03f84c20e5dd6ececd2b6dbad517d8020cef61fabac91ce0ca62a2f.jpg)  
 图3从最大军用状态开始的急剧加力加速
 
 
 
-## Chunk 74
+## Chunk 74 (Original Pages 366-370)
 
 # 技术设计报告
 
@@ -8378,7 +8378,7 @@ TFMV的型面允许对燃烧效率（ \(\alpha _ { \mathrm { ~ R ~ } }\) ）裕�
 
 
 
-## Chunk 75
+## Chunk 75 (Original Pages 371-375)
 
 这样，到旋转活门伺服活塞的信号使旋转活门打开，允许汽芯泵进口开大。燃油于是开始供给加力燃油计划系统。到尾喷口收放活门的信号调节尾喷口至预开位置，在加力点火之前，调整尾喷口的位置与蒸发槽流量相适应。到空气吹除选择活门的信号切断流过蒸发槽的空气。这股吹除空气的存在，防止在切断加力后残留在管路内的燃油油孔周周围积炭。
 
@@ -8398,10 +8398,10 @@ TFMV的型面允许对燃烧效率（ \(\alpha _ { \mathrm { ~ R ~ } }\) ）裕�
 
 ##
 
-![](images/890fec6c7828df73afa8e682576b9d7c8f102fbd665d0fac3c978a1ee2bedabd.jpg)  
+![](extracted_chunk_075/images/890fec6c7828df73afa8e682576b9d7c8f102fbd665d0fac3c978a1ee2bedabd.jpg)  
 图1斯贝MK202加力燃油计划的修正要求
 
-![](images/dcfc0737e48c6bce726b7ba4abc2b3e423b5095a2fb2003b950f996580b4b6a6.jpg)  
+![](extracted_chunk_075/images/dcfc0737e48c6bce726b7ba4abc2b3e423b5095a2fb2003b950f996580b4b6a6.jpg)  
 图2斯贝MK202加力燃油流量调节器的典型校准曲线
 
 的非加力位置，P吹除空气流过蒸发槽总管，将系统内残留的燃油清除，防止蒸发槽孔积炭。转动活门伺服活塞伺服燃油的解除，使低压间断活门关闭，这样，阻止燃油经过汽芯泵
@@ -8541,7 +8541,7 @@ P口低压压气机出口总压 磅/英寸²（绝对）
 
 
 
-## Chunk 76
+## Chunk 76 (Original Pages 376-380)
 
 需要把燃油流量分配到加力主燃油喷嘴去的装置。
 
@@ -8633,26 +8633,26 @@ AVCAT/48
 
 漏油接头的总漏油量不超过50毫升/分（稳态）及100毫升/分（瞬变状态）。
 
-![](images/abf9250939cf6d4e3015f9db49d615381b874825ac471ece80582c37b5ca567d.jpg)  
+![](extracted_chunk_076/images/abf9250939cf6d4e3015f9db49d615381b874825ac471ece80582c37b5ca567d.jpg)  
 图1斯贝MK202无因次加力燃油流量
 
-![](images/79650cb08f3cb1eb94664559292db673474fadb83990af9cb792218eb6e3dd39.jpg)  
+![](extracted_chunk_076/images/79650cb08f3cb1eb94664559292db673474fadb83990af9cb792218eb6e3dd39.jpg)  
 图2斯贝MK202加力燃油流量修正系数 \(a _ { \mathrm { { K } } }\)
 
-![](images/5e535fab46953865340ff1f87b2780475f15ea1780c47fa730ef70ce70674bfd.jpg)  
+![](extracted_chunk_076/images/5e535fab46953865340ff1f87b2780475f15ea1780c47fa730ef70ce70674bfd.jpg)  
 图3斯贝MK202无因次高压压气机出口总压和总温
 
-![](images/79aa00a7f5222c6d8d0d39b34df22c63b1479eab164343a6f2efd3ee9c892fc3.jpg)  
+![](extracted_chunk_076/images/79aa00a7f5222c6d8d0d39b34df22c63b1479eab164343a6f2efd3ee9c892fc3.jpg)  
 图4斯贝MK202无因次低压压气机出口 和低压涡轮出口总压
 
 
 
-## Chunk 77
+## Chunk 77 (Original Pages 381-385)
 
-![](images/890882eac76d049f435b59610ff48514e17cc7dbdc413a3115c6b0fbe4764585.jpg)  
+![](extracted_chunk_077/images/890882eac76d049f435b59610ff48514e17cc7dbdc413a3115c6b0fbe4764585.jpg)  
 图5斯贝MK202估算的增压泵特性
 
-![](images/d85f95d4793d8d278d3872d2362b656fa5b13a17c420d325fd225c1761ea8f02.jpg)  
+![](extracted_chunk_077/images/d85f95d4793d8d278d3872d2362b656fa5b13a17c420d325fd225c1761ea8f02.jpg)  
 图6斯贝MK202加力燃油控制装置进口压力和流量特性
 
 <table><tr><td>技术设计报告</td><td>TDR7789</td></tr><tr><td colspan="2">斯贝MK202压比调节和喷口调节系统</td></tr></table>
@@ -8717,7 +8717,7 @@ P6 低压涡轮出口压力\*
 
 
 
-## Chunk 78
+## Chunk 78 (Original Pages 386-390)
 
 \[
 \frac { \mathrm { { M } } _ { 1 } \vee \mathrm { { ~ T } } _ { 1 } } { \mathrm { { A } } _ { 1 } \mathrm { { P } } _ { 3 } } = \frac { \mathrm { { M } } _ { 2 } \vee \mathrm { { ~ T } } _ { 2 } } { \mathrm { { A } } _ { 2 } \mathrm { { P } } _ { 2 } }
@@ -8861,7 +8861,7 @@ A _ { 2 } = A _ { 1 } \frac { P _ { 3 } } { P _ { 2 } }
 
 
 
-## Chunk 79
+## Chunk 79 (Original Pages 391-395)
 
 系数表  
 
@@ -8943,12 +8943,12 @@ _ { 2 2 } \Delta \mathrm { N _ { L } } - \mathrm { K _ { 2 4 } } \Delta \mathrm 
 
 已求出油门杆角度阶跃变化输入对发动机各个参数的影响。这些变化的例子见图6、图7和图8。
 
-![](images/b693b2a830a5c5d9a069822026981266b1c32f08d103ca102ee12f0fd403f333.jpg)  
+![](extracted_chunk_079/images/b693b2a830a5c5d9a069822026981266b1c32f08d103ca102ee12f0fd403f333.jpg)  
 图1 \(\mathrm { { P _ { 3 } / P _ { 2 } } }\) 伺服针阀
 
 <table><tr><td rowspan=1 colspan=1>x英寸</td><td rowspan=1 colspan=1>P/P</td><td rowspan=1 colspan=1>P1/P2</td><td rowspan=1 colspan=1>dN英寸</td></tr><tr><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>3.171</td><td rowspan=1 colspan=1>3.000</td><td rowspan=1 colspan=1>0.1700</td></tr><tr><td rowspan=1 colspan=1>0.05</td><td rowspan=1 colspan=1>3.589</td><td rowspan=1 colspan=1>3.395</td><td rowspan=1 colspan=1>0.1653</td></tr><tr><td rowspan=1 colspan=1>0.10</td><td rowspan=1 colspan=1>4.006</td><td rowspan=1 colspan=1>3.790</td><td rowspan=1 colspan=1>0.1609</td></tr><tr><td rowspan=1 colspan=1>0.15</td><td rowspan=1 colspan=1>4.434</td><td rowspan=1 colspan=1>4.195</td><td rowspan=1 colspan=1>0.1560</td></tr><tr><td rowspan=1 colspan=1>0.20</td><td rowspan=1 colspan=1>4.852</td><td rowspan=1 colspan=1>4.590</td><td rowspan=1 colspan=1>0.1511</td></tr><tr><td rowspan=1 colspan=1>0.25</td><td rowspan=1 colspan=1>5.280</td><td rowspan=1 colspan=1>4.995</td><td rowspan=1 colspan=1>0.1460</td></tr><tr><td rowspan=1 colspan=1>0.30</td><td rowspan=1 colspan=1>5.708</td><td rowspan=1 colspan=1>5.400</td><td rowspan=1 colspan=1>0.1408</td></tr><tr><td rowspan=1 colspan=1>0.35</td><td rowspan=1 colspan=1>6.131</td><td rowspan=1 colspan=1>5.800</td><td rowspan=1 colspan=1>0.1853</td></tr><tr><td rowspan=1 colspan=1>0.40</td><td rowspan=1 colspan=1>6.559</td><td rowspan=1 colspan=1>6.205</td><td rowspan=1 colspan=1>0.1298</td></tr><tr><td rowspan=1 colspan=1>0.45</td><td rowspan=1 colspan=1>6.977</td><td rowspan=1 colspan=1>6.600</td><td rowspan=1 colspan=1>0.1239</td></tr><tr><td rowspan=1 colspan=1>0.50</td><td rowspan=1 colspan=1>7.400</td><td rowspan=1 colspan=1>7.000</td><td rowspan=1 colspan=1>0,1177</td></tr><tr><td rowspan=1 colspan=1>0.55</td><td rowspan=1 colspan=1>7.822</td><td rowspan=1 colspan=1>7.400</td><td rowspan=1 colspan=1>0.1111</td></tr><tr><td rowspan=1 colspan=1>0.60</td><td rowspan=1 colspan=1>8.245</td><td rowspan=1 colspan=1>7.800</td><td rowspan=1 colspan=1>0.1040</td></tr><tr><td rowspan=1 colspan=1>0.625</td><td rowspan=1 colspan=1>8.457</td><td rowspan=1 colspan=1>8.000</td><td rowspan=1 colspan=1>0.1020</td></tr></table>
 
-![](images/366127f33a3380dcf73ae86f627168f6ddbb85a59c85a59a3db74952f16b904f.jpg)  
+![](extracted_chunk_079/images/366127f33a3380dcf73ae86f627168f6ddbb85a59c85a59a3db74952f16b904f.jpg)  
 定径孔直径0.246英寸
 
 在平衡位置Ps=P
@@ -8959,7 +8959,7 @@ _ { 2 2 } \Delta \mathrm { N _ { L } } - \mathrm { K _ { 2 4 } } \Delta \mathrm 
 
 \(^ { \ast }\) 对无附面层控制微调针阀，当 \(\mathrm { P _ { 3 } / P _ { 2 } = 5 }\) 750时这里给出的 \(\mathrm { P _ { 3 } / P _ { 6 } }\) 值是有效的。
 
-![](images/4af7be0b60e503b2eb10789a7dfc106434e58985bfdd3f694c924f77d5e25f01.jpg)  
+![](extracted_chunk_079/images/4af7be0b60e503b2eb10789a7dfc106434e58985bfdd3f694c924f77d5e25f01.jpg)  
 图3附面层控制 \(\mathrm { ~ P ~ } _ { 3 } / \mathrm { P } _ { 2 }\) 微调针阀
 
 不使用附面层控制时的微调针阀  
@@ -8974,7 +8974,7 @@ _ { 2 2 } \Delta \mathrm { N _ { L } } - \mathrm { K _ { 2 4 } } \Delta \mathrm 
 
 
 
-## Chunk 80
+## Chunk 80 (Original Pages 396-400)
 
 P/P P——低压压气机出口总压磅/英寸（绝对）P—高压压气机出口总压磅/英寸（绝对）  
 0.30 P6—低压涡轮出口总压 磅/英寸（绝对）  
@@ -8988,24 +8988,24 @@ P/P P——低压压气机出口总压磅/英寸（绝对）P—高压压气机�
 0.14  
 0.12 不使用附面层控制所要求的工作线 36089英尺马赫数2.0 36089英尺马赫数1.1国际标准大气 国际标准大气 P/P23.6 4.0 4.4 4.8 5.2 5.6 6.0 6.4 6.8 7.2 7.6 8.0 8.4
 
-![](images/a45fe0f6a707dcd0b35473281baac0e21714c58107acd1b833b3ef19a9bc463e.jpg)  
+![](extracted_chunk_080/images/a45fe0f6a707dcd0b35473281baac0e21714c58107acd1b833b3ef19a9bc463e.jpg)  
 图4斯贝MK202使用和不使用附面层控制所要求的工作线  
 图5斯贝MK202使用和不使用附面层控制所要求的工作线（压比调节器处的压力考虑了管路压力损失）
 
-![](images/20a1599036c2245ff0d05384b451c4cbc93d670b9ad62451b353e5bffe1039ee.jpg)
+![](extracted_chunk_080/images/20a1599036c2245ff0d05384b451c4cbc93d670b9ad62451b353e5bffe1039ee.jpg)
 
-![](images/55d3d58ebc80e2b9c5db4a72ea346a6f7d70a5fb9e8cb586b6e8ed3f3fe69f46.jpg)  
+![](extracted_chunk_080/images/55d3d58ebc80e2b9c5db4a72ea346a6f7d70a5fb9e8cb586b6e8ed3f3fe69f46.jpg)  
 图7斯贝MK202加力程度阶跃变化 \(10 \%\) 时的响应特性
 
-![](images/042b621ea7681f55cd46cd554e17da7938b83203aa180491fa3a1791854738ce.jpg)
+![](extracted_chunk_080/images/042b621ea7681f55cd46cd554e17da7938b83203aa180491fa3a1791854738ce.jpg)
 
-![](images/a0fa6bb11f4275ef604650134cc382cfa2ec31dbd9244949a77af43ee36b5276.jpg)  
+![](extracted_chunk_080/images/a0fa6bb11f4275ef604650134cc382cfa2ec31dbd9244949a77af43ee36b5276.jpg)  
 8
 
-![](images/dd431ee152f6db8353b8fd6536a54c3f9a45e99b8ac0ea6ca0f52d88a0b31fea.jpg)  
+![](extracted_chunk_080/images/dd431ee152f6db8353b8fd6536a54c3f9a45e99b8ac0ea6ca0f52d88a0b31fea.jpg)  
 图9斯贝MK202低压压气机特性（考虑了尾喷口调节系统微调针阀对工作线的影响）
 
-![](images/ec63a3c1efe15c131aa9d90bd4b2be93b2ebe92f7562bc1a8c05ba598285758a.jpg)  
+![](extracted_chunk_080/images/ec63a3c1efe15c131aa9d90bd4b2be93b2ebe92f7562bc1a8c05ba598285758a.jpg)  
 1965.11.17第1版
 
 # 目的
@@ -9022,7 +9022,7 @@ P/P P——低压压气机出口总压磅/英寸（绝对）P—高压压气机�
 
 
 
-## Chunk 81
+## Chunk 81 (Original Pages 401-405)
 
 压力
 
@@ -9076,7 +9076,7 @@ P/P P——低压压气机出口总压磅/英寸（绝对）P—高压压气机�
 
 用两个相同的限流咀串接起来，没有呈现出明显的优点。两个0.034的限流咀等于一个0.031的，且它们仍需要过滤。两个无须过滤的限流咀0.041等于一个0.037的，并产生不容许的12.6磅/英寸（表压）的油箱压力。为了把油箱压力降到2.4磅/英寸（表压），需要把5个0.041的限流咀串联起来。
 
-![](images/0a1a7b86d23daaf56385af00af62e05994906cc804bb47a6e69b00f991d80fb7.jpg)  
+![](extracted_chunk_081/images/0a1a7b86d23daaf56385af00af62e05994906cc804bb47a6e69b00f991d80fb7.jpg)  
 图1斯贝MK202尾喷口滑油箱增压活门 \(\mathrm { K 2 }\) 试验结果
 
 1965.8.11第1版  
@@ -9143,7 +9143,7 @@ W新的 \(\mathrm { P _ { 3 } / P _ { 2 } }\) 空气活塞重量/现用活塞重
 
 最终图线表明，现有活塞质量在 \(^ { 6 6 } \mathrm { g } ^ { 9 9 }\) 载荷作用下，尽管对附面层控制和 \(\mathrm { { P _ { 3 } / P _ { 2 } } }\) 两个微调针阀的影响是使发动机推力增加，但此推力增加还不足补偿由于 \(^ { 6 6 } \mathrm { g } ^ { 9 9 }\) 载荷对 \(\mathrm { P _ { 3 } / P _ { 2 } }\) 活塞的影响，所以增加的推力仍不能完全补偿推力损失（即在 \(\mathrm { W } = \mathrm { 1 }\) 时，总的 \(\% \mathrm { X } _ { \mathrm { N } }\) 误差为负）。因此，为了增大微调针阀的作用，必须增大 \(\mathrm { P _ { 3 } / P _ { 2 } }\) 活塞的质量。
 
-![](images/cc8789168369ed2fb3ed9c881035ff01012be461cce6275b5566ad7c57391b2d.jpg)  
+![](extracted_chunk_081/images/cc8789168369ed2fb3ed9c881035ff01012be461cce6275b5566ad7c57391b2d.jpg)  
 图1斯贝MK202 \(\mathrm { ~ P ~ } _ { 3 } ^ { \prime } / \mathrm { ~ P ~ } _ { 2 } ^ { \prime }\) 随 \(\mathrm { ~ A ~ } _ { 3 } / \mathrm { A } _ { 2 }\) 变化的曲线(孔径0.156英寸）
 
 应用现有的流量计量活门及主压差调节器，要求精确恢复推力所需的W值为1.48，这使尾喷口有效面积减小 \(1 . 3 2 \%\) 。保证同样尾喷口有效面积所需的W值为1.45；（这使 \(\mathrm { X } _ { \mathrm { N } }\) 降低 \(0 . 1 \%\) ，但保持了发动机的设计工作线）。
@@ -9156,17 +9156,17 @@ W新的 \(\mathrm { P _ { 3 } / P _ { 2 } }\) 空气活塞重量/现用活塞重
 
 这包括 \(\mathrm { P _ { 3 } / P _ { 2 } }\) 活塞质量增大到0.555磅（总重），即平衡重量的质量应由0.218减小到0.173磅。
 
-![](images/c7ebef24fcc2c3abd2fb30a79f387fa96be67c6589b0d27d384fcb9bf9415f94.jpg)  
+![](extracted_chunk_081/images/c7ebef24fcc2c3abd2fb30a79f387fa96be67c6589b0d27d384fcb9bf9415f94.jpg)  
 图2斯贝MK202喷口有效面积随 \(\mathrm { P _ { 3 } / P _ { 2 } }\) 空气活塞组件重量的变化（加速度为5g）
 
 
 
-## Chunk 82
+## Chunk 82 (Original Pages 406-410)
 
-![](images/6d652d32f44c107c98e2e674d3c6c001078430ecb9a1cb9157df6d9f413286f4.jpg)  
+![](extracted_chunk_082/images/6d652d32f44c107c98e2e674d3c6c001078430ecb9a1cb9157df6d9f413286f4.jpg)  
 图3斯贝MK202加力燃油流量误差随P/P2空气活塞组件重量的变化曲线
 
-![](images/04e03791aed99b7e75256b8b332001e11ff386371954bc9963a7dbaafafbc749.jpg)  
+![](extracted_chunk_082/images/04e03791aed99b7e75256b8b332001e11ff386371954bc9963a7dbaafafbc749.jpg)  
 图4斯贝MK202压比调节器和附面层控制微调针阀示意图
 
 <table><tr><td>技术设计报告</td><td>TDR7791</td></tr><tr><td colspan="2">斯贝MK202进口导流叶片及放气活门控制系统</td></tr></table>
@@ -9257,7 +9257,7 @@ W新的 \(\mathrm { P _ { 3 } / P _ { 2 } }\) 空气活塞重量/现用活塞重
 
 
 
-## Chunk 83
+## Chunk 83 (Original Pages 411-415)
 
 活门阻尼 \(= 0 . 5 { \sim } 1 . 5\) 磅·秒/英寸（取决于公差和粘度）
 
@@ -9267,7 +9267,7 @@ W新的 \(\mathrm { P _ { 3 } / P _ { 2 } }\) 空气活塞重量/现用活塞重
 
 尺寸和连杆运动见有关图纸。
 
-![](images/b384241d0fd8716cef495d81984826eb2e5257345f75257f008d1fd113792183.jpg)  
+![](extracted_chunk_083/images/b384241d0fd8716cef495d81984826eb2e5257345f75257f008d1fd113792183.jpg)  
 图1进口导流叶片和放气活门系统原理图
 
 伯努里（Bernouilli）力的估算
@@ -9320,7 +9320,7 @@ R 一伯努里力 \({ \approx } 0 . 7 \mathrm { P _ { v } }\)
 
 G R R 900 140 12 750 70 6
 
-![](images/db2cd93f5f5f7fb7355e4f07c4d12790855324ca6b148784cee3708b4a100b83.jpg)  
+![](extracted_chunk_083/images/db2cd93f5f5f7fb7355e4f07c4d12790855324ca6b148784cee3708b4a100b83.jpg)  
 图2作动筒直径的最佳化
 
 ### 稳定性判据
@@ -9335,10 +9335,10 @@ G R R 900 140 12 750 70 6
 
 <table><tr><td></td><td>系统的系数</td><td>D8</td><td>D²</td><td>D1</td><td>D</td></tr><tr><td>中等负荷</td><td>实际值</td><td>1</td><td>2.5</td><td>6.2</td><td>3.75</td></tr><tr><td></td><td>惠特利判据</td><td>1</td><td>3.1</td><td>4.8</td><td>3.75</td></tr><tr><td>高负荷</td><td>实际值</td><td>1</td><td>2.5</td><td>9.5</td><td>4.5</td></tr><tr><td></td><td>惠特利判据</td><td>1</td><td>3.3</td><td>5.5</td><td>4.5</td></tr></table>
 
-![](images/4c8db70c9206d3b0ffcc765b3084841af718f5ca47462f16da51ad376a4c506c.jpg)  
+![](extracted_chunk_083/images/4c8db70c9206d3b0ffcc765b3084841af718f5ca47462f16da51ad376a4c506c.jpg)  
 图3系统示意图（当 \(\mathrm { T } _ { \downarrow }\) 为常值时）
 
-![](images/e2db21b8153c657e8588cf535e019a805234f5060031bc1f6c7dae2b2be2a645.jpg)  
+![](extracted_chunk_083/images/e2db21b8153c657e8588cf535e019a805234f5060031bc1f6c7dae2b2be2a645.jpg)  
 图4三阶系统阶跃变化的响应特性
 
 很明显系统在所有状态下工作是良好的（见图4阶跃变化典型响应特性曲线），但是，如果需要的话，通过改变 \(\mathrm { R } _ { 1 } ( \mathrm { R } _ { 1 } / \mathrm { K } _ { 2 }\) 保持不变，以便有相同的增益）系统品质会得到改善，于是，就改变了第三个系数。这样，在调节器上就需要有一个新的凸轮和弹簧。
@@ -9365,14 +9365,14 @@ G R R 900 140 12 750 70 6
 
 如图1所示，一个由压缩比定位的敏感活塞带有一随动伺服机构，伺服机构驱动一联动装置，后者驱动操纵进口导流叶片及放气活门的作动筒。
 
-![](images/9659a0212ea61058c5a245da0e957a410e912724f0e63e11dc8c7d44cc2c3634.jpg)  
+![](extracted_chunk_083/images/9659a0212ea61058c5a245da0e957a410e912724f0e63e11dc8c7d44cc2c3634.jpg)  
 图1
 
 图2示出的是有稳态、加速及减速工作线的压气机特性。
 
 
 
-## Chunk 84
+## Chunk 84 (Original Pages 416-420)
 
 此图表示，如果进口导流叶片角度按压缩比计划，那末不论是在加速还是在减速时，所得到的角度都高于按N/\(\swarrow\) T要求的角度。
 
@@ -9384,7 +9384,7 @@ G R R 900 140 12 750 70 6
 
 必须遵循的是对于稳态工
 
-![](images/17b008c9277323cc3d72eff5537bf48dc8623d5c96e5913607d583c5d0cc4e7b.jpg)  
+![](extracted_chunk_084/images/17b008c9277323cc3d72eff5537bf48dc8623d5c96e5913607d583c5d0cc4e7b.jpg)  
 图2
 
 作，至少在变几何形状的高转速范围，应该修正这个计划。因为发动机在此范围内工作于高转速巡航状态。
@@ -9395,7 +9395,7 @@ G R R 900 140 12 750 70 6
 
 图3示出迅速加速和减速时，转速和进口导流叶片角度随时间变化的曲线。
 
-![](images/2d7a46680d04e55b998b6b4b9981c306b81f0949f7a48a127bff13f5b3ee163e.jpg)  
+![](extracted_chunk_084/images/2d7a46680d04e55b998b6b4b9981c306b81f0949f7a48a127bff13f5b3ee163e.jpg)  
 图 3
 
 在一定转速加速时，可以选择伺服机构的延迟与导前相匹配。可以看到，一般情况
@@ -9448,13 +9448,13 @@ G R R 900 140 12 750 70 6
 
 为一例。详细计划见图7。
 
-![](images/884eb06689d996eab694560636de3828d2e97e7b2ff48c7ab253ac8a3078109b.jpg)  
+![](extracted_chunk_084/images/884eb06689d996eab694560636de3828d2e97e7b2ff48c7ab253ac8a3078109b.jpg)  
 图4
 
-![](images/47801f895f7d53448e64853367a0e2c95bb4af27a34d903dbbb23eab8731069d.jpg)  
+![](extracted_chunk_084/images/47801f895f7d53448e64853367a0e2c95bb4af27a34d903dbbb23eab8731069d.jpg)  
 图5误差特性
 
-![](images/aacad8ba2cf9f764488e567d6c03b37309fefa0186686db12cfa9f518fa0c118.jpg)
+![](extracted_chunk_084/images/aacad8ba2cf9f764488e567d6c03b37309fefa0186686db12cfa9f518fa0c118.jpg)
 
 在恒转速下，具有可变计划误差的压气机特性及会聚线，见图8。对于这种特定情况来说，可以看到一个无限快速的系统不能在该计划限制的范围内收敛。而且图线表明，如果实际延迟偏离最佳值 \(30 \%\) ，进口导流叶片误差为 \(4 ^ { \circ }\) ，而放气误差为 \(27 \%\) 。
 
@@ -9470,7 +9470,7 @@ G R R 900 140 12 750 70 6
 
 注：在恒转速下，从稳态工作线移向加速控制装置工作线时， \(\mathrm { T } _ { 2 } / \mathrm { T } _ { 1 }\) 变化不明显。因此，不如用 \(\mathrm { N } / \sqrt { \mathrm { ~ T ~ } _ { 1 } }\) 来计划高压压气机的几何形状。
 
-![](images/0e0ba4c62d572c5ad8e2c48772dbb175fb35b859c50ab1ca24c3898c949310fa.jpg)  
+![](extracted_chunk_084/images/0e0ba4c62d572c5ad8e2c48772dbb175fb35b859c50ab1ca24c3898c949310fa.jpg)  
 \(\mathbf { N } _ { \mathrm { H } } / \sqrt { \mathrm { T } _ { 2 } } =\) 577时斯贝高压压气机出口质量流量M3√T2/P2   
 图8
 
@@ -9486,7 +9486,7 @@ G R R 900 140 12 750 70 6
 
 
 
-## Chunk 85
+## Chunk 85 (Original Pages 421-425)
 
 （2）估算热电偶响应特性
 
@@ -9569,7 +9569,7 @@ T 热电偶时间常数
 
 应用这些公式，飞行温度和压力范围内的时间常数即可确定，见图 \(1\) 。
 
-![](images/90a1d7dfffce3d5e8cc173c10f994720e352a08262a0daa79d6741218224f4e6.jpg)  
+![](extracted_chunk_085/images/90a1d7dfffce3d5e8cc173c10f994720e352a08262a0daa79d6741218224f4e6.jpg)  
 图1 \(\mathrm { ~ T ~ } _ { 1 }\) 热电偶时间常数随文氏管总压、总温和喉部马赫数不同而变化的曲线
 
 可以证明，时间常数正比于：
@@ -9580,7 +9580,7 @@ T 热电偶时间常数
 
 估算各种直径的电偶丝的时间常数用的放大系数见图2。
 
-![](images/5928d8f237ed4488ed19573da062b27131db3a9db5a42b8227a8c4de91108baf.jpg)  
+![](extracted_chunk_085/images/5928d8f237ed4488ed19573da062b27131db3a9db5a42b8227a8c4de91108baf.jpg)  
 图2时间常数随电偶丝直径的变化
 
 电偶丝直径为“D”英寸的时间常数放大系数 \(\mathrm { R } =\) 电偶丝直径为0.02英寸的时间常数
@@ -9615,7 +9615,7 @@ T 热电偶时间常数
 排出管直径 0.77英寸  
 最大主引射气流流量 0.042磅/秒（在温度 \(3 4 0 \mathrm { { ^ \circ C } }\) 时）
 
-![](images/c3cdd09a9e35064b258cd43cbf4b87f68e4687133d49d40fdd4f75d7e918f086.jpg)  
+![](extracted_chunk_085/images/c3cdd09a9e35064b258cd43cbf4b87f68e4687133d49d40fdd4f75d7e918f086.jpg)  
 图3引射器
 
 有六个文氏管连接到由压气机进口接出的一根总管上。而各文氏管出口被接到一根与各个引射器气流出口相通的总管上。
@@ -9660,11 +9660,11 @@ T 热电偶时间常数
 
 
 
-## Chunk 86
+## Chunk 86 (Original Pages 426-430)
 
 约降低 \(20 \%\) ，见图 \(^ 1\) 。
 
-![](images/bab199d787ff625e9e08bac2dcfe3e013463de1a4bcfc50df62f11af88d77745.jpg)  
+![](extracted_chunk_086/images/bab199d787ff625e9e08bac2dcfe3e013463de1a4bcfc50df62f11af88d77745.jpg)  
 图1三元件文氏管热电偶特性
 
 如将带热电偶丝的文氏管部件的实际特性与一个简单孔（Q曲线相应于 \(\mathrm { M } \sqrt { \mathrm { ~ T ~ } } / \mathrm { P }\) \(= 0 . 0 0 7 4\) 的，见图2）的特性比较，发现非常一致。这就使我们可以认为有或没有电偶丝的文氏管特性之间的差别，主要是由于文氏管喉部有电偶存在引起气流分离造成的。某些结果可能是由文氏管进口处的扰动和涡流影响造成的，但这种影响也许很小，且很难估计。
@@ -9687,7 +9687,7 @@ T 热电偶时间常数
 
 进行了引射器特性试验。
 
-![](images/56206201174b6dbe42c23ffb0d59ce1499045e19fb7f08954375c29f6aa94e8e.jpg)  
+![](extracted_chunk_086/images/56206201174b6dbe42c23ffb0d59ce1499045e19fb7f08954375c29f6aa94e8e.jpg)  
 图2三元件式文氏管组件（带电偶丝）的特性与简单孔板式限流器特性的比较  
 1965.5.21第1版
 
@@ -9807,7 +9807,7 @@ T 热电偶时间常数
 
 
 
-## Chunk 87
+## Chunk 87 (Original Pages 431-435)
 
 因此，对这个状态来说，容许的最大变化率（ \(\mathbf { X } _ { \mathbf { m a x } }\) 为 \(1 2 . 1 \mathrm { { ^ { \circ } C } } ,\) 秒。
 
@@ -9897,7 +9897,7 @@ T 热电偶时间常数
 
 出
 
-![](images/38cee62030c3c5db1654f5d7f69835971cb8d5952fde3145b5c2823d3f289e86.jpg)  
+![](extracted_chunk_087/images/38cee62030c3c5db1654f5d7f69835971cb8d5952fde3145b5c2823d3f289e86.jpg)  
 图1斯贝MK202进气温度变化率极限值的估算
 
 第十一部分
@@ -10015,7 +10015,7 @@ AVCAT JP·5
 
 
 
-## Chunk 88
+## Chunk 88 (Original Pages 436-440)
 
 1.2位移
 
@@ -10027,7 +10027,7 @@ AVCAT JP·5
 
 图1示出的是本装置要求的‘有效’特性。整个行程为线性的。当规定电压基准值\(= 3 \pm 5 \%\) 伏（有效值)，反馈及输出绕组的阻抗为12千欧，环境温度为 \(2 2 ^ { \circ } \mathrm { C } \pm 0 ^ { \circ } \mathrm { C }\) 时，输出特性斜率的设计中心为0.112伏/伏（基准）/度（机械的） \(\pm 5 \%\) 。
 
-![](images/d66662a4382ca3d53edb263c933d068e5d44fd4cba30936f2bb097730d4c7f7e.jpg)  
+![](extracted_chunk_088/images/d66662a4382ca3d53edb263c933d068e5d44fd4cba30936f2bb097730d4c7f7e.jpg)  
 图1控制系统要求的带有精度的极限有效名义特性
 
 在本资料允许的各种条件下，励磁绕组所需电压不超过20伏（有效值）。
@@ -10042,7 +10042,7 @@ AVCAT JP·5
 
 ## 1.4系统阻抗
 
-![](images/afd15d982360ad4f7f11383de84c999234798c78e1a88f09f5435659b0d4e10a.jpg)  
+![](extracted_chunk_088/images/afd15d982360ad4f7f11383de84c999234798c78e1a88f09f5435659b0d4e10a.jpg)  
 图2名义特性斜率的允许变化
 
 输出和反馈绕组负载电阻为 \(12 \pm 1 0 \%\) 千欧，并可用0.005微法电容分流。
@@ -10193,18 +10193,18 @@ AVCAT JP.5
 空气温度 \(5 ~ \%\)   
 安装座温度 \(1 0 0 \mathrm { { ^ \circ C } }\)
 
-![](images/26f8aab013f3b67fe7429f2ba63009ce31c5e1d75f4144b98bd556d703dd1e65.jpg)  
+![](extracted_chunk_088/images/26f8aab013f3b67fe7429f2ba63009ce31c5e1d75f4144b98bd556d703dd1e65.jpg)  
 图1
 
 
 
-## Chunk 89
+## Chunk 89 (Original Pages 441-441)
 
 # 第十五部分
 
 斯贝MK202进口导流叶片和放气活门的典型调节计划
 
-![](images/3a71546676a452dfc5ca465abdbb1c9929bc8883d969940a8682d5457b2c6509.jpg)  
+![](extracted_chunk_089/images/3a71546676a452dfc5ca465abdbb1c9929bc8883d969940a8682d5457b2c6509.jpg)  
 图1
 
 # 第十六部分
