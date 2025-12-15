@@ -190,13 +190,15 @@ def extract_image_refs_from_text(text: str) -> list:
 # Structured Translation
 # ============================================================================
 
-def build_structured_prompt(chunk_text: str, chunk_num: int, images: list, image_refs: list) -> str:
+def build_structured_prompt(chunk_text: str, chunk_num: int, images: list, image_refs: list, 
+                            source_language: str = "Russian", document_context: str = "military/technical") -> str:
     """Build prompt for structured JSON output."""
     
-    prompt = f"""You are translating a Chinese technical document about the Spey MK202 aircraft engine to English.
+    prompt = f"""You are translating a {source_language} technical document to English.
+This is a {document_context} document that may contain specialized terminology.
 
 === TASK ===
-Translate the Chinese text below and return a structured JSON response.
+Translate the {source_language} text below and return a structured JSON response.
 
 === OUTPUT FORMAT ===
 Return ONLY valid JSON with this structure:
@@ -244,7 +246,9 @@ Return the JSON response:"""
 
 
 def translate_chunk_structured(chunk_num: int, chunk_text: str, output_dir: str, 
-                                start_page: int = None, end_page: int = None) -> dict:
+                                start_page: int = None, end_page: int = None,
+                                source_language: str = "Russian", 
+                                document_context: str = "military/technical") -> dict:
     """Translate a chunk and return structured output."""
     
     # Find images
@@ -255,7 +259,8 @@ def translate_chunk_structured(chunk_num: int, chunk_text: str, output_dir: str,
     content = []
     
     # Text prompt
-    prompt = build_structured_prompt(chunk_text, chunk_num, images, image_refs)
+    prompt = build_structured_prompt(chunk_text, chunk_num, images, image_refs, 
+                                     source_language, document_context)
     content.append({"type": "text", "text": prompt})
     
     # Add images for visual analysis
@@ -292,42 +297,140 @@ def translate_chunk_structured(chunk_num: int, chunk_text: str, output_dir: str,
         if json_match:
             json_str = json_match.group()
             
-            # Fix common JSON escape issues from LLM output
-            def fix_escapes(s):
-                def escape_handler(match):
-                    char_after = match.group(1)
-                    if char_after in ('"', '\\', '/', 'b', 'f', 'n', 'r', 't'):
-                        return '\\' + char_after
-                    if char_after == 'u':
-                        return '\\u'
-                    return '\\\\' + char_after
-                return re.sub(r'\\(.)', escape_handler, s)
-            
-            # Fix common JSON syntax issues from LLM
-            def fix_json_syntax(s):
-                # Remove trailing commas before } or ]
+            def robust_json_repair(s: str) -> str:
+                """
+                Robustly repair malformed JSON from LLM output.
+                Handles:
+                - Missing commas between elements
+                - Trailing commas
+                - Unescaped special characters in strings
+                """
+                # Step 1: Fix trailing commas before } or ]
                 s = re.sub(r',(\s*[}\]])', r'\1', s)
-                # Add missing commas between } and { or } and "
+                
+                # Step 2: Fix missing commas - multiple patterns
+                # Between closing and opening braces/brackets
                 s = re.sub(r'\}(\s*)\{', r'},\1{', s)
                 s = re.sub(r'\}(\s*)"', r'},\1"', s)
-                # Add missing commas between ] and { or ] and "
                 s = re.sub(r'\](\s*)\{', r'],\1{', s)
                 s = re.sub(r'\](\s*)"', r'],\1"', s)
-                # Add missing commas between string values: "..." "..."
-                s = re.sub(r'"(\s+)"(?=[a-zA-Z_])', r'",\1"', s)
+                s = re.sub(r'\](\s*)\[', r'],\1[', s)
+                
+                # Between string values (key-value context)
+                # Pattern: "value" "key": -> "value", "key":
+                s = re.sub(r'"(\s+)"([a-zA-Z_][a-zA-Z0-9_]*)"(\s*):', r'",\1"\2"\3:', s)
+                
+                # Pattern: "value" followed by number or boolean or null
+                s = re.sub(r'"(\s+)(true|false|null|\d)', r'",\1\2', s)
+                s = re.sub(r'(true|false|null|\d)(\s+)"', r'\1,\2"', s)
+                
+                # Step 3: Fix common unescaped backslashes before non-escape characters
+                # But be careful not to break valid escapes
+                def fix_escapes_in_string(match):
+                    content = match.group(1)
+                    # Escape backslashes that aren't followed by valid escape chars
+                    result = []
+                    i = 0
+                    while i < len(content):
+                        if content[i] == '\\':
+                            if i + 1 < len(content):
+                                next_char = content[i + 1]
+                                if next_char in '"\\bfnrt/':
+                                    result.append('\\')
+                                    result.append(next_char)
+                                    i += 2
+                                    continue
+                                elif next_char == 'u' and i + 5 < len(content):
+                                    # Unicode escape
+                                    result.append(content[i:i+6])
+                                    i += 6
+                                    continue
+                            # Invalid escape - double the backslash
+                            result.append('\\\\')
+                            i += 1
+                        else:
+                            result.append(content[i])
+                            i += 1
+                    return '"' + ''.join(result) + '"'
+                
+                # Apply string fix (simplified - just handle common cases)
+                # This is a bit risky so we only do it if initial parse fails
+                
                 return s
             
-            # Apply fixes
-            json_str_fixed = fix_escapes(json_str)
-            json_str_fixed = fix_json_syntax(json_str_fixed)
+            def iterative_json_parse(s: str, max_attempts: int = 10):
+                """
+                Iteratively try to parse JSON, fixing errors at reported positions.
+                """
+                for attempt in range(max_attempts):
+                    try:
+                        return json.loads(s)
+                    except json.JSONDecodeError as e:
+                        error_msg = str(e)
+                        pos = e.pos
+                        
+                        if "Expecting ',' delimiter" in error_msg:
+                            # Insert comma at the error position
+                            insert_pos = pos
+                            while insert_pos > 0 and s[insert_pos - 1] in ' \t\n\r':
+                                insert_pos -= 1
+                            s = s[:insert_pos] + ',' + s[insert_pos:]
+                            
+                        elif "Expecting property name" in error_msg:
+                            # Usually a trailing comma before } - remove it
+                            # Look backwards for the comma
+                            search_pos = pos - 1
+                            while search_pos > 0 and s[search_pos] in ' \t\n\r':
+                                search_pos -= 1
+                            if search_pos >= 0 and s[search_pos] == ',':
+                                s = s[:search_pos] + s[search_pos + 1:]
+                            else:
+                                # Could be an unquoted key - try to fix
+                                # Find the start of the problematic token
+                                start = pos
+                                while start < len(s) and s[start] in ' \t\n\r':
+                                    start += 1
+                                end = start
+                                while end < len(s) and s[end] not in ' \t\n\r:,{}[]"':
+                                    end += 1
+                                if start < end:
+                                    token = s[start:end]
+                                    s = s[:start] + '"' + token + '"' + s[end:]
+                                else:
+                                    raise  # Can't fix
+                                    
+                        elif "Expecting ':' delimiter" in error_msg:
+                            s = s[:pos] + ':' + s[pos:]
+                            
+                        elif "Unterminated string" in error_msg:
+                            s = s[:pos] + '"' + s[pos:]
+                            
+                        elif "Expecting value" in error_msg:
+                            # Missing value - insert empty string
+                            s = s[:pos] + '""' + s[pos:]
+                            
+                        else:
+                            # Unknown error - can't fix
+                            raise
+                            
+                return json.loads(s)
+            
+            # Apply repairs and try to parse
+            json_str_fixed = robust_json_repair(json_str)
             
             try:
                 parsed = json.loads(json_str_fixed)
             except json.JSONDecodeError:
-                # Try more aggressive fixes
-                # Sometimes LLM outputs unquoted keys
-                json_str_fixed = re.sub(r'(\{|\,)\s*([a-zA-Z_][a-zA-Z0-9_]*)\s*:', r'\1"\2":', json_str_fixed)
-                parsed = json.loads(json_str_fixed)
+                try:
+                    # Try iterative repair
+                    parsed = iterative_json_parse(json_str_fixed)
+                except json.JSONDecodeError:
+                    # Try with unquoted keys fixed first
+                    json_str_fixed = re.sub(r'(\{|,)\s*([a-zA-Z_][a-zA-Z0-9_]*)\s*:', r'\1"\2":', json_str_fixed)
+                    try:
+                        parsed = iterative_json_parse(json_str_fixed)
+                    except json.JSONDecodeError:
+                        raise
             
             # Build page range string
             original_pages = None
@@ -430,10 +533,21 @@ def parse_chunks_from_markdown(content: str) -> list:
 # Main Translation Function
 # ============================================================================
 
-def translate_document_structured(input_file: str, output_dir: str):
-    """Main translation function with structured output."""
+def translate_document_structured(input_file: str, output_dir: str, 
+                                   source_language: str = "Russian",
+                                   document_context: str = "military/technical"):
+    """Main translation function with structured output.
+    
+    Args:
+        input_file: Path to the input markdown file
+        output_dir: Output directory for results
+        source_language: Source language of the document (default: Russian)
+        document_context: Context/subject of the document (default: military/technical)
+    """
     
     print(f"Loading: {input_file}")
+    print(f"Source language: {source_language}")
+    print(f"Document context: {document_context}")
     with open(input_file, 'r', encoding='utf-8') as f:
         content = f.read()
     
@@ -476,7 +590,8 @@ def translate_document_structured(input_file: str, output_dir: str):
         page_info = f" [pages {start_page}-{end_page}]" if start_page and end_page else ""
         print(f"  [Chunk {chunk_num:02d}]{page_info} Translating ({len(chunk_text)} chars, {len(images)} images)...")
         
-        result = translate_chunk_structured(chunk_num, chunk_text, output_dir, start_page, end_page)
+        result = translate_chunk_structured(chunk_num, chunk_text, output_dir, start_page, end_page,
+                                            source_language, document_context)
         
         if result["success"]:
             with progress_lock:
@@ -542,6 +657,8 @@ def translate_document_structured(input_file: str, output_dir: str):
     final_output = {
         "metadata": {
             "source_file": input_file,
+            "source_language": source_language,
+            "document_context": document_context,
             "total_chunks": len(chunks),
             "translated_chunks": len(completed_chunks),
             "total_images": total_images,
@@ -574,16 +691,34 @@ def translate_document_structured(input_file: str, output_dir: str):
 # ============================================================================
 
 if __name__ == "__main__":
+    import argparse
+    
     if not NVIDIA_API_KEY:
         print("Error: NVIDIA_API_KEY environment variable not set")
         sys.exit(1)
     
-    input_file = "/Users/avinash/Desktop/project/minerU/engine_output/combined_extracted.md"
-    output_dir = "/Users/avinash/Desktop/project/minerU/engine_output"
+    parser = argparse.ArgumentParser(description='Translate structured documents')
+    parser.add_argument('input_file', nargs='?', 
+                        default="/Users/avinash/Desktop/project/minerU/engine_output/combined_extracted.md",
+                        help='Path to input markdown file')
+    parser.add_argument('output_dir', nargs='?',
+                        default="/Users/avinash/Desktop/project/minerU/engine_output",
+                        help='Output directory')
+    parser.add_argument('--source-language', '-l', default='Russian',
+                        help='Source language (default: Russian)')
+    parser.add_argument('--context', '-c', default='military/technical',
+                        help='Document context (default: military/technical)')
+    parser.add_argument('--restart', '-r', action='store_true',
+                        help='Restart translation from scratch (delete progress file)')
     
-    if len(sys.argv) > 1:
-        input_file = sys.argv[1]
-    if len(sys.argv) > 2:
-        output_dir = sys.argv[2]
+    args = parser.parse_args()
     
-    translate_document_structured(input_file, output_dir)
+    # Handle restart option
+    if args.restart:
+        progress_file = os.path.join(args.output_dir, "structured_translation_progress.json")
+        if os.path.exists(progress_file):
+            os.remove(progress_file)
+            print(f"Removed progress file: {progress_file}")
+    
+    translate_document_structured(args.input_file, args.output_dir, 
+                                   args.source_language, args.context)
